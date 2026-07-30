@@ -1,0 +1,16 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/home/", "destination": "/", "permanent": true },
+    { "source": "/about-draft/", "destination": "/about/", "permanent": true },
+    { "source": "/copy-of-faq-1/", "destination": "/faq/", "permanent": true },
+    { "source": "/new-home-page/", "destination": "/", "permanent": true },
+    { "source": "/new-testing-page/", "destination": "/", "permanent": true },
+    { "source": "/old-property-owners/", "destination": "/property-owners/", "permanent": true },
+    { "source": "/webinar-registration/", "destination": "/", "permanent": true },
+    { "source": "/how-to-s/", "destination": "/blog/", "permanent": true },
+    { "source": "/property-owners/", "destination": "https://www.beautifyearth.com/property-owners", "permanent": true },
+    { "source": "/schools/", "destination": "/", "permanent": false },
+    { "source": "/nonprofit-donate/", "destination": "/nonprofit/", "permanent": false }
+  ]
+}

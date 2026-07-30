@@ -1,0 +1,13 @@
+{
+  "name": "beautifyearth-org",
+  "version": "1.0.0",
+  "description": "Beautify Earth (.org) — static site migrated from Wix",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "download-images": "node scripts/download-images.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

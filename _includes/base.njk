@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="canonical" href="https://www.beautifyearth.org{{ page.url }}">
+<meta property="og:title" content="{{ title }}">
+{% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
+<meta property="og:url" content="https://www.beautifyearth.org{{ page.url }}">
+<style>
+  :root { --ink:#181a1d; --accent:#1b7fa8; --accent-dark:#14607f; --green:#2ec98c; --muted:#6b7075; --line:#e7eaec; --wash:#f6f9fa; }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin:0; font-family:'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; color:var(--ink); line-height:1.7; font-size:17px; background:#fff; }
+  a { color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2px; }
+  a:hover { color:var(--accent-dark); }
+
+  header { border-bottom:1px solid var(--line); background:#fff; position:sticky; top:0; z-index:10; }
+  .nav { max-width:1080px; margin:0 auto; padding:14px 20px; display:flex; flex-wrap:wrap; gap:8px 22px; align-items:center; }
+  .nav .brand { display:flex; align-items:center; gap:10px; margin-right:auto; text-decoration:none; }
+  .nav .brand img { height:34px; width:auto; display:block; }
+  .nav a:not(.brand) { color:var(--ink); text-decoration:none; font-size:14.5px; font-weight:500; letter-spacing:.2px; padding:4px 0; border-bottom:2px solid transparent; }
+  .nav a:not(.brand):hover { color:var(--accent); }
+  .nav .cta { background:var(--accent); color:#fff !important; padding:8px 16px; border-radius:999px; font-weight:600; }
+  .nav .cta:hover { background:var(--accent-dark); }
+
+  main { max-width:760px; margin:0 auto; padding:40px 20px 72px; }
+  h1 { font-size:clamp(30px, 5vw, 42px); line-height:1.15; letter-spacing:-.5px; margin:0 0 18px; }
+  h2 { font-size:clamp(22px, 3.5vw, 28px); line-height:1.25; margin:44px 0 12px; letter-spacing:-.3px; }
+  h3, h4 { margin:32px 0 10px; line-height:1.3; }
+  p { margin:0 0 18px; }
+  ul, ol { padding-left:24px; margin:0 0 18px; }
+  li { margin-bottom:6px; }
+  main img { max-width:100%; height:auto; border-radius:10px; display:block; margin:26px auto; }
+  main video { width:100%; border-radius:10px; display:block; margin:26px auto; background:#000; }
+  blockquote { margin:26px 0; padding:4px 0 4px 20px; border-left:3px solid var(--green); color:#3a3f44; font-style:italic; }
+  blockquote p { margin-bottom:8px; }
+  hr { border:none; border-top:1px solid var(--line); margin:40px 0; }
+  em { color:inherit; }
+  .postmeta { color:var(--muted); font-size:14px; margin:0 0 30px; }
+
+  .postlist { list-style:none; padding:0; margin:24px 0 0; }
+  .postlist li { margin:0 0 14px; border:1px solid var(--line); border-radius:12px; padding:18px 20px; background:#fff; transition:border-color .15s, box-shadow .15s; }
+  .postlist li:hover { border-color:#c9d6dc; box-shadow:0 2px 12px rgba(24,26,29,.06); }
+  .postlist a { color:var(--ink); text-decoration:none; font-weight:600; font-size:18px; line-height:1.35; display:block; }
+  .postlist a:hover { color:var(--accent); }
+  .postlist .d { color:var(--muted); font-size:13.5px; }
+
+  footer { border-top:1px solid var(--line); background:var(--wash); margin-top:40px; }
+  .foot { max-width:1080px; margin:0 auto; padding:32px 20px; font-size:14px; color:var(--muted); display:flex; flex-wrap:wrap; gap:14px 28px; justify-content:space-between; align-items:center; }
+  .foot a { color:var(--muted); text-decoration:none; }
+  .foot a:hover { color:var(--accent); }
+  .foot .social { display:flex; gap:18px; }
+</style>
+</head>
+<body>
+<header>
+  <nav class="nav">
+    <a class="brand" href="/" aria-label="Beautify Earth home"><img src="/images/035a3a7adf-55dc19_33494c6aff084bceb5448f7eb71ed71f_mv2.png" alt="Beautify Earth"></a>
+    <a href="/about/">About</a>
+    <a href="/how-it-works/">How It Works</a>
+    <a href="https://art.beautifyearth.com/artists">Artists</a>
+    <a href="/cities-and-communities/">Cities</a>
+    <a href="/nonprofit/">Nonprofit</a>
+    <a href="/blog/">Blog</a>
+    <a href="/faq/">FAQ</a>
+    <a class="cta" href="https://art.beautifyearth.com/signup">Post a Project</a>
+  </nav>
+</header>
+<main>
+{{ content | safe }}
+</main>
+<footer>
+  <div class="foot">
+    <span>© Beautify Earth — producing, promoting, and advocating for art on the streets since 2012. Certified 501(c)(3).</span>
+    <span class="social">
+      <a href="https://www.instagram.com/beautifyearth/">Instagram</a>
+      <a href="https://www.linkedin.com/company/beautifyearth/">LinkedIn</a>
+      <a href="https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw">YouTube</a>
+    </span>
+    <span><a href="/privacy/">Privacy</a> · <a href="https://www.beautifyearth.com">beautifyearth.com</a></span>
+  </div>
+</footer>
+</body>
+</html>
