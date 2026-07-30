@@ -24,4 +24,4 @@ The first implementation occurred at Lincoln Middle School (15th and California)
 
 Sgt Scott McGee added: "Serving the community that I grew up in is a great honor... Being able to bring a lightness, beauty and a symbol of transformation through these butterflies is a positive step."
 
-The organization seeks to "Butterfly" Santa Monica and expand citywide. Community support is welcomed through [donations](https://www.beautifyearth.com/nonprofit-donate) or [school mural sign-ups](https://marketplace.beautifyearth.com/signup).
+The organization seeks to "Butterfly" Santa Monica and expand citywide. Community support is welcomed through [donations](/nonprofit/) or [school mural sign-ups](https://marketplace.beautifyearth.com/signup).

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/denver-ymca-s-mural-carries-the-brand-s-message-visually-to-its-community/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Date:** Dec 21, 2020 | **Updated:** Jan 8, 2021
 
@@ -18,11 +18,11 @@ permalink: "/post/denver-ymca-s-mural-carries-the-brand-s-message-visually-to-it
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 ![Mural at YMCA in Denver by Michael Ortiz, sponsored by EcoMedia](/images/5d12b47ee5-e1ec93_a738d1b8a89f4b2f808d7649ee47982e_mv2.jpg)
 
-*Mural at YMCA in Denver by* [*Michael Ortiz*](https://michaelortizart.com/?p=2480)*, sponsored by* [*EcoMedia*](https://www.3blmedia.com/Profiles/EcoMedia)
+*Mural at YMCA in Denver by* *Michael Ortiz**, sponsored by* [*EcoMedia*](https://www.3blmedia.com/Profiles/EcoMedia)
 
 Ecomedia, a CBS-owned company, sponsors what they consider to be "critical, yet underfunded, environmental, health, and education projects in communities nationwide." It's a new way that brands and companies are finding to deliver experiential marketing rather than self-promoting ads.
 

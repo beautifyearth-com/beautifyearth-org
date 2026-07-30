@@ -8,7 +8,6 @@ permalink: "/back-to-the-streets/"
 
 ## Header Navigation
 
-## Hero Section
 
 # #backtothestreets
 
@@ -16,7 +15,7 @@ Reviving Main Street with Street Art
 
 Back to the Streets is a nationwide effort to jump-start our return to public life during the pandemic by rebuilding local communities through art.
 
-## Three Core Pillars Section
+## Three Core Pillars
 
 #### PROTECT
 main streets from becoming abandoned by upkeeping them with murals
@@ -27,7 +26,7 @@ to return & celebrate humanity and our victory together
 #### SUPPORT
 local heroes, cultures & economies, public health, & essential workers
 
-## Partnership Call-to-Action Section
+## Partnership Call-to-Action
 
 # Partner with us to bring life back to our streets and make them better than ever.
 
@@ -35,7 +34,7 @@ local heroes, cultures & economies, public health, & essential workers
 
 *Eric Garcetti | Mayor, Los Angeles*
 
-## How It Works Section
+## How It Works
 
 # 01.
 # Sponsors choose communities or walls
@@ -48,7 +47,7 @@ local heroes, cultures & economies, public health, & essential workers
 
 ## How It Works
 
-## Impact Statistics Section
+## Impact Statistics
 
 ## 2000+ Murals.
 ## 100+ Cities.
@@ -58,7 +57,7 @@ Thanks to the help of sponsors, in the past we have been able to create 1000's o
 
 [Map image: map 4-27.png â€” see Images list]
 
-## Participation Benefits Section
+## Participation Benefits
 
 #### CREATE
 tons of inspiring AR, video/photo, or other user-generated content
@@ -69,7 +68,7 @@ if you've been waiting to help your community, now is the time
 #### GIVE BACK
 all proceeds for this campaign go directly to beautify our schools
 
-## How to Participate Section
+## How to Participate
 
 # How can you participate?
 
@@ -79,7 +78,7 @@ Make your portfolio dope! Sponsors will be looking for you!
 
 #### Sponsors
 Sponsor murals in the locations or communities of your choice.
-[Sign Up](https://www.beautifyearth.org/brands-agencies)
+[Sign Up](/brands-agencies)
 
 #### Wall Owners
 Add your wall to be listed for a sponsorship opportunity, or sponsor your own wall.
@@ -88,8 +87,6 @@ Add your wall to be listed for a sponsorship opportunity, or sponsor your own wa
 #### Everyone
 Favorite the pieces you love. Top-voted walls & art is highlighted to become a mural.
 [Sign Up](https://marketplace.beautifyearth.com/#/signup)
-
-## Footer Section
 
 # Join us to beautify the world.
 

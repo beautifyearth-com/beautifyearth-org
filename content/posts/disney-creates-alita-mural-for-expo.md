@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/disney-creates-alita-mural-for-expo/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Mar 19, 2020
 **Read Time:** 1 min read
@@ -17,7 +17,7 @@ permalink: "/post/disney-creates-alita-mural-for-expo/"
 
 Beautify Earth created this wonderful mural with Disney to engage individuals who love this heroic figure, by posing under the "I do not standby" bubble. The mural was created for the world to enjoy while the QR is used to activate an AR experience powered by Facebook Spark.
 
-**[#IDoNotStandby](https://www.beautifyearth.org/blog/hashtags/IDoNotStandby) received tens of thousands of posts, likes, comments and shares across all major social platforms.**
+**#IDoNotStandby received tens of thousands of posts, likes, comments and shares across all major social platforms.**
 
 ## Additional Info.
 

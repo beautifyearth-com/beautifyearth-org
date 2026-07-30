@@ -20,7 +20,7 @@ Eric Camarena wanted to remake neglected walls in his home city. He found mural 
 
 Our online platform has helped people beautify walls in more than 100 cities.
 
-[Contact us](https://www.beautifyearth.com/local-organizations) to discuss how we can beautify yours.
+[Contact us](/local-organizations/) to discuss how we can beautify yours.
 
 *Mural outside Del Rey Elementary School in Victorville, CA, painted by [Sara Sandoval](https://marketplace.beautifyearth.com/artists/sarasandoval)*
 
@@ -38,7 +38,7 @@ As a public communications professional, Eric is well aware that most visitors t
 
 Instead, tourists and travelers who pull off Interstate 15 between L.A. and Vegas first see the mostly abandoned business strip of Old Town Victorville. While various agencies work to rebuild and revitalize the area, Eric had an idea for an immediate first upgrade. "There's a group working with the city, focused on the hardcore fundamental aspects of building and developing an area," he says. "I just thought, while you work on that, let's paint some murals and add some color."
 
-Eric was working with a local development group who had a grant which they hadn't fully budgeted yet. We had met a year earlier when I was painting [a mural nearby](https://www.beautifyearth.com/post/puesta-del-sol) sponsored by CBS and Sit 'n Sleep. Eric is a passionate, warm-hearted guy looking to create a better community, and a sense of well-being for Victorville. He understands the power of art and the positive impact it creates, culturally, and economically. He called me to ask how Beautify could help him transform more of the prominent walls around town.
+Eric was working with a local development group who had a grant which they hadn't fully budgeted yet. We had met a year earlier when I was painting [a mural nearby](/post/puesta-del-sol/) sponsored by CBS and Sit 'n Sleep. Eric is a passionate, warm-hearted guy looking to create a better community, and a sense of well-being for Victorville. He understands the power of art and the positive impact it creates, culturally, and economically. He called me to ask how Beautify could help him transform more of the prominent walls around town.
 
 This is the kind of project for which we conceived Beautify. Our platform makes it easy for city officials and local organizers to find artists, review proposed art, and track schedules and payments in one place, instead of chasing down artists and handling every one separately by email or phone.
 

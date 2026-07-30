@@ -27,4 +27,4 @@ Hundreds of students and even a few teachers came out to support our artists and
 
 Thank you UCLA!
 
-**Categories:** [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit), [Education](https://www.beautifyearth.org/blog/categories/education)
+

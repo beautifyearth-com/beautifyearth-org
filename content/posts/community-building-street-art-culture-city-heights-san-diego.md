@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/community-building-street-art-culture-city-heights-san-diego/"
 ---
 
-**Author:** [Maria Bertrand](https://www.beautifyearth.org/profile/inspirebydoing/profile)
+**Author:** [Maria Bertrand](/profile/inspirebydoing/profile)
 
 **Date:** Jul 15, 2020 | 3 min read
 
@@ -32,7 +32,7 @@ Love City Heights has been featured on news stations such as ABC 10 News on thei
 
 When asked what a leader is, this is what Carlos replied: "To me, a leader is someone who HAS to do something about an issue they are passionate about that will benefit those around them and the community as a whole. It should never be about the leader, it should always be about the cause". We all admire our local heroes who have shined throughout this COVID19 pandemic, but we also have other neighborhood heroes, like Carlos, who stay steadfast on their community building quest to make our neighborhoods more beautiful, friendlier, and safer for everyone. Beautify Earth is looking forward to partnering with more organizations and making it easier for them to bring people together through art and culture, and easier for you to find local murals in your neighborhood.
 
-[Learn more](https://www.beautifyearth.com/local-organizations) about how Beautify Earth partners with local organizations to help them enhance their communities and cultures through art.
+[Learn more](/local-organizations/) about how Beautify Earth partners with local organizations to help them enhance their communities and cultures through art.
 
 Love,
 

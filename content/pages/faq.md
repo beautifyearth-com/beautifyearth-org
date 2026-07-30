@@ -66,7 +66,7 @@ Beautify's 30% commission covers the following:
 - Insurance
 - Payments
 
-Beautify also donates 1% of net profits to the [Beautify Earth Foundation](https://www.beautifyearth.org).
+Beautify also donates 1% of net profits to the [Beautify Earth Foundation](/).
 
 For larger projects, Beautify may reduce its commission and/or donate a larger percentage of net profits to the Beautify Earth Foundation.
 

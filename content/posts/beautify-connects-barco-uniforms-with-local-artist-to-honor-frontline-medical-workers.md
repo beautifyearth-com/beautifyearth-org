@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/beautify-connects-barco-uniforms-with-local-artist-to-honor-frontline-medical-workers/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Date:** Jan 18, 2021 | **Updated:** Feb 1, 2021
 **Read time:** 2 min
@@ -19,7 +19,7 @@ permalink: "/post/beautify-connects-barco-uniforms-with-local-artist-to-honor-fr
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 *Mural in Los Angeles for Barco Uniforms by* [*Samir Evol*](https://marketplace.beautifyearth.com/artists/samirevol)
 
@@ -39,6 +39,6 @@ Sponsoring a mural, rather than hawking their own products, ties into Barco's sl
 
 ## Recent Posts
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [A Call to Action (Gather Homes)](/post/a-call-to-action-gather-homes)

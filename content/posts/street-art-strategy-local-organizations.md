@@ -50,21 +50,21 @@ Over the years, Beautify has completed 1000's of murals and street activations t
 
 - Invite to register on Beautify Earth platform
 - Encourage artists to send proposals for walls (with monthly outreach/or some consistency)
-- [Benefits to artists](https://www.beautifyearth.com/artists)
+- [Benefits to artists](/artists/)
 
 *Wall Owners*
 
 - Create email/newsletter outreach to wall owners/businesses in your network
 - Help connect key wall owners with sponsors for collaborative projects
 - Help coordinate 'unveiling' events with wall owners
-- [Benefits to wall owners](https://www.beautifyearth.com/local-business)
+- [Benefits to wall owners](/local-business/)
 
 *Community/Influencers*
 
 - Create working group to get commitment and designate responsibility to local influencers and street art advocates
 - Share Street Art strategy with influencers and encourage input
 - Create a calendar of events & tie the street art campaign in with existing programs in the community.
-- [Benefits to community members](https://www.beautifyearth.com/community-members)
+- [Benefits to community members](/community-members/)
 
 **Identify all channels you will use to engage key stakeholders (artists, wall owners, community etc.) on an ongoing basis towards your KPI deadline.**
 
@@ -80,4 +80,4 @@ Over the years, Beautify has completed 1000's of murals and street activations t
 
 List your key activities on a calendar towards the deadline you have given to achieve KPIs.
 
-Haven't gotten started yet or need more info? [Contact us](http://beautifyearth.com/local-organizations)
+Haven't gotten started yet or need more info? [Contact us](/local-organizations/)

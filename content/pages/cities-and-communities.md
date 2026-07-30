@@ -6,10 +6,8 @@ layout: page.njk
 permalink: "/cities-and-communities/"
 ---
 
-Canonical URL: https://www.beautifyearth.org/cities-and-communities
+Canonical URL: /cities-and-communities
 
-
-## Main Content
 
 # Cities & Communities
 

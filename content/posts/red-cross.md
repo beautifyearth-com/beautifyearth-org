@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/red-cross/"
 ---
 
-- **Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+- **Author:** [Beautify Team](/profile/eric/profile)
 - **Date:** Mar 11, 2017
 - **Read Time:** 1 min read
 - **Updated:** Mar 11, 2020

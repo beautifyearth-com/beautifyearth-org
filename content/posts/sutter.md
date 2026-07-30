@@ -24,4 +24,4 @@ The organization engages students through design contests where student submissi
 
 Beautify Earth's core philosophy prioritizes community participation over organizational dependence, aiming to inspire collective action where painting becomes the standard practice.
 
-**Categories:** nonprofit, Projects, Education
+

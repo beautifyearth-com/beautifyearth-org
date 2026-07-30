@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/beautify-partners-with-the-junction-downtown-west-seattle/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Published:** Jan 12, 2020
 **Updated:** Mar 11, 2020

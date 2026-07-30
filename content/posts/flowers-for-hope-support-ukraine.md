@@ -16,8 +16,8 @@ permalink: "/post/flowers-for-hope-support-ukraine/"
 
 The initiative aims to raise funds enabling Ukrainian painters to create sunflower murals—representing "hope and resilience"—on authorized walls throughout war-affected regions of Ukraine.
 
-[Trek Thunder Kelly](https://www.instagram.com/trekthunderkelly/?hl=en), an artist-activist, leads this effort alongside collaborators. The project partners with [Roji](https://roji.io/) and [Beautify Earth](https://www.beautifyearth.com/nonprofit) to deliver "bright yellow sunflowers in some of the areas most impacted by the war" as reminders of Ukrainian strength.
+[Trek Thunder Kelly](https://www.instagram.com/trekthunderkelly/?hl=en), an artist-activist, leads this effort alongside collaborators. The project partners with [Roji](https://roji.io/) and [Beautify Earth](/nonprofit/) to deliver "bright yellow sunflowers in some of the areas most impacted by the war" as reminders of Ukrainian strength.
 
 Revenue from NFTs created from participating artwork will support regional humanitarian initiatives. Global artists can contribute through [www.roji.io](http://www.roji.io/).
 
-**To contribute:** Visit [https://www.beautifyearth.com/nonprofit-donate](https://www.beautifyearth.com/nonprofit-donate) and note "Flowers of Hope" in comments for proper fund allocation.
+**To contribute:** Visit [https://www.beautifyearth.com/nonprofit-donate](/nonprofit/) and note "Flowers of Hope" in comments for proper fund allocation.

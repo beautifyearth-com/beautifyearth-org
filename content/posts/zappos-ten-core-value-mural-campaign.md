@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/zappos-ten-core-value-mural-campaign/"
 ---
 
-By [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+By [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 Dec 10, 2020 | 2 min read
 
@@ -16,11 +16,11 @@ Dec 10, 2020 | 2 min read
 
 ## Ten walls in ten cities bring the company's core values to vivid life.
 
-Our online platform has delivered results for more than 50 brands from local to global. [Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+Our online platform has delivered results for more than 50 brands from local to global. [Contact us](/brands-agencies/) to discuss what we can do for you.
 
 *Mural in Los Angeles by* [*Ruben Rojas*](https://marketplace.beautifyearth.com/artists/rubenrojas) *and* [*SEL*](https://marketplace.beautifyearth.com/artists/sel) *for Zappos*
 
-Brand managers today know that "[mural advertising isn't just billboards at street level](https://www.beautifyearth.com/post/experiential-marketing-the-antidote-to-mural-advertising)." But that wasn't always the case. I had the good fortune and pleasure to work with Zappos founder Tony Hsieh and team on one of the first large-scale experiential marketing campaigns done with murals.
+Brand managers today know that "mural advertising isn't just billboards at street level." But that wasn't always the case. I had the good fortune and pleasure to work with Zappos founder Tony Hsieh and team on one of the first large-scale experiential marketing campaigns done with murals.
 
 I had already been beautifying urban walls for four years when I connected with Tony's team in 2016. As part of Zappos' Downtown Project, an effort to restore the culture and well-being of downtown Las Vegas, Tony wanted to extend urban beautification to ten cities total across the United States. Each city's mural would illustrate one of Zappos' ten core principles, a list well-known in some circles but unknown to most, including customers.
 
@@ -49,4 +49,4 @@ The 10 core values of Zappos which help to define their unique culture are liste
 
 [*Evan Meyer*](https://www.linkedin.com/in/evan-meyer/) *is a co-founder and the CEO of Beautify.*
 
-**Categories:** [Community](https://www.beautifyearth.org/blog/categories/community) | [Projects](https://www.beautifyearth.org/blog/categories/projects) | [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/beautify-earth-expands-to-a-magical-village-in-mexico/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 **Date:** Mar 26, 2016
 **Reading Time:** 3 min read
 
@@ -16,7 +16,7 @@ It's amazing how powerful a simple idea can be. In February, I entered the city 
 
 So how does a simple idea go about turning into this?
 
-Within my 2 months of being in Mexico, I spent an entire month living in San Cristobal de las Casas. As soon as I arrived, I knew there was something special about this charming colonial town surrounded by mountains and jungle. Instead of traveling across Mexico, I decided to volunteer at [Planet Hostel](http://www.planethostel.com.mx/) while living among the melting pot of indigenous locals, Spanish mestizos, and foreigners from around the world. At the hostel I met a Mexican and German tourist couple who invited me to celebrate Carnivale in nearby San Juan Chamula with them and a person they met while exploring the town. This person ended up being a Turkish-American art gallery owner named Mac, and we quickly became good friends when I shared that I also used to live in Turkey, and how we see ourselves as citizens of the world.
+Within my 2 months of being in Mexico, I spent an entire month living in San Cristobal de las Casas. As soon as I arrived, I knew there was something special about this charming colonial town surrounded by mountains and jungle. Instead of traveling across Mexico, I decided to volunteer at Planet Hostel while living among the melting pot of indigenous locals, Spanish mestizos, and foreigners from around the world. At the hostel I met a Mexican and German tourist couple who invited me to celebrate Carnivale in nearby San Juan Chamula with them and a person they met while exploring the town. This person ended up being a Turkish-American art gallery owner named Mac, and we quickly became good friends when I shared that I also used to live in Turkey, and how we see ourselves as citizens of the world.
 
 I met many more world citizens as time progressed. Mac invited me to paint for his exhibition B-roma, which lightheartedly parodied the pope's upcoming visit to San Cris. Gustav, a Swedish friend I met a few weeks before while visiting the ancient Mayan ruins of Palenque, came by to see the exhibition, and brought Victor, who was staying at the same hostel as him. Coincidentally, Victor had just finished painting his first ever mural at the hostel, and we both were excited to meet each other when I told him about Beautify Earth and what I was doing in Mexico.
 
@@ -32,7 +32,7 @@ From there incredible things happened, and instead of explaining it myself, I'll
 
 "Art is my life's landscape; I feel it as a need and an answer to modern complexity. It's all about self empowerment through giving ourselves the freedom of seeing things differently. This is my first mural but certainly not last. The creation process was collective as it's always; in the streets people were adding laughs and stories to the one we were telling. Transform your street, your neighborhood it's your mind's extension. It's all yours. :)"
 
-So there you have it, the first [#beautifyearth](https://www.beautifyearth.org/blog/hashtags/beautifyearth) mural in Mexico. It started when I was inspired by BE's working in Santa Monica, California. Then that idea moved me to bring BE to Mexico, which moved an artist from Mexican city, an artist from Montreal, and a Turkish-American gallery owner, which then brought together locals, children, and other foreigners to help beautify San Cris. Seems like we really are starting to paint a picture of a more Beautiful Earth!
+So there you have it, the first #beautifyearth mural in Mexico. It started when I was inspired by BE's working in Santa Monica, California. Then that idea moved me to bring BE to Mexico, which moved an artist from Mexican city, an artist from Montreal, and a Turkish-American gallery owner, which then brought together locals, children, and other foreigners to help beautify San Cris. Seems like we really are starting to paint a picture of a more Beautiful Earth!
 
 **Facebook links:**
 
@@ -41,9 +41,7 @@ So there you have it, the first [#beautifyearth](https://www.beautifyearth.org/b
 - Flor: [https://www.facebook.com/flor.kandinsky?fref=ts](https://www.facebook.com/flor.kandinsky?fref=ts)
 - Jeremy: [https://www.facebook.com/japp113?fref=ts](https://www.facebook.com/japp113?fref=ts)
 
-**Tags:** [#beautifyvillage](https://www.beautifyearth.org/blog/hashtags/beautifyvillage) [#magic](https://www.beautifyearth.org/blog/hashtags/magic) [#mexico](https://www.beautifyearth.org/blog/hashtags/mexico) [#planethostel](https://www.beautifyearth.org/blog/hashtags/planethostel)
 
-**Categories:**
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [International](https://www.beautifyearth.org/blog/categories/international)
+- Community
+- nonprofit
+- International

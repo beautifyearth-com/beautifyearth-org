@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/"
 ---
 
-- [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+- [Sergio Cuculiza](/profile/sergio/profile)
 - Aug 18, 2016
 - 2 min read
 
@@ -18,7 +18,7 @@ Updated: Jan 31, 2021
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 *Mural by* [*Ruben Rojas*](https://marketplace.beautifyearth.com/artists/rubenrojas) *in Clarksdale, Mississippi for American Express*
 
@@ -34,8 +34,8 @@ CRI coordinator Katrina Zavalney explained the mural's value: "It's more than ju
 
 There are millions of communities that need some love and inspiration and a little bit of paint can go a long way. Help create another success story like this in a community near...or not near you.
 
-Sponsor a mural [here](https://www.beautifyearth.com/brands-agencies)!
+Sponsor a mural [here](/brands-agencies/)!
 
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
+- Community
+- Education
+- Projects

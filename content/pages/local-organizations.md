@@ -7,8 +7,6 @@ permalink: "/local-organizations/"
 ---
 
 
-## Main Content
-
 # Local Organizations
 
 ## Neighborhood Associations

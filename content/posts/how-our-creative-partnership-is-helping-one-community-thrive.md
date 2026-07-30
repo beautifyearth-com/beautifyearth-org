@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/how-our-creative-partnership-is-helping-one-community-thrive/"
 ---
 
-**Author:** [Maria Bertrand](https://www.beautifyearth.org/profile/inspirebydoing/profile)
+**Author:** [Maria Bertrand](/profile/inspirebydoing/profile)
 
 **Published:** Sep 11, 2020
 
@@ -26,13 +26,13 @@ The collaboration between The Pico Improvement Organization and Beautify Earth i
 
 PICO takes pride in their dedication to better their community and it shows in the drastic transformation of their neighborhood. One walk along Pico Blvd shows the commitment this organization has to its community, not only is the street art they helped bring to life a vibrant and beautiful guide along Pico Blvd from 3rd street all the way inland to 34th, it has also helped small business thrive in a safer environment and turned the street into quite the "scene" with restaurants and quaint bars bustling between beautifully painted walls.
 
-The first thing you see on the PICO website at [PicoPassport.com](http://www.picopassport.com) is whimsical street art created by Beautify Earth's Ruben Rojas, the piece titled Create adorns a wall on Pico Blvd. facing the Virginia Ave. Park. In the words of the Merchant Engagement Director of PICO, Dana Moorehead; "We made mural art the first thing you see on the site to communicate to visitors that Pico Blvd is a place to come and visit and enjoy and eat and drink in a community where art is intrinsic to the experience".
+The first thing you see on the PICO website at PicoPassport.com is whimsical street art created by Beautify Earth's Ruben Rojas, the piece titled Create adorns a wall on Pico Blvd. facing the Virginia Ave. Park. In the words of the Merchant Engagement Director of PICO, Dana Moorehead; "We made mural art the first thing you see on the site to communicate to visitors that Pico Blvd is a place to come and visit and enjoy and eat and drink in a community where art is intrinsic to the experience".
 
 ![Mural by Luca Zamoc](/images/cc6d43c8b8-a319bc_3b90978265394064aab9c9c7c260dc17_mv2.jpg)
 
 *Mural by Luca Zamoc*
 
-The connection between the PICO and Beautify Earth is deep rooted and fruitful. BE has contributed over 130 murals in Santa Monica and 40 of those pieces are along Pico Blvd. and many can be found on PICO's [Mural Map](https://picopassport.com/map). These murals add to the increase in foot traffic and help create a happier, safer, flourishing community for everyone.
+The connection between the PICO and Beautify Earth is deep rooted and fruitful. BE has contributed over 130 murals in Santa Monica and 40 of those pieces are along Pico Blvd. and many can be found on PICO's Mural Map. These murals add to the increase in foot traffic and help create a happier, safer, flourishing community for everyone.
 
 Both organizations plan on continuing to spread the joy and the color with more street art, which is one of the reasons PICO joined BE's Local Organizations Package. PICO has full trust in Beautify's Evan Meyer, as Dana said; "the Chair and Board members are willing to get behind him if he thinks it is a valuable idea with benefits for the merchants and community".
 
@@ -62,7 +62,7 @@ Communities could all use organizations like PICO that are run by people who rea
 
 **Q. What made you decide to get involved in your community?**
 
-**D.** To say I adore the merchants on Pico Blvd is an understatement. I really admire the confidence it takes to own your own small business, to deal with customers, deliver an incredible experience or product and earn a living. That is courageous! PICO undertakes projects that support merchants and community. We bring you street banners, landscaped medians, Shakespeare in the Park, holiday retail promotions and a website at [PicoPassport.com](http://www.picopassport.com/) that has merchant and community news and a directory of our merchants.
+**D.** To say I adore the merchants on Pico Blvd is an understatement. I really admire the confidence it takes to own your own small business, to deal with customers, deliver an incredible experience or product and earn a living. That is courageous! PICO undertakes projects that support merchants and community. We bring you street banners, landscaped medians, Shakespeare in the Park, holiday retail promotions and a website at PicoPassport.com that has merchant and community news and a directory of our merchants.
 
 *Mural by Marcel Blanco*
 
@@ -70,7 +70,7 @@ Communities could all use organizations like PICO that are run by people who rea
 
 **D.** I am a great believer in the power of art to bring people together, and I envision not only more incredible murals on Pico Blvd., but crosswalk art and electrical boxes painted and, my dream, to have a standing piece of art that reflects the Pico community, a placemaker piece, if you will. Something that is unique and emblematic of the Pico community.
 
-**Q. What is your biggest goal for [Picopassport.com](http://www.picopassport.com/)?**
+**Q. What is your biggest goal for Picopassport.com?**
 
 **D.** Continuing to add murals and other art on the boulevard is integral to who our merchants and community are, and who we want to be. We made mural art the first thing you see on the site to communicate to visitors that Pico Blvd is a place to come and visit and enjoy and eat and drink in a community where art is intrinsic to the experience. Continuing to add murals and other art on the boulevard is integral to who our merchants and community are, and who we want to be.
 
@@ -84,12 +84,10 @@ The world needs more joy, vibrancy, color and art, especially during these times
 
 ---
 
-## Recent Posts Section
+[See All](/blog)
 
-[See All](https://www.beautifyearth.org/blog)
-
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [A Call to Action (Gather Homes)](/post/a-call-to-action-gather-homes)
 
 

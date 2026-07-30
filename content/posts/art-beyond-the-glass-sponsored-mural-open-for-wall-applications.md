@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/art-beyond-the-glass-sponsored-mural-open-for-wall-applications/"
 ---
 
-**Author:** [Moral](https://www.beautifyearth.org/profile/moral/profile)
+**Author:** [Moral](/profile/moral/profile)
 
 **Published:** Apr 1, 2020
 
@@ -26,10 +26,10 @@ This sponsored mural is generously donated by [Thirsty in LA](http://thirstyinla
 
 ### If you are interested in having this mural painted on your wall please email moral@beautifyearth.com with the address of your property and a short description of your wall ASAP. Please don't hesitate to reach out with any questions!
 
-Interested in hiring an artist for a custom mural? [Register your wall](https://www.beautifyearth.com/how-it-works) to start connecting with artists.
+Interested in hiring an artist for a custom mural? [Register your wall](/how-it-works/) to start connecting with artists.
 
-Are you an artist looking for mural opportunities? Learn more about becoming a part of the Beautify artist community [here](https://www.beautifyearth.com/artists).
+Are you an artist looking for mural opportunities? Learn more about becoming a part of the Beautify artist community [here](/artists/).
 
-**Tags:**
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Opportunities](https://www.beautifyearth.org/blog/categories/opportunities)
+
+- Community
+- Opportunities

@@ -6,12 +6,10 @@ layout: page.njk
 permalink: "/artists/"
 ---
 
-Canonical URL: https://www.beautifyearth.org/artists
+Canonical URL: /artists
 
 ## Header Navigation
 
-
-## Hero Section
 
 #### PAINT A MURAL
 
@@ -23,7 +21,7 @@ Producers need artists who can tell their story in new and exciting ways. We hel
 
 [Create Your Portfolio](https://art.beautifyearth.com/signup)
 
-## Value Proposition Section
+## Value Proposition
 
 ## You bring the talent, we'll bring the projects
 
@@ -47,7 +45,7 @@ Add your murals to your account and we'll automatically create an interactive ma
 
 [Join Our Artist Network](https://art.beautifyearth.com/signup)
 
-## Process Steps Section
+## Process Steps
 
 #### Create Your Portfolio
 
@@ -81,15 +79,15 @@ Once your proposal is accepted, all communications, project management, and paym
 
 David has a "paint on everything" approach to art-making which includes: canvas, furniture, surfboards, apparel, objects, accessories, bodies, and walls. His work celebrates diversity and inclusion. "I've had the great fortune of working with Beautify and am thrilled about their marketplace platform and its vast reach. This is an ideal place for artists to connect with wall owners." - David Gilmore
 
-[About](https://www.beautifyearth.org/about)
+[About](/about)
 
-[Contact](https://www.beautifyearth.org/about)
+[Contact](/about)
 
-[News](https://www.beautifyearth.org/privacy)
+[News](/privacy)
 
-[Privacy](https://www.beautifyearth.org/privacy)
+[Privacy](/privacy)
 
-[Terms](https://www.beautifyearth.org/terms)
+[Terms](/terms)
 
 
 Social Media Links:

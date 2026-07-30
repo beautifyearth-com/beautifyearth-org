@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/destroying-the-us-and-them-mentality-a-vision-for-efficient-civil-discourse/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Feb 1, 2019
 

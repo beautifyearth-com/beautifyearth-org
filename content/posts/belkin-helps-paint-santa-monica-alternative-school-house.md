@@ -22,4 +22,4 @@ Local artist Marcel 'Sel' Blanco, a champion of School walls, showcases his awes
 
 We will continue to beautify one school at a time, hopefully with your help.
 
-Visit us [here](https://www.beautifyearth.com/nonprofit-donate), and donate to help schools be inspiring ones!
+Visit us [here](/nonprofit/), and donate to help schools be inspiring ones!

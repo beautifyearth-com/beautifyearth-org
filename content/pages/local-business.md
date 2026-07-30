@@ -6,10 +6,6 @@ layout: page.njk
 permalink: "/local-business/"
 ---
 
-## Navigation Header
-
-
-## Hero Section
 
 # Murals for Local Business
 
@@ -19,7 +15,7 @@ permalink: "/local-business/"
 
 ###### Transform Your Wall. Transform Your Business.
 
-## Features Section
+## Features
 
 ## We've got you covered
 
@@ -41,7 +37,7 @@ around the clock personal support from our team of experts
 
 onboarding form
 
-## Testimonial Section
+## Testimonial
 
 # Thanks to our mural, people now know we exist, & business has increased by almost 50%
 
@@ -55,7 +51,7 @@ onboarding form
 
 To drive awareness, businesses invest in awnings and signs costing thousands of dollars. They leave the largest portion of their buildings boring, empty, often in disrepair.
 
-Your business could be a local landmark and social media hotspot that reflects your brand and drives customers through your doors. [Murals outperform awnings](https://www.beautifyearth.com/post/why-a-mural-instead-of-an-awning-for-your-business), often at lower price.
+Your business could be a local landmark and social media hotspot that reflects your brand and drives customers through your doors. Murals outperform awnings, often at lower price.
 
 [Get Started](https://marketplace.beautifyearth.com/signup)
 
@@ -81,7 +77,7 @@ It's all over Intagram, Facebook and Twitter. Authentic and organic, it's both a
 
 [Get Started](https://marketplace.beautifyearth.com/signup)
 
-## Mayor Quote Section
+## Mayor Quote
 
 # "Thank you Beautify for helping to make this city even more Beautiful."
 
@@ -127,7 +123,7 @@ There are no guarantees on if or when your wall will be chosen, and creative con
 
 ###### 3. Collaborate
 
-Pay the design fee to collaborate with an artist on a design that is impactful and customized to your needs. All design fees count towards the [final cost](https://intercom.help/beaut/en/articles/3489300-how-much-does-a-mural-cost) of the mural, determined between you and the artist.
+Pay the design fee to collaborate with an artist on a design that is impactful and customized to your needs. All design fees count towards the final cost of the mural, determined between you and the artist.
 
 | Option | Price |
 |--------|-------|

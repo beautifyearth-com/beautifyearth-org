@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/at-t-helps-bring-a-splash-of-color-to-mark-twain-middle-school/"
 ---
 
-**Author:** [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+**Author:** [Sergio Cuculiza](/profile/sergio/profile)
 
 **Date:** Jul 24, 2017
 
@@ -22,6 +22,6 @@ A great deal of credit goes out to the school for being open minded and the pare
 
 Thanks to the super talented and inspiring work by Ruben Rojas, another school was blessed to receive his inspirational messaging. This mural dawns on the students everyday and will surely motivate them in school and beyond. We thank our partners at the school and AT&T for their amazing trust and contribution.
 
-See more of what the Beautify Education program is about [here](https://www.beautifyearth.com/nonprofit-schools), we aim to brighten campuses all across the globe.
+See more of what the Beautify Education program is about [here](/nonprofit/), we aim to brighten campuses all across the globe.
 
-**Categories:** [Education](https://www.beautifyearth.org/blog/categories/education) | [schools](https://www.beautifyearth.org/blog/categories/schools) | [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+

@@ -23,4 +23,4 @@ This award has been but one recognition of the impact the painted city walls and
 > Beautify Earth has beautified Santa Monica's bleakest blank walls with startling creativity that delights the eye, warms the heart and captures the imagination. They are making this a better world one gorgeous mural at a time.
 > -- Rick Cole, Santa Monica City Manager
 
-**Categories:** [Community](https://www.beautifyearth.org/blog/categories/community) | [Projects](https://www.beautifyearth.org/blog/categories/projects) | [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+

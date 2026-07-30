@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/the-beautify-platform-for-community-leaders/"
 ---
 
-**By:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**By:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Jun 23, 2020
 
@@ -62,5 +62,5 @@ All artists, murals, and walls in the platform display a *heart* icon. If you cl
 
 Beautify is here for anything you need at all to make your project is a success. Something your looking for not listed above? Just call us or contact us through the site, or in the little icon on your screen!
 
-**Categories:**
-- [Resources](https://www.beautifyearth.org/blog/categories/resources)
+
+- Resources

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/heineken/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Date:** Dec 10, 2020 | **Updated:** Jan 8, 2021
 
@@ -18,13 +18,13 @@ permalink: "/post/heineken/"
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 ![Murals by Cloe Hakakian and Davia King in Hollywood for Heineken](/images/086ab8d30c-e1ec93_256748e6e6ba42fe84eac6d5714b8866_mv2.png)
 
 *Two security doors painted by Cloe Hakakian (left) and* [*Davia King*](https://marketplace.beautifyearth.com/artists/daviaking) *for Heineken reappear on Hollywood Boulevard every night.*
 
-As part of Heineken's Cities campaign, which aimed to "make great cities even greater," Heineken partnered with Beautify Earth in 2016 to transform the look of Hollywood Boulevard through a series of as many as 50 stunning paintings inspired by the icons of Hollywood past and present. Their [experiential approach](https://www.beautifyearth.com/post/experiential-marketing-the-antidote-to-mural-advertising) was a refreshing alternative to typical mural advertising.
+As part of Heineken's Cities campaign, which aimed to "make great cities even greater," Heineken partnered with Beautify Earth in 2016 to transform the look of Hollywood Boulevard through a series of as many as 50 stunning paintings inspired by the icons of Hollywood past and present. Their experiential approach was a refreshing alternative to typical mural advertising.
 
 To draw attention to the sheer number of murals, 15 walls around Hollywood were painted in a single week. Heineken helped support the installation of 25 artworks and with Beautify's assistance, kicked off an Indiegogo campaign to fund up to an additional 25 installations.
 
@@ -48,4 +48,4 @@ Volunteers, artists, donors, businesses, local government, neighborhood associat
 
 *[Evan Meyer](https://www.linkedin.com/in/evan-meyer/) is a co-founder and the CEO of Beautify.*
 
-**Categories:** [Community](https://www.beautifyearth.org/blog/categories/community) | [Projects](https://www.beautifyearth.org/blog/categories/projects) | [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+

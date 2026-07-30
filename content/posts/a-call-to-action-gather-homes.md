@@ -30,9 +30,9 @@ Dana answered the call to action and is inspired to transform more schools. She 
 
 "Paint day was so fun. It was extra special getting the community together after not being able to do events in person because of Covid", said Kirsty Painter, a parent of two students at Will Rogers. "The kids loved being part of painting these murals. The school feels different, more cheerful and colorful", added Painter.
 
-The mural was a donation to the school from [Gather Homes](https://www.gatherhomes.com/), and the mural design was by artist [Calen Blake](http://www.calenblake.com/), a very talented artist.
+The mural was a donation to the school from [Gather Homes](https://www.gatherhomes.com/), and the mural design was by artist Calen Blake, a very talented artist.
 
-At [Beautify Earth](http://www.beautifyearth.org), we know that colorful murals brighten people's days and move us from complacency into action, they not only transform schools and neighborhoods, but individuals. That is the effect that murals have had for everyone on our team, from our board members to our volunteers…and that is why this is our call to action.
+At [Beautify Earth](/), we know that colorful murals brighten people's days and move us from complacency into action, they not only transform schools and neighborhoods, but individuals. That is the effect that murals have had for everyone on our team, from our board members to our volunteers…and that is why this is our call to action.
 
 You too can get involved as a volunteer, sponsor, artist or cheerleader ;)
 

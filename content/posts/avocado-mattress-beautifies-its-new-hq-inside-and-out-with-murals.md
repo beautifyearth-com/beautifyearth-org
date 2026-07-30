@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/avocado-mattress-beautifies-its-new-hq-inside-and-out-with-murals/"
 ---
 
-**Author:** [Maria Bertrand](https://www.beautifyearth.org/profile/inspirebydoing/profile)
+**Author:** [Maria Bertrand](/profile/inspirebydoing/profile)
 
 **Published:** Dec 17, 2020 | 4 min read
 **Updated:** Feb 24, 2021
@@ -19,7 +19,7 @@ permalink: "/post/avocado-mattress-beautifies-its-new-hq-inside-and-out-with-mur
 
 Our online platform has helped people beautify walls in more than 100 cities.
 
-[Contact us](https://www.beautifyearth.com/local-organizations) to discuss how we can beautify yours.
+[Contact us](/local-organizations/) to discuss how we can beautify yours.
 
 *Mural outside Avocado Mattress factory in Fullerton, CA by* [*Lina Cholewinski*](https://marketplace.beautifyearth.com/artists/bonesandgold)
 
@@ -55,15 +55,15 @@ Kris takes it further: "Art should not be reserved for the rich, it should be pa
 
 Joanna says, "Murals are a great way to become part of a community quickly. The more we can engage at a local level around our retail stores and offices to become more part of the community, the better. We always reach out to local businesses when we start somewhere new. We try to become part of the mix right away. We want to reflect the communities that we are in. We want to welcome people instead of enforcing our brand voice on them."
 
-For more information, [reach out to us](https://www.beautifyearth.com/how-it-works). We look forward to hearing from you. Let's beautify your community together.
+For more information, [reach out to us](/how-it-works/). We look forward to hearing from you. Let's beautify your community together.
 
 ## Recent Posts
 
-[See All](https://www.beautifyearth.org/blog)
+[See All](/blog)
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [A Call to Action (Gather Homes)](/post/a-call-to-action-gather-homes)
 
-[About](https://www.beautifyearth.org/about) | [Contact](https://www.beautifyearth.org/about) | [News](https://www.beautifyearth.org/privacy) | [Privacy](https://www.beautifyearth.org/privacy) | [Terms](https://www.beautifyearth.org/terms)
+[About](/about) | [Contact](/about) | [News](/privacy) | [Privacy](/privacy) | [Terms](/terms)
 

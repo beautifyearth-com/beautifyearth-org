@@ -7,14 +7,6 @@ permalink: "/about/"
 ---
 
 
-### Category Links
-- BRANDS & AGENCIES
-- PROPERTY OWNERS
-- BUSINESS OWNERS
-- ARTISTS
-
-## Main Content
-
 # Connecting the world with art
 
 Beautify Earth partners with local artists to connect the world with art through murals, street art, and technological resources. For over 15 years, the organization has committed to making art accessible to all through street art productions worldwide.
@@ -23,11 +15,9 @@ The mission centers on providing creative strategies and technological resources
 
 The team comprises artists, technologists, and urban beautification experts available for consultation.
 
-### Call-to-Action Links
-- [Contact us](https://www.beautifyearth.org/how-it-works) to learn more
-- [Sign up](https://www.beautifyearth.org/how-it-works) on the platform
+- [Contact us](/how-it-works) to learn more
+- [Sign up](/how-it-works) on the platform
 
-## Team Section
 
 ### Moral Masuoka - CEO
 ![DSC00325_edited_edited.jpg](/images/5d5ee105a7-a319bc_bc5462e82e4841c8b41aea952d99981a_mv2.jpg)

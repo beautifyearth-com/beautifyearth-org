@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/target-brings-murals-to-their-employees-as-well-as-customers/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Published:** Dec 10, 2020
 
@@ -20,9 +20,9 @@ permalink: "/post/target-brings-murals-to-their-employees-as-well-as-customers/"
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
-Target understands [the value of beauty](https://www.beautifyearth.com/post/experiential-marketing-the-antidote-to-mural-advertising), even at low prices, from the top of the company down. Beautify's partnership with Target, which began in 2020, will bring beauty *inside* the company, to workers in 10 to 12 of the company's giant distribution centers nationwide. The murals brighten up what's typically a grey and drab area, turn a bare wall into a bright spot of inspiration.
+Target understands the value of beauty, even at low prices, from the top of the company down. Beautify's partnership with Target, which began in 2020, will bring beauty *inside* the company, to workers in 10 to 12 of the company's giant distribution centers nationwide. The murals brighten up what's typically a grey and drab area, turn a bare wall into a bright spot of inspiration.
 
 Our online platform removes the friction and uncertainties from the process, making it easy for Target to find and work with professional street artists. As both a muralist and a software product manager, I founded Beautify to connect people who want great art with the professional artists who create it.
 

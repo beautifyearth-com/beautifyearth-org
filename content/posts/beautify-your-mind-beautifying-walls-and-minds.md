@@ -39,15 +39,12 @@ Beautify Earth
 ---
 
 ## Categories
-- [Education](https://www.beautifyearth.org/blog/categories/education)
-- [schools](https://www.beautifyearth.org/blog/categories/schools)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+- Education
+- schools
+- nonprofit
 
 ## Recent Posts
 
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [Beautify helped Zappos lead the way in experiential marketing through murals](https://www.beautifyearth.org/post/zappos-ten-core-value-mural-campaign)
-- [Beautify helps Lexus' crossover of art & marketing via murals](https://www.beautifyearth.org/post/lexus-urban-crossover-brand-values-murals)
-
-## Footer Links
-
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)
+- [Beautify helps Lexus' crossover of art & marketing via murals](/post/lexus-urban-crossover-brand-values-murals)

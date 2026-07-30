@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/beautify-broadway-x-red-cross/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Mar 14, 2020
 

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/artist-talk-john-park/"
 ---
 
-By [Rosie Quasarano](https://www.beautifyearth.org/profile/f81d7c40-3d79-4e35-93ba-0d3353b5ae89/profile) | Aug 1, 2022 | 5 min read
+By [Rosie Quasarano](/profile/f81d7c40-3d79-4e35-93ba-0d3353b5ae89/profile) | Aug 1, 2022 | 5 min read
 
 ---
 
@@ -92,6 +92,4 @@ View John's work and hire him for your next mural project [here](https://art.bea
 
 Interested in being featured in your own Artist Talk article? Email us at Hello@beautifyearth.com
 
-**Tags:** [Artists](https://www.beautifyearth.org/blog/tags/artists) | [Muralists](https://www.beautifyearth.org/blog/tags/muralists) | [ArtistTalk](https://www.beautifyearth.org/blog/tags/artisttalk)
 
-**Categories:** [Artist Talk](https://www.beautifyearth.org/blog/categories/artist-talk)

@@ -7,13 +7,11 @@ permalink: "/nonprofit/"
 ---
 
 
-### Hero Section
-
 # Bringing communities together one beautiful mural at a time
 
 #### For eight years, Beautify Earth nonprofit has worked with schools and communities in need of beautification, together we leverage the power of art from within.
 
-[Make a donation](https://www.beautifyearth.org/nonprofit-donate)
+[Make a donation](/nonprofit-donate)
 
 ### Flowers for Hope Campaign
 
@@ -21,27 +19,27 @@ FLOWERS FOR HOPE - SUPPORT UKRAINE
 
 Artist and activist Trek Thunder Kelly and a group of resilient and stellar artists are behind the project. They have partnered with Roji and Beautify Earth to help spread the power of HOPE through war torn Ukraine. Painting bright yellow sunflowers in some of the areas most impacted by the war in Ukraine. They hope to bring a little bit of hope and sunshine to these areas to remind the people of their resilience and power.
 
-[Read More](https://www.beautifyearth.com/post/flowers-for-hope-support-ukraine)
+[Read More](/post/flowers-for-hope-support-ukraine/)
 
-### Services Section
+### Services
 
 ###### Artists
 #### Get hired to do what you do best
-[Get Started](https://www.beautifyearth.org/how-it-works)
+[Get Started](/how-it-works)
 
 ###### Get a Mural
 #### Beautify my property or school with a mural
-[Get Started](https://www.beautifyearth.org/register-your-wall)
+[Get Started](/register-your-wall)
 
 ###### [Organizations](https://marketplace.beautifyearth.com/#/walls)
 #### Activate your streets with the right tools for success
-[Get Started](https://www.beautifyearth.org/local-organizations)
+[Get Started](/local-organizations)
 
 ###### Sponsors
 #### Supercharge your brand with Art
-[Get Started](https://www.beautifyearth.org/brands-agencies)
+[Get Started](/brands-agencies)
 
-### Testimonials Section
+### Testimonials
 
 #### Support From Around the Nation
 
@@ -55,7 +53,7 @@ Mayor, Santa Monica
 
 "Their work has inspired the community and created a colorful street from what was an eyesore for decades."
 
-### About Section
+### About
 
 # Champions for schools & communities in need
 
@@ -65,7 +63,7 @@ Our movement networks artists, volunteers, and leaders around the idea that phys
 
 Driven by LOVE, we are champions for communities worldwide. We value community, getting sh*t done, and creating positive change through our unique and exponential ROI. Our murals have proven to make citizens feel uplifted, safe, and proud of their neighborhoods, increase foot traffic and revenue for local businesses, and help expand livable spaces by reducing trash and graffiti.
 
-### School Projects Section
+### School Projects
 
 # School Projects
 
@@ -83,9 +81,9 @@ Los Angeles, CA
 Santa Monica, CA
 6+ Murals with over 3 artists
 
-### Awards Section
+### Awards
 
-##### Beautify Earth is the recipient of the [Cultural Tourism Champion Award](https://www.beautifyearth.com/post/beautify-earth-cultural-tourism-champion-award-california-travel-association) from the California Travel Association
+##### Beautify Earth is the recipient of the [Cultural Tourism Champion Award](/post/beautify-earth-cultural-tourism-champion-award-california-travel-association/) from the California Travel Association
 
 ### Email Signup Form
 

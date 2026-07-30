@@ -20,9 +20,9 @@ A diverse group of 70 seventh-grade students at John Adams MS participated in Re
 
 Next, the students studied murals from the community and took a walking field trip along Pico Blvd of the Beautify Earth murals. They brainstormed themes and quotes. They also got to meet Ruben Rojas and hear his story of creating murals. Then 10 groups joined with the advanced art students to create murals on canvas that were then voted on by the entire school. The winning mural was painted on a large wall on the quad.
 
-[More info on restorative justice.](http://rjoyoakland.org/restorative-justice/)
+More info on restorative justice.
 
-**Categories:**
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+
+- Community
+- Education
+- nonprofit

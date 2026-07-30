@@ -62,4 +62,4 @@ For more information visit…
 
 *Special thanks to Joslyn Williams, BE Contributor.*
 
-**Categories:** Community, Women in Public Art, Nonprofit
+

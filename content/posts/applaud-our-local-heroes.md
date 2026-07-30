@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/applaud-our-local-heroes/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Published:** Mar 25, 2020
 

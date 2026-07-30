@@ -7,8 +7,6 @@ permalink: "/brands-agencies/"
 ---
 
 
-## Hero Section
-
 ## PRODUCE A MURAL PROJECT
 
 # Bring your vision to life
@@ -19,7 +17,7 @@ permalink: "/brands-agencies/"
 
 [Get in touch](https://www.beautifyearth.com/contact-us)
 
-## Key Messaging Section
+## Key Messaging
 
 ## It's not about what you sell...
 
@@ -31,7 +29,7 @@ Brand equity, respect, and ultimately, sales, come from shared values - especial
 
 [Schedule a call](https://calendly.com/moralbeautify/beautify-intro)
 
-## Campaign Results Section
+## Campaign Results
 
 # Learn How Murals Bring Your Campaign to Life
 
@@ -46,7 +44,7 @@ Brand equity, respect, and ultimately, sales, come from shared values - especial
 - Sheraton (silver logo)
 - Disney (logo)
 
-## Walls Looking for Murals Section
+## Walls Looking for Murals
 
 # Santa Monica, CA
 
@@ -58,7 +56,7 @@ Brand equity, respect, and ultimately, sales, come from shared values - especial
 
 [Find Your Canvas](https://art.beautifyearth.com/walls)
 
-## Featured Artists Section
+## Featured Artists
 
 ## Artists are ready to bring your campaigns to life
 
@@ -72,7 +70,7 @@ Brand equity, respect, and ultimately, sales, come from shared values - especial
 
 [Hire an Artist](https://marketplace.beautifyearth.com/#/artists)
 
-## Project Management Section
+## Project Management
 
 ## Want to manage your own project?
 
@@ -88,16 +86,16 @@ Brand equity, respect, and ultimately, sales, come from shared values - especial
 
 ## More Mural Campaign Partners
 
-- American Express — [Fiscal Literacy](https://www.beautifyearth.com/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express)
-- Blue Shield — [Childhood Mental Health](https://www.beautifyearth.com/post/blue-shield-s-mural-is-a-gift-to-its-new-community)
-- Lexus — [Creativity & Community Impact](https://www.beautifyearth.com/post/lexus-urban-crossover-brand-values-murals)
-- Anheuser Busch — [Celebrating Community Leaders](https://www.beautifyearth.com/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-stars)
-- Target — [Local Culture / Employee Integration](https://www.beautifyearth.com/post/target-brings-murals-to-their-employees-as-well-as-customers)
-- Capitol Records — [Sustainability](https://www.beautifyearth.com/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mural-campaign)
-- Zappos — [Company Core Values](https://www.beautifyearth.com/post/zappos-ten-core-value-mural-campaign)
-- TOMS — [Ending Gun Violence](https://www.beautifyearth.com/post/toms-taps-mural-company-in-campaign-to-end-gun-violence)
-- Heineken — [Local Community Empowerment](https://www.beautifyearth.com/post/heineken)
-- Sheraton — [Bringing People Together](https://www.beautifyearth.com/post/sheraton-beautifies-belltown-seattle)
+- American Express — [Fiscal Literacy](/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/)
+- Blue Shield — [Childhood Mental Health](/post/blue-shield-s-mural-is-a-gift-to-its-new-community/)
+- Lexus — [Creativity & Community Impact](/post/lexus-urban-crossover-brand-values-murals/)
+- Anheuser Busch — [Celebrating Community Leaders](/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-stars/)
+- Target — [Local Culture / Employee Integration](/post/target-brings-murals-to-their-employees-as-well-as-customers/)
+- Capitol Records — [Sustainability](/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mural-campaign/)
+- Zappos — [Company Core Values](/post/zappos-ten-core-value-mural-campaign/)
+- TOMS — [Ending Gun Violence](/post/toms-taps-mural-company-in-campaign-to-end-gun-violence/)
+- Heineken — [Local Community Empowerment](/post/heineken/)
+- Sheraton — [Bringing People Together](/post/sheraton-beautifies-belltown-seattle/)
 
 ## Additional Partner Logos (image wall)
 Google, TOMS Shoes, Anheuser-Busch, Heineken, UCLA, Booz Allen, City of Los Angeles, Planet Blue, Blue of California, Zappos, Santa Monica, Belkin, Disney, CBS, NewMark, YMCA, Land Rover, LPC, GT's Kombucha, MARCH, LA Zoo, StorQuest, and other brand logos (see Images list).

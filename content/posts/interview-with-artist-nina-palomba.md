@@ -9,7 +9,7 @@ permalink: "/post/interview-with-artist-nina-palomba/"
 ---
 
 **Writer:** Beautify Team
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 **Date:** Oct 27, 2017
 **Read Time:** 2 min read
 
@@ -23,25 +23,21 @@ After spending time in Chicago and New York, Nina traveled to Los Angeles doing 
 
 Nina's work and style has been described by many as refreshing, exciting and uplifting. It truly radiates good vibes and joy. Nina believes that "murals exude the emotion and energy you put into it." We couldn't agree more!
 
-Sitting down and chatting with Nina is equally as fun as experiencing one of her murals. In our latest interview, Nina talks about her early influences, getting started as an artist in Los Angeles, getting feedback from the community, how street art and fine art are converging, and an idea for a mural that was one of the inspirations behind our [Every Woman](https://beautifyearth.org/every-woman/) program. Her story is inspiring and encouraging for emerging artists and art-lovers alike.
+Sitting down and chatting with Nina is equally as fun as experiencing one of her murals. In our latest interview, Nina talks about her early influences, getting started as an artist in Los Angeles, getting feedback from the community, how street art and fine art are converging, and an idea for a mural that was one of the inspirations behind our [Every Woman](/every-woman/) program. Her story is inspiring and encouraging for emerging artists and art-lovers alike.
 
-Learn more about Nina by visiting her [website](http://nina-palomba.squarespace.com/). Follow Nina on [Instagram](https://www.instagram.com/theninapalomba/).
+Learn more about Nina by visiting her website. Follow Nina on [Instagram](https://www.instagram.com/theninapalomba/).
 
 *This article was recorded, edited and written by Joe Basile.*
 
 ---
 
 ### Categories
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Women in Public Art](https://www.beautifyearth.org/blog/categories/women-in-public-art)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+- Community
+- Women in Public Art
+- nonprofit
 
 ## Recent Posts
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Beautify helped Zappos lead the way in experiential marketing through murals](https://www.beautifyearth.org/post/zappos-ten-core-value-mural-campaign)
-- [Beautify helps Lexus' crossover of art & marketing via murals](https://www.beautifyearth.org/post/lexus-urban-crossover-brand-values-murals)
-
-## Footer Links
-
-
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)
+- [Beautify helps Lexus' crossover of art & marketing via murals](/post/lexus-urban-crossover-brand-values-murals)

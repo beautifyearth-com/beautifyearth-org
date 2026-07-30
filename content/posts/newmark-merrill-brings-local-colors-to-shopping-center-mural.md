@@ -17,7 +17,7 @@ permalink: "/post/newmark-merrill-brings-local-colors-to-shopping-center-mural/"
 
 ### NewMark Merrill's wall-sized painting at Janss Marketplace celebrates the wild rabbits for which Conejo Valley was named.
 
-Our online platform has delivered results for more than 50 brands from local to global. [Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+Our online platform has delivered results for more than 50 brands from local to global. [Contact us](/brands-agencies/) to discuss what we can do for you.
 
 As much as I enjoy running a company, "I'll always be a muralist at heart" (Evan Meyer). He describes combining his creative and business roles through Beautify, particularly on a September 2020 project near Los Angeles County.
 

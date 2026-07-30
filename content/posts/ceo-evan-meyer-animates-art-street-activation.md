@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/ceo-evan-meyer-animates-art-street-activation/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Published:** May 23, 2020
 **Updated:** Oct 5, 2020
@@ -38,8 +38,8 @@ Here are a handful murals completed by our very own Evan Meyer, of which he addi
 
 ## Recent Posts
 
-[See All](https://www.beautifyearth.org/blog)
+[See All](/blog)
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [A Call to Action (Gather Homes)](/post/a-call-to-action-gather-homes)

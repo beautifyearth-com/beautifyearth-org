@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/puesta-del-sol/"
 ---
 
-- **Author:** [Beautify Team](https://www.beautifyearth.org/profile/arati/profile)
+- **Author:** [Beautify Team](/profile/arati/profile)
 - **Published:** May 8, 2019
 - **Updated:** Mar 14, 2020
 - **Read Time:** 1 min
@@ -21,9 +21,9 @@ The wall is on the side of the cafeteria and lines the entryway into the school 
 
 This mural was funded by the local Sit'N'Sleep in Victorville, through the CBS (EcoMedia Division) giveback program.
 
-To sponsor a school in need, be hero and [click here.](https://www.beautifyearth.com/nonprofit-donate)
+To sponsor a school in need, be hero and [click here.](/nonprofit/)
 
-**Categories:**
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
+
+- nonprofit
+- Projects
+- Education

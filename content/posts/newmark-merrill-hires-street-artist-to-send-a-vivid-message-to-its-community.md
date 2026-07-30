@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/newmark-merrill-hires-street-artist-to-send-a-vivid-message-to-its-community/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Date:** Dec 21, 2020 | **Updated:** Jan 8, 2021
 
@@ -18,7 +18,7 @@ permalink: "/post/newmark-merrill-hires-street-artist-to-send-a-vivid-message-to
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 ---
 
@@ -40,11 +40,8 @@ Experiential marketing and inspiration for passersby can coexist on a single wal
 
 ## Recent Posts
 
-[See All](https://www.beautifyearth.org/blog)
+[See All](/blog)
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
-
-## Footer Links
-
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [A Call to Action (Gather Homes)](/post/a-call-to-action-gather-homes)

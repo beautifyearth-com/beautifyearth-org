@@ -6,17 +6,10 @@ layout: page.njk
 permalink: "/privacy/"
 ---
 
-Canonical URL: https://www.beautifyearth.org/privacy
+Canonical URL: /privacy
 
 ## Header Navigation
 
-
-## Legal Navigation Links
-- [Terms of Service](https://www.beautifyearth.org/terms)
-- [Privacy Policy](https://www.beautifyearth.org/privacy)
-- [Mural Agreement](https://www.beautifyearth.org/mural-agreement)
-
-## Main Content
 
 ### Privacy Policy
 

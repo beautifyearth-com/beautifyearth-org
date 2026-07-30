@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/creating-an-art-competition-on-beautify/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Published:** Jul 29, 2020
 
@@ -41,5 +41,5 @@ OR, artist can add a tag to existing artwork(s):
 We are always here to help should you have any questions or need something more specialized. Just let us know!
 
 **Recent Posts:**
-- [How to Use the Beautify Platform as a Community Leader](https://www.beautifyearth.org/post/the-beautify-platform-for-community-leaders)
-- [A Quick-Start, Street-Art Strategy Guide for Local Organizations](https://www.beautifyearth.org/post/street-art-strategy-local-organizations)
+- [How to Use the Beautify Platform as a Community Leader](/post/the-beautify-platform-for-community-leaders)
+- [A Quick-Start, Street-Art Strategy Guide for Local Organizations](/post/street-art-strategy-local-organizations)

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/using-public-art-to-heal-rockaway-beach/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/arati/profile)
+**Author:** [Beautify Team](/profile/arati/profile)
 **Date:** Mar 21, 2014
 **Read Time:** 1 min read
 
@@ -23,6 +23,6 @@ Beautify Earth is currently raising money to finance the murals that will uplift
 ---
 
 ## Tags
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Community](https://www.beautifyearth.org/blog/categories/community)
+- nonprofit
+- Projects
+- Community

@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/west-adams/"
 ---
 
-- [Beautify Team](https://www.beautifyearth.org/profile/arati/profile)
+- [Beautify Team](/profile/arati/profile)
 - Mar 4, 2019
 - 1 min read
 
@@ -20,9 +20,9 @@ Timothy Gomez, the guidance counselor of West Adams Preparatory High School in L
 
 Many schools, including this one, have seen their funding cut for extracurricular activities. The DIY Mural Painting program offered West Adams an accessible arts engagement channel. The guided DIY program allowed the students of this campus an opportunity to maximize the roles they could have in art-based group project. Since our painted walls have gone up on the campus, an affinity for this type of engagement and an excitement to learn more about the arts has been seen amongst the students.
 
-Booze Allen Hamilton, an American management and information technology consulting firm came out with a group of volunteers and helped support a big installation project that required all hands on deck! This is a design from our DIY program meant to make art not only more affordable to schools, but also out some money in artists pockets and help us bring about more mural art at schools in need! Support the program and learn more about it [here](https://www.beautifyearth.com/nonprofit-projects/DIY-Mural-Painting).
+Booze Allen Hamilton, an American management and information technology consulting firm came out with a group of volunteers and helped support a big installation project that required all hands on deck! This is a design from our DIY program meant to make art not only more affordable to schools, but also out some money in artists pockets and help us bring about more mural art at schools in need! Support the program and learn more about it here.
 
-**Categories:**
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
+
+- nonprofit
+- Projects
+- Education

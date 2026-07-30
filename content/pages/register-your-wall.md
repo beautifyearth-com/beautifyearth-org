@@ -7,15 +7,13 @@ permalink: "/register-your-wall/"
 ---
 
 
-## Hero Section
-
 # Register Your Wall
 
 # ✓ Create Wall Profile
 # ✓ We'll match your wall with a sponsor
 # ✓ Start beautifying!
 
-[Get started below](https://www.beautifyearth.org/register-your-wall)
+[Get started below](/register-your-wall)
 
 **[Create Wall Profile]** button
 

@@ -42,10 +42,10 @@ In the summer of 2022, CCF celebrated the grand opening of *Plaza Ortiz*, an aff
 
 By integrating murals into their housing program the foundation that bears his name continues to honor Chavez's vision of using art as a vehicle to inform, inspire, and educate the world.
 
-**Interesting in inspiring your community through art?** [**Contact us**](https://www.beautifyearth.com/how-it-works) **to bring your vision to life.**
+**Interesting in inspiring your community through art?** [**Contact us**](/how-it-works/) **to bring your vision to life.**
 
 ---
 
 ## Tags
-- [Murals](https://www.beautifyearth.org/blog/tags/murals)
-- [Community](https://www.beautifyearth.org/blog/categories/community)
+- Murals
+- Community

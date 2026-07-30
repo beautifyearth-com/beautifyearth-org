@@ -24,7 +24,7 @@ If you happen to be walking through the Downtown or Olde Main Street Districts i
 
 Consider, for example, these next walls, just around the bend, whose brick, stone and plaster have already served as the canvases to artistic glory.
 
-That's because [Olde Main Street, Inc.](https://downtowngreenbay.com/about/olde-main-street-district) has recently synced up with [Beautify](https://www.beautifyearth.com/) to transform outdoor wall spaces into public art galleries in ways that empower artists, champion social responsibility, revitalize areas and instill community pride. **And having helped** [**thousands of artists**](https://www.beautifyearth.com/artists) **paint murals in thousands of spaces worldwide, Beautify is the epitome of art transforming communities… from the inside out**.
+That's because [Olde Main Street, Inc.](https://downtowngreenbay.com/about/olde-main-street-district) has recently synced up with [Beautify](https://www.beautifyearth.com/) to transform outdoor wall spaces into public art galleries in ways that empower artists, champion social responsibility, revitalize areas and instill community pride. **And having helped** [**thousands of artists**](/artists/) **paint murals in thousands of spaces worldwide, Beautify is the epitome of art transforming communities… from the inside out**.
 
 It's why Downtown Green Bay's 'Olde Main Street, Inc.' crew teamed up with Beautify to give emerging and established artists an innovative technology platform to add color to the spaces of the historic arts district, where over 12,000 cars typically pass through on any given day.
 
@@ -60,4 +60,4 @@ We caught up with **Sally Ebeling,** Program & Business Development Specialist a
 
 Olde Main Street has already selected a slew of building facades in both districts, now eagerly waiting to be connected to artists who will raise their paintbrush high in the air—and Beautify the space.
 
-**Learn more about how the Beautify platform helps local organizations at:** [https://www.beautifyearth.com/local-organizations](https://www.beautifyearth.com/local-organizations)
+**Learn more about how the Beautify platform helps local organizations at:** [https://www.beautifyearth.com/local-organizations](/local-organizations/)

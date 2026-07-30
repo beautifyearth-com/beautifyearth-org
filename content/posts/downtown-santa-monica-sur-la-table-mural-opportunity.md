@@ -29,7 +29,7 @@ Beautify is partnering with the Downtown Santa Monica Business Improvement Distr
 
 ### Proposal Details:
 
-Please submit a proposal that includes the following information by clicking "Beautify This Wall" on the [wall profile page](https://beautify-c6e85afa1d8b.intercom-clicks.com/via/e?ob=x4zvkrjqqRZRiEnnSVTUEcrGsSYhCU42wrWRlew2XlNReh8NJDnIA1%2BLXcRqx1m18r1eZfVU91E0X6sl%2FL%2FQRQ%3D%3D&h=fff9f497f4f1829830e556eb7f1eeca421b96e36-j4vqph0r_26411614510&l=3d4ceac976de197e29e536086b407041a562b636-2936251):
+Please submit a proposal that includes the following information by clicking "Beautify This Wall" on the wall profile page:
 
 1. Vision: A detailed written description of proposed design
 2. Imagery: A mock-up of your design concept
@@ -37,10 +37,10 @@ Please submit a proposal that includes the following information by clicking "Be
 
 **Proposals due Wednesday April 1st, 2020 @ 11:59PM** *(Submissions considered on a rolling basis so get yours in ASAP!)*
 
-## [Submit Proposal](https://beautify-c6e85afa1d8b.intercom-clicks.com/via/e?ob=x4zvkrjqqRZRiEnnSVTUEcrGsSYhCU42wrWRlew2XlNReh8NJDnIA1%2BLXcRqx1m18r1eZfVU91E0X6sl%2FL%2FQRQ%3D%3D&h=fff9f497f4f1829830e556eb7f1eeca421b96e36-j4vqph0r_26411614510&l=09f1846e8f39aa2100d8187046e217a9b38e2385-2936252)
+## Submit Proposal
 
-Once your proposal is submitted, wall owners will be able to directly message you in the proposal. Make sure to check your [dashboard](https://beautify-c6e85afa1d8b.intercom-clicks.com/via/e?ob=%2BPKEUwob946NGPJ093%2BopNfknNqCrZl%2BDtchNoeviHcIpOn%2FebVmX4rAjY1t8fzVBTX3O%2BdVYWDq9sAjsoYCrA%3D%3D&h=3bf1a3bdd2d1ae8de378d6bd90437231522fc6ca-j4vqph0r_26411614510&l=4801333f1091c79faae8cf1e708b2932f4536200-2936180) for updates! When a final artist is selected, a notification will be sent to all artists. Please contact moral@beautifyearth.com with any questions about the project or proposal requirements.
+Once your proposal is submitted, wall owners will be able to directly message you in the proposal. Make sure to check your dashboard for updates! When a final artist is selected, a notification will be sent to all artists. Please contact moral@beautifyearth.com with any questions about the project or proposal requirements.
 
-Learn more about becoming a part of the Beautify artist community [here](https://www.beautifyearth.com/artists).
+Learn more about becoming a part of the Beautify artist community [here](/artists/).
 
-Interested in a mural for your wall? [Register your wall](https://www.beautifyearth.com/how-it-works) to start connecting with artists.
+Interested in a mural for your wall? [Register your wall](/how-it-works/) to start connecting with artists.

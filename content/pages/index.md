@@ -1,7 +1,7 @@
 ---
 title: "Mural & Street Art Programs | Beautify Earth"
 description: "Producing, promoting, and advocating for art on the streets since 2012"
-originalUrl: "https://www.beautifyearth.org"
+originalUrl: "https://www.beautifyearth.org/"
 layout: page.njk
 permalink: "/"
 fullwidth: true
@@ -22,8 +22,8 @@ fullwidth: true
       <h2>Every School</h2>
       <p>Beautify Earth develops mural and street art programs in partnership with cities, NGOs, schools, and mission-aligned businesses to engage local schools and students in beautification of their facilities, hallways, schoolyards, and classrooms.</p>
       <p>
-        <a class="btn" href="https://www.beautifyearth.com/contact">Sponsor a School</a>
-        <a class="btn ghost" href="https://beautifyearth.com/contact">Beautify My School</a>
+        <a class="btn" href="https://www.beautifyearth.com/contact-us">Sponsor a School</a>
+        <a class="btn ghost" href="https://www.beautifyearth.com/contact-us">Beautify My School</a>
       </p>
     </div>
   </div>

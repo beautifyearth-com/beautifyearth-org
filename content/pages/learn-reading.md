@@ -9,7 +9,6 @@ permalink: "/learn-reading/"
 
 ### Primary Navigation
 
-## Main Content
 No main page content was present in the served markup (the page appears to be an empty/sparse "Read" section page).
 
 

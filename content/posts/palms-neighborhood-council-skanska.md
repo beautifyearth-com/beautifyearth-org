@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/palms-neighborhood-council-skanska/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Jun 4, 2018
 **Read Time:** 3 min read
@@ -23,7 +23,7 @@ A purple owl, a honey bee, a pink rabbit and a parrot are all part of the new cr
 
 Identified over four years ago by the [Palms Neighborhood Council (PNC)](http://palmsnc.la/), this particular wall was in need of some major TLC, including graffiti removal, and when Nick Greif became president of the Council in 2016 he made it a top priority on his agenda. After receiving public art approval from the [Los Angeles Department of Cultural Affairs](http://culturela.org/), Beautify Earth and the PNC jumped into action.
 
-First, like many of the Beautify Earth-sponsored murals, wall prep needed to take place prior to an artist executing a design. Given the size of the wall and its visibility in the Palms community, Beautify Earth, and specifically, [Board Member Sergio Cuculiza](https://beautifyearth.org/supporters/), knew just who to call.
+First, like many of the Beautify Earth-sponsored murals, wall prep needed to take place prior to an artist executing a design. Given the size of the wall and its visibility in the Palms community, Beautify Earth, and specifically, [Board Member Sergio Cuculiza](/supporters/), knew just who to call.
 
 A leading development and construction company with a mission to "build for a better society," [Skanska USA](https://www.usa.skanska.com/), came in as a perfect partner for the job. "As a local Los Angeles contractor, Skaska is always looking for ways to support the communities where we work and play," said Ellen Mair, Director of Business Development at Skanska USA. "Beautify Earth gives us that opportunity by allowing us to be a small part of the team."
 
@@ -39,18 +39,18 @@ Speaking to the effect that the mural will have on the Palms community, Greif sa
 
 Beautify Earth was honored to help bring this mural to life for the Palms community. And this mural, like many of the murals we sponsor, is key to fulfilling our mission of building stronger communities through art and service.
 
-We would like to invite you to join us on this one-of-a-kind adventure by becoming a [monthly member](https://beautifyearth.org/donate/#donorbox), which ensures we can continue to empower artists, build stronger neighborhoods and cities, and instill community pride.
+We would like to invite you to join us on this one-of-a-kind adventure by becoming a [monthly member](/donate/#donorbox), which ensures we can continue to empower artists, build stronger neighborhoods and cities, and instill community pride.
 
-[#beautifyearth](https://www.beautifyearth.org/blog/hashtags/beautifyearth) [#losangeles](https://www.beautifyearth.org/blog/hashtags/losangeles) [#murals](https://www.beautifyearth.org/blog/hashtags/murals) [#palms](https://www.beautifyearth.org/blog/hashtags/palms)
+#beautifyearth #losangeles #murals #palms
 
-**Categories:**
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+
+- Community
+- nonprofit
 
 ## Recent Posts
 
-[See All](https://www.beautifyearth.org/blog)
+[See All](/blog)
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Beautify helped Zappos lead the way in experiential marketing through murals](https://www.beautifyearth.org/post/zappos-ten-core-value-mural-campaign)
-- [Beautify helps Lexus' crossover of art & marketing via murals](https://www.beautifyearth.org/post/lexus-urban-crossover-brand-values-murals)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)
+- [Beautify helps Lexus' crossover of art & marketing via murals](/post/lexus-urban-crossover-brand-values-murals)

@@ -28,7 +28,7 @@ The SprayVida Team
 
 **Contact:** sprayvida@gmail.com | [Instagram](https://www.instagram.com/sprayvida/)
 
-**Categories:**
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+
+- Community
+- Projects
+- nonprofit

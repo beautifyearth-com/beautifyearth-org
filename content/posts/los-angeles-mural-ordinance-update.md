@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/los-angeles-mural-ordinance-update/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Published:** Aug 22, 2020
 
@@ -20,7 +20,7 @@ permalink: "/post/los-angeles-mural-ordinance-update/"
 
 After many years of working with Councilman David Ryu and team to bring countless pieces of mural art to Los Angeles, I am honored to share the attached motion signed by David Ryu himself. Recognizing the benefit murals have in our community, Beautify Earth and LA-City District 4 (CD4), have seen the profound effects murals have on communities, and we cannot be more grateful for CD4 in pursuing this.
 
-Throughout this process we have been working closely with our partner in Councilmember Ryu's office, Nick Greif. Nick has been a long time BE fan, working with us to bring the [longest mural](https://www.beautifyearth.com/post/palms-neighborhood-council-skanska) in West LA to Palms when he was President of the Neighborhood Council there and collaborating with us on the [Welcome to Western](https://beautifyearth.org/projects/beautify-western-los-angeles-great-streets/) project that brought five big murals to a small-business corridor in need of a little love.
+Throughout this process we have been working closely with our partner in Councilmember Ryu's office, Nick Greif. Nick has been a long time BE fan, working with us to bring the [longest mural](/post/palms-neighborhood-council-skanska/) in West LA to Palms when he was President of the Neighborhood Council there and collaborating with us on the [Welcome to Western](/projects/beautify-western-los-angeles-great-streets/) project that brought five big murals to a small-business corridor in need of a little love.
 
 If you ever wished our communities could be brighter, more inspiring, and pedestrian friendly places filled with art, this is our chance!
 
@@ -36,4 +36,4 @@ Since the re-legalization of murals in 2013 the Mural Ordinance has achieved man
 
 In previous decades the City was even known as "the Mural Capital of the World." To help murals thrive in Los Angeles and recognize the vital cultural self-expression murals represent, the City must work to find the simplest path forward to create legal murals, while retaining our strong protections against commercial advertising. This can be accomplished by creating a new category of "By-Right Murals" exempt from existing fees and review process to be added to the existing mural permitting process as long as the mural meets a few simple and objective conditions.
 
-**Category:** [Community](https://www.beautifyearth.org/blog/categories/community)
+**Category:** Community

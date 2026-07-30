@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/artist-opportunity-mural-council-bluffs-iowa/"
 ---
 
-**Author:** [Moral](https://www.beautifyearth.org/profile/moral/profile)
+**Author:** [Moral](/profile/moral/profile)
 
 **Date:** May 7, 2020 | **Updated:** May 11, 2020
 
@@ -44,6 +44,6 @@ Once your proposal is submitted, wall owners will be able to directly message yo
 
 If you have previously submitted a proposal and are awaiting a response, we thank you for your patience as we work to push projects forward and navigate through this challenging time. We are still waiting to finalize artists on a number of projects and will notify the artist community once projects are closed. If you have any questions or would like an update on a specific project please chat with us on our site to speak directly to a Beautify team member.
 
-Learn more about becoming a part of the Beautify artist community [here](https://www.beautifyearth.com/artists).
+Learn more about becoming a part of the Beautify artist community [here](/artists/).
 
-Interested in a mural for your wall? [Register your wall](https://www.beautifyearth.com/how-it-works) to start connecting with artists.
+Interested in a mural for your wall? [Register your wall](/how-it-works/) to start connecting with artists.

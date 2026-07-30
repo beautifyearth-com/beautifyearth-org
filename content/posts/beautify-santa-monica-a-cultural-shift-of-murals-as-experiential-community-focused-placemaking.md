@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/beautify-santa-monica-a-cultural-shift-of-murals-as-experiential-community-focused-placemaking/"
 ---
 
-By [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+By [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 Mar 15, 2020 | 4 min read
 Updated: Jan 20, 2021
 
@@ -16,7 +16,7 @@ Updated: Jan 20, 2021
 
 Our online platform has helped people beautify walls in more than 100 cities.
 
-[Contact us](https://www.beautifyearth.com/local-organizations) to discuss how we can beautify yours.
+[Contact us](/local-organizations/) to discuss how we can beautify yours.
 
 *Mural by [Ruben Rojas](https://marketplace.beautifyearth.com/artists/rubenrojas) and Cloe Hakakian*
 
@@ -36,7 +36,7 @@ Foot traffic on Lincoln is visibly booming around these businesses, with revenue
 
 ### Inspiring other cities
 
-As our success gathered attention, people in other cities have picked up our ideas and created their own projects, from [Beautify Crenshaw](https://losangeles.cbslocal.com/2014/10/13/movement-to-beautify-dilapidated-buildings-comes-to-crenshaw/) in Los Angeles to [Beautify Rockaways](https://beautifyearth.org/projects/beautify-rockaways/) in New York.
+As our success gathered attention, people in other cities have picked up our ideas and created their own projects, from [Beautify Crenshaw](https://losangeles.cbslocal.com/2014/10/13/movement-to-beautify-dilapidated-buildings-comes-to-crenshaw/) in Los Angeles to [Beautify Rockaways](/projects/beautify-rockaways/) in New York.
 
 ### Measurable benefits
 
@@ -56,7 +56,7 @@ Lincoln Boulevard has specifically seen:
 
 ### How we did it
 
-From community paint days to civic engagement workshops through our [Civic Love](https://beautifyearth.org/civic-love/) program, we activated Santa Monica and our residents to participate in impactful public art projects. Beautify Santa Monica was a coordinated effort of multiple projects.
+From community paint days to civic engagement workshops through our [Civic Love](/civic-love/) program, we activated Santa Monica and our residents to participate in impactful public art projects. Beautify Santa Monica was a coordinated effort of multiple projects.
 
 Beautify combines both the people and tech it takes to plan and manage projects across a city:
 
@@ -110,7 +110,7 @@ City of Santa Monica, Community Corp, Beautify Earth - Unveiling Ceremony of mur
 We're connecting neighborhoods, residents, tourists, businesses and government, inspiring people to get involved, and improving the well-being of our citizens and vibrancy of our communities through:
 
 **Participation**
-From community paint days, to civic engagement workshops through our [Civic Love](https://beautifyearth.org/civic-love/) program, we have "activated" Santa Monica and our residents to participate in impactful public art projects.
+From community paint days, to civic engagement workshops through our [Civic Love](/civic-love/) program, we have "activated" Santa Monica and our residents to participate in impactful public art projects.
 
 **Tourism**
 Tourists see murals as an attraction, which add invaluable, viral social media marketing for the City.
@@ -127,4 +127,4 @@ Santa Monica College offers a Beautify Earth, experiential learning component to
 
 [Explore local artists](https://marketplace.beautifyearth.com/#/artists)
 
-[Join our local organizations program](https://www.beautifyearth.com/local-organizations)
+[Join our local organizations program](/local-organizations/)

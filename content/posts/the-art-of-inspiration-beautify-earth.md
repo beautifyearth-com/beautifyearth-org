@@ -45,8 +45,8 @@ Beautify Earth
 ---
 
 ## Tags
-[#artwork](https://www.beautifyearth.org/blog/hashtags/artwork) | [#education](https://www.beautifyearth.org/blog/hashtags/education) | [#inspiration](https://www.beautifyearth.org/blog/hashtags/inspiration) | [#losangeles](https://www.beautifyearth.org/blog/hashtags/losangeles)
+#artwork | #education | #inspiration | #losangeles
 
 ## Categories
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+- Community
+- nonprofit

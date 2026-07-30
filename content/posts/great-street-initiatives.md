@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/great-street-initiatives/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+**Author:** [Beautify Team](/profile/eric/profile)
 
 **Date:** Jun 11, 2016
 
@@ -20,7 +20,7 @@ As part of Mayor Garcetti's Great Streets Initiative, Councilmember David Ryu an
 
 Beautify Earth provided the artist component on the street to beautify the facades in an effort to create immediate impact, positivity, and inspiration on the street. Kick-off Phase I included four utility boxes and five walls. Phase II was five more walls for a total of 10 clustered murals and 14 total clustered pieces or public art.
 
-**Categories:**
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Community](https://www.beautifyearth.org/blog/categories/community)
+
+- nonprofit
+- Projects
+- Community

@@ -45,14 +45,4 @@ So, the only limits are your imagination!
 
 ---
 
-## Recent Posts Section
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [A Call to Action (Gather Homes)](https://www.beautifyearth.org/post/a-call-to-action-gather-homes)
-
-## Footer Links
-
-- [Instagram](https://www.instagram.com/beautifyearth/)
-- [LinkedIn](https://www.linkedin.com/company/beautifyearth/)
-- [YouTube](https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw)

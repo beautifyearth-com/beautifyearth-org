@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/toy-district-la-mural-artist-opportunity/"
 ---
 
-- [Moral](https://www.beautifyearth.org/profile/moral/profile)
+- [Moral](/profile/moral/profile)
 - Apr 1, 2020
 - 1 min read
 
@@ -38,6 +38,6 @@ Please submit a proposal that includes the following information by clicking "Be
 
 Once your proposal is submitted, wall owners will be able to directly message you in the proposal. Make sure to check your [dashboard](https://marketplace.beautifyearth.com/#/dashboard) for updates! When a final artist is selected, a notification will be sent to all artists. Please contact moral@beautifyearth.com with any questions about the project or proposal requirements.
 
-Learn more about becoming a part of the Beautify artist community [here](https://www.beautifyearth.com/artists).
+Learn more about becoming a part of the Beautify artist community [here](/artists/).
 
-Interested in a mural for your wall? [Register your wall](https://www.beautifyearth.com/how-it-works) to start connecting with artists.
+Interested in a mural for your wall? [Register your wall](/how-it-works/) to start connecting with artists.

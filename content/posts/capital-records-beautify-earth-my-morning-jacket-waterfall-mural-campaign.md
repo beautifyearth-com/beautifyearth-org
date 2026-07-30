@@ -16,7 +16,7 @@ permalink: "/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mur
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 *Mural by Chris Chappell in Louisville, Kentucky for Capitol Records*
 

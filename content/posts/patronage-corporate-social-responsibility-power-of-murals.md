@@ -66,15 +66,15 @@ Michaelangelo would likely agree.
 
 ## Tags
 
-- [Artists](https://www.beautifyearth.org/blog/tags/artists)
-- [Murals](https://www.beautifyearth.org/blog/tags/murals)
-- [Muralists](https://www.beautifyearth.org/blog/tags/muralists)
-- [Corporate Social Responsibility](https://www.beautifyearth.org/blog/tags/corporate-social-responsibility)
-- [Brands](https://www.beautifyearth.org/blog/tags/brands)
-- [Marketing](https://www.beautifyearth.org/blog/tags/marketing)
-- [Out of Home Advertising](https://www.beautifyearth.org/blog/tags/out-of-home-advertising)
+- Artists
+- Murals
+- Muralists
+- Corporate Social Responsibility
+- Brands
+- Marketing
+- Out of Home Advertising
 
 ## Categories
 
-- [Corporate Partners](https://www.beautifyearth.org/blog/categories/corporate-partners)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
+- Corporate Partners
+- Education

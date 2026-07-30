@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/wrdsmth-blesses-west-adams-campus/"
 ---
 
-**Author:** [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+**Author:** [Sergio Cuculiza](/profile/sergio/profile)
 
 **Date:** Aug 25, 2020
 
@@ -26,4 +26,4 @@ Trying times tend to bring the best out of people and we are happy to have such 
 
 We hope this brought a little cheer to your day. Don't forget to dream...BIGGER.
 
-[-Beautify Education](https://www.beautifyearth.com/nonprofit-schools)
+[-Beautify Education](/nonprofit/)

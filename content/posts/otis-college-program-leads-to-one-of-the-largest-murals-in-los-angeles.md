@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/otis-college-program-leads-to-one-of-the-largest-murals-in-los-angeles/"
 ---
 
-**Author:** [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+**Author:** [Sergio Cuculiza](/profile/sergio/profile)
 
 **Date:** Apr 21, 2018 | 2 min read
 
@@ -24,9 +24,9 @@ Karen Dial (Drollinger properties) and Russell are working on bringing more mura
 
 "It is one of my passions to bring more public art and beauty to Westchester," said Dial. "It's all about cultural development and partnering with David has opened that up. We're going to keep adding new artwork, so stay tuned!"
 
-See how you can get your school involved to help beautify our education system [here](https://www.beautifyearth.com/nonprofit-schools).
+See how you can get your school involved to help beautify our education system [here](/nonprofit/).
 
 ### Categories
-- [Community](https://www.beautifyearth.org/blog/categories/community)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
-- [schools](https://www.beautifyearth.org/blog/categories/schools)
+- Community
+- Education
+- schools

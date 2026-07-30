@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/sheraton-beautifies-belltown-seattle/"
 ---
 
-**Author:** [Evan Meyer](https://www.beautifyearth.org/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
+**Author:** [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 **Published:** Sep 29, 2019 | 1 min read
 
@@ -18,7 +18,7 @@ permalink: "/post/sheraton-beautifies-belltown-seattle/"
 
 Our online platform has delivered results for more than 50 brands from local to global.
 
-[Contact us](https://www.beautifyearth.com/brands-agencies) to discuss what we can do for you.
+[Contact us](/brands-agencies/) to discuss what we can do for you.
 
 *Mural by Cody Bogart in Belltown area of Seattle for Sheraton*
 
@@ -30,16 +30,15 @@ Our online platform removes the friction from the process, making it easy for br
 
 The project turned a success by bringing together various local groups and bringing beauty to this bland, but highly trafficked wall. The focus of the gathering became the Art and together the community left its footprint for all to see. A great example of how brand and community can stand together to bring about positive influence to local communities.
 
-[Learn more](https://www.beautifyearth.com/brands-agencies) about how Beautify can help create campaigns like this for your brand or agency
+[Learn more](/brands-agencies/) about how Beautify can help create campaigns like this for your brand or agency
 
 [*Evan Meyer*](https://www.linkedin.com/in/evan-meyer/) *is a co-founder and the CEO of Beautify.*
 
-**Categories:** [Community](https://www.beautifyearth.org/blog/categories/community) | [Projects](https://www.beautifyearth.org/blog/categories/projects) | [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
 
 ---
 
 ## Recent Posts
 
-- [Building Art into a Building's Purpose](https://www.beautifyearth.org/post/building-art-into-a-building-s-purpose)
-- [Patronage, Corporate Social Responsibility, & the Power of Murals](https://www.beautifyearth.org/post/patronage-corporate-social-responsibility-power-of-murals)
-- [Beautify helped Zappos lead the way in experiential marketing through murals](https://www.beautifyearth.org/post/zappos-ten-core-value-mural-campaign)
+- [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
+- [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
+- [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)

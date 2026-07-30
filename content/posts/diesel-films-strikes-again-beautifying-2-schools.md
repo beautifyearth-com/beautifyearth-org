@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/diesel-films-strikes-again-beautifying-2-schools/"
 ---
 
-**Author:** [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+**Author:** [Sergio Cuculiza](/profile/sergio/profile)
 
 **Published:** May 31, 2019
 **Updated:** Mar 18, 2020
@@ -28,9 +28,9 @@ Diesel Films first sponsorship was at West Adams High in Koreatown in Los Angele
 
 "Art and music programs are being eliminated from public education everywhere, so one of our initiatives is to help promote the creative welfare of our kids who deserve better. It's amazing how turning a ugly yellow wall into a vibrant piece of art can boost the mood and morale of a community." – Seth Shapiro, CEO, Diesel Films
 
-Check out more school projects and how to get involved, [here](https://www.beautifyearth.com/nonprofit-schools).
+Check out more school projects and how to get involved, [here](/nonprofit/).
 
-**Categories:**
-- [Education](https://www.beautifyearth.org/blog/categories/education)
-- [schools](https://www.beautifyearth.org/blog/categories/schools)
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
+
+- Education
+- schools
+- nonprofit

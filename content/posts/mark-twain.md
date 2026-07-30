@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/mark-twain/"
 ---
 
-**Author:** [Beautify Team](https://www.beautifyearth.org/profile/arati/profile)
+**Author:** [Beautify Team](/profile/arati/profile)
 
 **Published:** Feb 12, 2019
 
@@ -22,7 +22,7 @@ The campus of Mark Twain Middle School in West Los Angeles now boasts a total of
 
 Proving that one voice can make a difference, the brainchild for the school's creative projects came from one parent who wanted to bring beauty and art to their child's school. Together parents and teachers participated in paint days and pitched in to execute the mural opportunity. Contact us at <info@beautifyearth.org> to request your own DIY program for 1/8 the cost of a normal mural.
 
-**Categories:**
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Education](https://www.beautifyearth.org/blog/categories/education)
+
+- nonprofit
+- Projects
+- Education

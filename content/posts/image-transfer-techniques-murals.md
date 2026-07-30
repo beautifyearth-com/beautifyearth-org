@@ -54,12 +54,9 @@ What's your favorite technique to use? Let us know in the comments.
 ---
 
 ## Tags
-- [Artists](https://www.beautifyearth.org/blog/tags/artists)
-- [knowhow](https://www.beautifyearth.org/blog/tags/knowhow)
-- [transfertechniques](https://www.beautifyearth.org/blog/tags/transfertechniques)
+- Artists
+- knowhow
+- transfertechniques
 
 ## Category
-- [Know How](https://www.beautifyearth.org/blog/categories/know-how)
-
-## Footer Links
-
+- Know How

@@ -19,9 +19,9 @@ permalink: "/post/lexus-urban-crossover-brand-values-murals/"
 
 Our online platform has helped people beautify walls in more than 100 cities.
 
-[Contact us](https://www.beautifyearth.com/local-organizations) to discuss how we can beautify yours.
+[Contact us](/local-organizations/) to discuss how we can beautify yours.
 
-When Lexus launched their UX crossover in 2019, they wanted to convey the potential for adventure in the urban landscapes and drivers for which the UX was designed. They understood the value of [murals as brand-builders](https://www.beautifyearth.com/post/experiential-marketing-the-antidote-to-mural-advertising).
+When Lexus launched their UX crossover in 2019, they wanted to convey the potential for adventure in the urban landscapes and drivers for which the UX was designed. They understood the value of murals as brand-builders.
 
 Their vision: "in a world that's already mapped to completion, with GPS tracking and pinpoint navigation anywhere a city driver might find themselves, the greatest sense of adventure lies in a creative's ability to shape the world around them into something new through art and ingenuity."
 
@@ -41,6 +41,6 @@ The platform streamlines connections between brands and professional street arti
 ### Quote from Givewith
 "Givewith created a digital advertising campaign that raised awareness around Lexus' and Beautify Earth's dedication to creating a world worth exploring, while increasing sentiment and favorability for the Lexus brand and the first-ever UX."
 
-[Learn more](https://www.beautifyearth.com/brands-agencies) about how Beautify can help create campaigns like this for your brand or agency, or check out some [local artists](https://marketplace.beautifyearth.com/#/artists) here.
+[Learn more](/brands-agencies/) about how Beautify can help create campaigns like this for your brand or agency, or check out some [local artists](https://marketplace.beautifyearth.com/#/artists) here.
 
 **About the Author:** [Evan Meyer](https://www.linkedin.com/in/evan-meyer/) is a co-founder and the CEO of Beautify.

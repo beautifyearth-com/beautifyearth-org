@@ -7,7 +7,6 @@ permalink: "/learn/"
 ---
 
 
-## Main Content
 # Learn
 
 ###### Read

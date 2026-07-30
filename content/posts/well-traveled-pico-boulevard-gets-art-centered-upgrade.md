@@ -8,7 +8,7 @@ tags: posts
 permalink: "/post/well-traveled-pico-boulevard-gets-art-centered-upgrade/"
 ---
 
-- **Author:** [Beautify Team](https://www.beautifyearth.org/profile/arati/profile)
+- **Author:** [Beautify Team](/profile/arati/profile)
 - **Date:** Aug 1, 2017
 - **Read Time:** 1 min read
 
@@ -16,7 +16,7 @@ Santa Monica's Pico Boulevard serves as a great example of the underused potenti
 
 The PIO is a business improvement district in Santa Monica, committed to promote business and commerce within the Santa Monica/Pico Blvd Business Improvement area, as well as promote goodwill between the business community and the residential areas immediately adjacent to the Boulevard. With Beautify Earth and Heather Rabun, Pico is now an artful stretch featuring 40 captivating murals. See the popular walking tour map for more details on all the wallscapes.
 
-**Categories:**
-- [nonprofit](https://www.beautifyearth.org/blog/categories/nonprofit)
-- [Projects](https://www.beautifyearth.org/blog/categories/projects)
-- [Community](https://www.beautifyearth.org/blog/categories/community)
+
+- nonprofit
+- Projects
+- Community

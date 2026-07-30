@@ -8,11 +8,11 @@ tags: posts
 permalink: "/post/living-with-murals/"
 ---
 
-- [Sergio Cuculiza](https://www.beautifyearth.org/profile/sergio/profile)
+- [Sergio Cuculiza](/profile/sergio/profile)
 - Jun 10, 2021
 - 2 min read
 
-A personal story from our Director or Education at the Beautify Earth [Non-Profit](http://www.beautifyearth.com/nonprofit)
+A personal story from our Director or Education at the Beautify Earth [Non-Profit](/nonprofit/)
 
 When I was a kid my grandmother moved into a very humble, tiny house. I remember my father bought a few gallons of paint: soothing light blue and light green. My family and I painted the interior and exterior of the small house in one day. The property was transformed and so was my grandmother, the new paint job made her incredibly happy!
 
@@ -34,4 +34,4 @@ This is why we feel passionate about beautifying schools: Without a doubt, art h
 
 <video controls preload="metadata" src="/videos/b7dda5_ca0eba0e1ee1412c8094e5ee8e2d7c09-1080p.mp4"></video>
 
-- Daniela Torres Mattus ([Director of Education](https://www.beautifyearth.com/nonprofit-donate))
+- Daniela Torres Mattus ([Director of Education](/nonprofit/))

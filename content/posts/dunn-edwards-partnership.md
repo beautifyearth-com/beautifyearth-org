@@ -9,7 +9,7 @@ permalink: "/post/dunn-edwards-partnership/"
 ---
 
 - **Writer:** Beautify Team
-- **Author Profile:** [Beautify Team](https://www.beautifyearth.org/profile/eric/profile)
+- **Author Profile:** [Beautify Team](/profile/eric/profile)
 - **Date:** Mar 11, 2018
 - **Read Time:** 1 min read
 

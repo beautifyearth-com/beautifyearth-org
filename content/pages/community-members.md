@@ -6,9 +6,6 @@ layout: page.njk
 permalink: "/community-members/"
 ---
 
-### Navigation Header
-
-### Main Section
 **Image:** Community hero image
 
 # Join the Beautify Community
@@ -40,8 +37,6 @@ Take your participation to the next level by adding walls you want to see beauti
 [Get Started](https://marketplace.beautifyearth.com/#/signup)
 
 **Image:** file12.jpg
-
-## Footer Section
 
 **Logo:** BeautifyEarth_Logo_Vert_White.png
 

@@ -11,6 +11,18 @@
     { "source": "/how-to-s/", "destination": "/blog/", "permanent": true },
     { "source": "/property-owners/", "destination": "https://www.beautifyearth.com/property-owners", "permanent": true },
     { "source": "/schools/", "destination": "/", "permanent": false },
-    { "source": "/nonprofit-donate/", "destination": "/nonprofit/", "permanent": false }
+    { "source": "/nonprofit-donate/", "destination": "/nonprofit/", "permanent": false },
+    { "source": "/blog/categories/:slug(.*)", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/tags/:slug(.*)", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/hashtags/:slug(.*)", "destination": "/blog/", "permanent": true },
+    { "source": "/donate/", "destination": "/nonprofit/", "permanent": true },
+    { "source": "/profile/:path(.*)", "destination": "https://art.beautifyearth.com/artists", "permanent": true },
+    { "source": "/projects/:path(.*)", "destination": "/", "permanent": true },
+    { "source": "/civic-love/", "destination": "/", "permanent": true },
+    { "source": "/every-woman/", "destination": "/blog/", "permanent": true },
+    { "source": "/sponsorships/", "destination": "/nonprofit/", "permanent": true },
+    { "source": "/supporters/", "destination": "/nonprofit/", "permanent": true },
+    { "source": "/mural-agreement/", "destination": "/privacy/", "permanent": true },
+    { "source": "/terms/", "destination": "/privacy/", "permanent": true }
   ]
 }

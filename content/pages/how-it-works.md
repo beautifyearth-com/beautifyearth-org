@@ -6,12 +6,8 @@ layout: page.njk
 permalink: "/how-it-works/"
 ---
 
-Canonical URL: https://www.beautifyearth.org/how-it-works
+Canonical URL: /how-it-works
 
-## Navigation Header
-
-
-## Main Content Section
 
 ![Profile Icon](/images/972012c558-20_d7ce78fe6caf4530804d0a20ed911293_mv2_d_2048_2048_s_2.jpeg)
 
@@ -45,7 +41,7 @@ Canonical URL: https://www.beautifyearth.org/how-it-works
 
 Start a mural campaign or create a mural for your local business. Hire an artist, find a wall, and manage a project of any size.
 
-[Be the Producer](https://www.beautifyearth.org/brands-agencies)
+[Be the Producer](/brands-agencies)
 
 ### Card 2: Paint a Mural
 ![portfolio pic.jpg](/images/2a59619600-4f296c_6f49593ea84f44cda2443df61ef9516a_mv2.jpg)
@@ -54,7 +50,7 @@ Start a mural campaign or create a mural for your local business. Hire an artist
 
 Leave your mark on the world. Build your portfolio, find jobs, and manage your projects all in one place.
 
-[Be the Artist](https://www.beautifyearth.org/artists)
+[Be the Artist](/artists)
 
 ### Card 3: List Your Wall
 ![host pic.jpg](/images/e2aab296a2-4f296c_3f9a55bd8e2b4dceaa212fe70487285a_mv2.jpg)
@@ -63,7 +59,7 @@ Leave your mark on the world. Build your portfolio, find jobs, and manage your p
 
 Have a wall? Beautify it! Transform your space into something incredible and get paid to Beautify your community.
 
-[Be the Host](https://www.beautifyearth.org/property-owners)
+[Be the Host](/property-owners)
 
 ## Hire an artist, find a wall, or both
 
@@ -105,28 +101,21 @@ Begin working with our amazing community of artists and hosts. View invitations 
 
 # 3. Collaborate
 
-Pay the design fee to collaborate with an artist on a design that is impactful and customized to your needs. All design fees count towards the [final cost](https://intercom.help/beaut/en/articles/3489300-how-much-does-a-mural-cost) of the mural, determined between you and the artist.
+Pay the design fee to collaborate with an artist on a design that is impactful and customized to your needs. All design fees count towards the final cost of the mural, determined between you and the artist.
 
 # 4. Start Beautifying
 
 We have your back by facilitating all contracting and payments.
 
-[About](https://www.beautifyearth.org/about)
+[About](/about)
 
-[Contact](https://www.beautifyearth.org/about)
+[Contact](/about)
 
-[News](https://www.beautifyearth.org/privacy)
+[News](/privacy)
 
-[Privacy](https://www.beautifyearth.org/privacy)
+[Privacy](/privacy)
 
-[Terms](https://www.beautifyearth.org/terms)
-
-
-### Social Media Icons & Links:
-- [Instagram](https://www.instagram.com/beautifyearth/)
-- Substack (icon only)
-- [LinkedIn](https://www.linkedin.com/company/beautifyearth/)
-- [YouTube](https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw)
+[Terms](/terms)
 
 
 <!-- TODO widgets on original Wix page: No embedded videos or forms detected. Page contains navigation links, CTA buttons (mailto link, Facebook Messenger link, signup links), and a multi-step process outline of the mural project workflow. -->
