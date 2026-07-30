@@ -8,6 +8,7 @@
     "download-images": "node scripts/download-images.mjs"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "sharp": "^0.35.3"
   }
 }
