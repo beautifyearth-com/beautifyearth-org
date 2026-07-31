@@ -129,18 +129,48 @@ fullwidth: true
   </div>
 </div>
 
-<div class="wrap section">
+<div class="wrap section center">
   <h2 class="centerhead">More Mural Campaign Partners</h2>
-  <ul class="prose-center">
-    <li>American Express — <a href="/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/">Fiscal Literacy</a></li>
-    <li>Blue Shield — <a href="/post/blue-shield-s-mural-is-a-gift-to-its-new-community/">Childhood Mental Health</a></li>
-    <li>Lexus — <a href="/post/lexus-urban-crossover-brand-values-murals/">Creativity &amp; Community Impact</a></li>
-    <li>Anheuser Busch — <a href="/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-stars/">Celebrating Community Leaders</a></li>
-    <li>Target — <a href="/post/target-brings-murals-to-their-employees-as-well-as-customers/">Local Culture / Employee Integration</a></li>
-    <li>Capitol Records — <a href="/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mural-campaign/">Sustainability</a></li>
-    <li>Zappos — <a href="/post/zappos-ten-core-value-mural-campaign/">Company Core Values</a></li>
-    <li>TOMS — <a href="/post/toms-taps-mural-company-in-campaign-to-end-gun-violence/">Ending Gun Violence</a></li>
-    <li>Heineken — <a href="/post/heineken/">Local Community Empowerment</a></li>
-    <li>Sheraton — <a href="/post/sheraton-beautifies-belltown-seattle/">Bringing People Together</a></li>
-  </ul>
+  <div class="cards brandgrid">
+    <a class="card boxed" href="/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/">
+      <img src="/images/bab5b9023f-e1ec93_2d47236cbbaf4232a1787108a76436b7_mv2.png" alt="American Express">
+      <p>Fiscal Literacy</p>
+    </a>
+    <a class="card boxed" href="/post/blue-shield-s-mural-is-a-gift-to-its-new-community/">
+      <img src="/images/ca38f42d40-e1ec93_2c5e8ace26ca4e1d828c54d76550cb52_mv2.png" alt="Blue Shield of California">
+      <p>Childhood Mental Health</p>
+    </a>
+    <a class="card boxed" href="/post/lexus-urban-crossover-brand-values-murals/">
+      <img src="/images/cfacacf75b-e1ec93_0c677c7489a243afb1c0d8858ad28ed8_mv2.png" alt="Lexus">
+      <p>Creativity &amp; Community Impact</p>
+    </a>
+    <a class="card boxed" href="/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-stars/">
+      <img src="/images/b397479d77-e1ec93_3b2bcffd62944c22be33677e066eca4c_mv2.png" alt="Anheuser-Busch">
+      <p>Celebrating Community Leaders</p>
+    </a>
+    <a class="card boxed" href="/post/target-brings-murals-to-their-employees-as-well-as-customers/">
+      <img src="/images/71f9ad9161-e1ec93_7ea93686c09149a382440c68a50bd65c_mv2.png" alt="Target">
+      <p>Local Culture / Employee Integration</p>
+    </a>
+    <a class="card boxed" href="/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mural-campaign/">
+      <img src="/images/278d70aba8-e1ec93_7b62b8d73b4c403ea3494241abf7feef_mv2.png" alt="Capitol Records">
+      <p>Sustainability</p>
+    </a>
+    <a class="card boxed" href="/post/zappos-ten-core-value-mural-campaign/">
+      <img src="/images/7ebbf02b9a-e1ec93_99c73afb00d74a63baedc46d755538e0_mv2.png" alt="Zappos">
+      <p>Company Core Values</p>
+    </a>
+    <a class="card boxed" href="/post/toms-taps-mural-company-in-campaign-to-end-gun-violence/">
+      <img src="/images/eff44428ec-e1ec93_5d161c2fb5ac43f598e5772465371216_mv2.png" alt="TOMS">
+      <p>Ending Gun Violence</p>
+    </a>
+    <a class="card boxed" href="/post/heineken/">
+      <img src="/images/bddf1ac62f-e1ec93_ccbf22f71a4e4453b26abb6090595450_mv2.png" alt="Heineken">
+      <p>Local Community Empowerment</p>
+    </a>
+    <a class="card boxed" href="/post/sheraton-beautifies-belltown-seattle/">
+      <img src="/images/8158003098-e1ec93_1e992c57eed14e4394c456a1a884857d_mv2.png" alt="Sheraton">
+      <p>Bringing People Together</p>
+    </a>
+  </div>
 </div>
