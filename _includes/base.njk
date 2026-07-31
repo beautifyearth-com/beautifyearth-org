@@ -139,6 +139,22 @@
   details.faq summary::after { content:"+"; position:absolute; right:4px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:22px; font-weight:400; }
   details.faq[open] summary::after { content:"\2212"; }
   details.faq summary::-webkit-details-marker { display:none; }
+  .hero.centered { text-align:center; }
+  .hero.centered::before { background:rgba(12,20,28,.45); }
+  .hero.centered h1, .hero.centered .sub { margin-left:auto; margin-right:auto; }
+  .seal.small, .card img.seal.small { width:84px; height:84px; }
+  .pillars .card h3, h3.caps { text-transform:uppercase; letter-spacing:3px; font-weight:500; font-size:16.5px; }
+  .band.brush { background-size:cover; background-position:center; color:#fff; margin-top:0; }
+  .band.brush h2, .band.brush h3, .band.brush p { color:#fff; }
+  .howcols { display:grid; grid-template-columns:repeat(3,1fr); gap:0; margin-top:28px; text-align:left; }
+  .howcols > div { padding:6px 30px; }
+  .howcols > div + div { border-left:1px solid var(--line); }
+  .howcols h3 { margin:0 0 6px; }
+  @media (max-width: 760px) { .howcols { grid-template-columns:1fr; } .howcols > div + div { border-left:none; border-top:1px solid var(--line); } }
+  .card.part { padding:0; overflow:hidden; }
+  .card.part img { width:100%; aspect-ratio:4/3; object-fit:cover; margin:0 0 12px; border-radius:0; }
+  .card.part h3, .card.part p { padding:0 16px; }
+  .card.part p:last-child { padding-bottom:16px; }
   .card.step { text-align:left; }
   .card.step .num { display:inline-block; font-size:26px; font-weight:800; color:var(--green); margin-bottom:4px; }
   .card.step h3 { margin:0 0 6px; }
