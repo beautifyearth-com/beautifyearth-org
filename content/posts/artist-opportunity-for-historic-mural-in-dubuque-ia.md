@@ -13,6 +13,9 @@ permalink: "/post/artist-opportunity-for-historic-mural-in-dubuque-ia/"
 **Updated:** May 7, 2020
 **Read Time:** 2 min
 
+
+![Artist Opportunity for Historic Mural in Dubuque, IA](/images/display/80a5320c54-55dc19_f6bd05762aa648b7bc4c40ae4811b74d_mv2.jpg)
+
 ---
 
 Beautify is excited to announce a new mural opportunity open for proposals in Dubuque, IA!

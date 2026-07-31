@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/"
 ---
 
+
+![Beautify helps American Express bring cultural capital to Clarksdale, Mississippi](/images/display/9da0cb2e46-a27d24_d24301a99a3e475b9bdf13ab564acac0_mv2.jpg)
+
 - [Sergio Cuculiza](/profile/sergio/profile)
 - Aug 18, 2016
 - 2 min read
@@ -39,3 +42,8 @@ Sponsor a mural [here](/brands-agencies/)!
 - Community
 - Education
 - Projects
+
+
+---
+
+![Beautify helps American Express bring cultural capital to Clarksdale, Mississippi — project photo](/images/display/ef4590f7cb-a27d24_d90c91947b174bfaa8d863b055872a12_mv2.jpg)

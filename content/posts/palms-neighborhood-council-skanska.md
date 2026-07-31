@@ -13,6 +13,9 @@ permalink: "/post/palms-neighborhood-council-skanska/"
 **Date:** Jun 4, 2018
 **Read Time:** 3 min read
 
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd.](/images/0dd9834def-1851aa_b43057c698134bbbbed363f7c4197025_mv2.jpg)
+
 ---
 
 ## Welcome to the jungle!
@@ -54,3 +57,18 @@ We would like to invite you to join us on this one-of-a-kind adventure by becomi
 - [Building Art into a Building's Purpose](/post/building-art-into-a-building-s-purpose)
 - [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)
 - [Beautify helps Lexus' crossover of art & marketing via murals](/post/lexus-urban-crossover-brand-values-murals)
+
+
+---
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/1d6bb5eac5-1851aa_b5c3cfe287594efb898b17bf7eeafc55_mv2.jpg)
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/d3966e6cee-1851aa_b7e1b79384f14550ae0fc47c44368675_mv2.jpg)
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/b4c0c23ef0-1851aa_ad1bf87420224cb19cf717024de1ffc1_mv2.jpg)
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/e349d59c93-1851aa_3cd86f01bd3e42179c40c36b49d650ac_mv2.jpg)
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/ba1ea941e4-1851aa_ec3a6ca670654637a98dd48ac4da08d8_mv2.jpg)
+
+![Beautify Earth, Palms Neighborhood Council, and Skanska USA add Color (and Wildlife!) to Palms Blvd. — project photo](/images/a15edae76b-1851aa_863ee929a7234ada91c18df74f3f0f8e_mv2.jpg)

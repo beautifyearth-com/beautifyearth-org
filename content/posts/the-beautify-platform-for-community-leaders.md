@@ -14,6 +14,9 @@ permalink: "/post/the-beautify-platform-for-community-leaders/"
 
 **Read Time:** 2 min read
 
+
+![How to Use the Beautify Platform as a Community Leader](/images/display/0e487eea24-66e437_2238ea1a4068463d8806ef3c9dd45586_mv2.jpg)
+
 ---
 
 The Beautify platform provides the tools for easier, faster, aesthetic change that your organization is looking to make on your street, neighborhood, or city. Beautify is here to help you achieve that goal.
@@ -64,3 +67,16 @@ Beautify is here for anything you need at all to make your project is a success.
 
 
 - Resources
+
+
+---
+
+![How to Use the Beautify Platform as a Community Leader — project photo](/images/7415791cdf-a319bc_b249f8f1b2134bbba55bcefa12de748b_mv2.png)
+
+![How to Use the Beautify Platform as a Community Leader — project photo](/images/c2e1fd833a-66e437_e92964955ea64d29ad0660313ff8dd48_mv2.gif)
+
+![How to Use the Beautify Platform as a Community Leader — project photo](/images/display/770effca19-a319bc_38c7c917e0a4462aa1258589301d6c6a_mv2.jpg)
+
+![How to Use the Beautify Platform as a Community Leader — project photo](/images/display/1fd1a48b83-a319bc_c5f3ec64f64f49eda796c645ceb5ed93_mv2.jpg)
+
+![How to Use the Beautify Platform as a Community Leader — project photo](/images/display/576e065ac2-a319bc_0e9ed87e1e844319aa3b1e60734f53c0_mv2.jpg)

@@ -13,6 +13,9 @@ permalink: "/post/lexus-urban-crossover-brand-values-murals/"
 **Updated:** Jan 8, 2021
 **Read Time:** 2 min
 
+
+![Beautify helps Lexus' crossover of art & marketing via murals](/images/display/3b170a7816-e1ec93_53b5304b7ebb4ce591ae411acc8e2f2b_mv2.jpg)
+
 ---
 
 ### A smart combo of digital campaign and real-world walls show that even in a GPS-mapped world, there's always something new to explore.
@@ -44,3 +47,12 @@ The platform streamlines connections between brands and professional street arti
 [Learn more](/brands-agencies/) about how Beautify can help create campaigns like this for your brand or agency, or check out some [local artists](https://marketplace.beautifyearth.com/#/artists) here.
 
 **About the Author:** [Evan Meyer](https://www.linkedin.com/in/evan-meyer/) is a co-founder and the CEO of Beautify.
+
+
+---
+
+![Beautify helps Lexus' crossover of art & marketing via murals — project photo](/images/display/df5b518df3-df72fd_f447c74bfbd04250912c386a46928887_mv2.jpg)
+
+![Beautify helps Lexus' crossover of art & marketing via murals — project photo](/images/display/cbc0ffbb64-a319bc_4369924be9ed4253847d6c4d697c9ac5_mv2.jpg)
+
+![Beautify helps Lexus' crossover of art & marketing via murals — project photo](/images/display/362216ed8f-a319bc_0dd8f65fbae54c03a7b811a9fd48d5bf_mv2.jpg)

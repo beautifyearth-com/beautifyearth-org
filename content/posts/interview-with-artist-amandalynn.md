@@ -12,6 +12,9 @@ permalink: "/post/interview-with-artist-amandalynn/"
 **Date:** Aug 10, 2017
 **Reading Time:** 2 min read
 
+
+![Interview with Artist Amandalynn](/images/e9f50e74b6-1851aa_64eb52bad1d24f40a39eb0717d1d8282_mv2.jpg)
+
 ---
 
 Vibrant colors and girl power go hand-in-hand in the works created by Amandalynn. Seductive and powerful, her images and murals not only empower women, but illustrate the strength of the female form to viewers. Amandalynn is inspired by the seductive female spirit, nature, life, and their interactions together.

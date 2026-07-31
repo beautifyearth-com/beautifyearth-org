@@ -12,6 +12,9 @@ permalink: "/post/beautify-earth-cultural-tourism-champion-award-california-trav
 **Date:** Jun 29, 2017
 **Reading Time:** 1 min read
 
+
+![Beautify Earth Honored with Cultural Tourism Champion Award from California Travel Association](/images/cd0c79b827-df72fd_9d9d3c29885c487d978b1d1a59cb0ea0_mv2.jpg)
+
 ---
 
 The California Travel Association recognized Beautify Earth with its prestigious Cultural Tourism Champion award at the association's annual conference in Newport Beach on June 29th 2017. The Cultural Tourism Award highlights the significant impact on California Tourism through either the Performance Arts or Visual Arts.

@@ -13,6 +13,9 @@ permalink: "/post/murals-enliven-your-business-and-your-bottom-line/"
 **Updated:** Mar 14, 2020
 **Reading Time:** 3 min read
 
+
+![Murals enliven your business, and your bottom line](/images/display/ba8f5feb39-928904_d5023dfb5cd64f038808bffd8e90fc90_mv2.jpg)
+
 ---
 
 There is a saying that a picture is worth a thousand words. Which is 100% true! A mural can "speak" not only in your mind. It's inspirational, eye-catching and when created from a professional, can provide your business with many benefits. For example, over the past two years, retailers ranging from Adidas to Gucci have commissioned highly visible murals that are part ad, part art — and ideal Instagram advertising. That same day, Kendall Jenner posted an Instagram video announcing her Adidas ambassadorship in front of a mural, which attracted more than 7.9 million views. Soon after, Adidas launched a three-week outdoor art project across 10 walls in Brooklyn to promote its campaign for the Pure Boost DPR shoes. And the list goes on. Channel, Givenchy, and many more huge companies/brands started to use this way to "make some noise." Murals can boost and increase your business, even create a new trend! Read more below to see how...

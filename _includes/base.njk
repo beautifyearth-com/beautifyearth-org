@@ -133,6 +133,12 @@
   details.faq summary::after { content:"+"; position:absolute; right:4px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:22px; font-weight:400; }
   details.faq[open] summary::after { content:"\2212"; }
   details.faq summary::-webkit-details-marker { display:none; }
+  .carousel { overflow:hidden; margin:8px 0 0; }
+  .carousel-track { display:flex; gap:14px; width:max-content; animation:carousel-x 45s linear infinite; }
+  .carousel:hover .carousel-track { animation-play-state:paused; }
+  .carousel-track img { height:230px; width:auto; margin:0; border-radius:10px; }
+  @keyframes carousel-x { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .carousel { overflow-x:auto; } .carousel-track { animation:none; } }
   .card.quote img { width:96px; height:96px; border-radius:50%; object-fit:cover; margin:0 auto 10px; }
   .logos { max-width:560px; margin:44px auto 0; }
   .award { max-width:200px; margin:10px auto 0; }

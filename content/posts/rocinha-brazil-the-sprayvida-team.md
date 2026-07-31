@@ -12,6 +12,9 @@ permalink: "/post/rocinha-brazil-the-sprayvida-team/"
 
 **Date:** December 9, 2017 | 2 min read
 
+
+![Rocinha, Brazil & the SprayVida Team](/images/627cff592f-b7dda5_3cf65654c4e749c4b3461dc7bfb8d9e0_mv2.jpeg)
+
 While it is unreasonable to expect everybody to personally travel the globe to form personal opinions of the world so much of what we know is based in negative stereotypes driven by what sells in the news. Lets take favelas, a quick search of "favelas" in google news and the entire landing page consists of articles that headline with "death, violence, gangs or drugs." It is these key words that shape the way people think about favelas in Rio, in Brazil, and the world. Despite the fact that the majority of favela residents are hardworking people simply trying to make a better life for their family they too take on these negative stereotypes.
 
 It is our goal and belief at SprayVida that through street art we can start to change these negative stereotypes and give people a voice to create their own image to share with the world. For the past two years collaborating with local artist and residents we have painted well over 200 houses and walls in favelas throughout Rio, each wall a reflection of the community and their vision for the future; because if the physical image of the favela can match the beauty found within the negativity surrounding the communities will start to change.
@@ -32,3 +35,10 @@ The SprayVida Team
 - Community
 - Projects
 - nonprofit
+
+
+---
+
+![Rocinha, Brazil & the SprayVida Team — project photo](/images/5b80764a65-1851aa_c8518418b8684d479c7557bac045194c_mv2.png)
+
+![Rocinha, Brazil & the SprayVida Team — project photo](/images/cc4713487d-1851aa_d97327a0723445b387796d62d90fb215_mv2.jpg)

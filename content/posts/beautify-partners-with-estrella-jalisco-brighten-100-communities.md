@@ -14,6 +14,9 @@ permalink: "/post/beautify-partners-with-estrella-jalisco-brighten-100-communiti
 
 **Updated:** Sep 15, 2021
 
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans](/images/c28ddda0cf-e1ec93_8e6340fbe77f4bdba51894e2c0954151_mv2.jpg)
+
 ## Instead of billboards, celebrating local heroes at street level.
 
 Our online platform has delivered results for more than 50 brands from local to global.
@@ -45,3 +48,18 @@ The campaign's goal: Don't tout Estrella Jalisco directly, but instead make it p
 
 - Community
 - Corporate Partners
+
+
+---
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/3a5bafffbb-a319bc_43977ef1a42745a38afc5bfe09b918c8_mv2.jpg)
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/display/2fd7312794-a319bc_8d921372ac04494fb06fe3051c95c7b8_mv2.jpg)
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/display/6a06319b91-a319bc_a7be3eb3189f43eaa20b27b5ab2f2410_mv2.jpg)
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/display/e6013e01f6-a319bc_9bf43a65ecc34ac9828860bbcd5b1060_mv2.jpg)
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/318402f47c-a319bc_946ef1faa09a465cadd649ab4837806c_mv2.jpg)
+
+![Beautify manages Estrella Jalisco's mural campaign to bring the Mexican brand to Americans — project photo](/images/f38ed14b5e-a319bc_1377739d796444a8b13feaf4e90ecec8_mv2.jpg)

@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/toy-district-la-mural-artist-opportunity/"
 ---
 
+
+![Toy District LA Mural Artist Opportunity](/images/display/6eadf12671-55dc19_fd4284353b0a4a1d8b762dea349f8788_mv2.jpg)
+
 - [Moral](/profile/moral/profile)
 - Apr 1, 2020
 - 1 min read

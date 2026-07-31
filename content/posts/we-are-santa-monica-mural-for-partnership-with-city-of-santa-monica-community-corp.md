@@ -16,6 +16,9 @@ permalink: "/post/we-are-santa-monica-mural-for-partnership-with-city-of-santa-m
 
 **Read Time:** 1 min
 
+
+![we-are-santa-monica-mural-for-partnership-with-city-of-santa-monica-community-corp](/images/display/4c74e09f3a-66e437_64b4e92990ad4e79968f17e5827f894b_mv2.jpg)
+
 Rick Cole, Santa Monica City Manager, remarked: "This remarkable partnership for public art creatively celebrates our commitment to affordable housing, inclusivity and diversity."
 
 The mural artwork was created by Gino Loffredo.

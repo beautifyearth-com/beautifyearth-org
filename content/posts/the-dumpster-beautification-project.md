@@ -12,6 +12,9 @@ permalink: "/post/the-dumpster-beautification-project/"
 **Date:** Oct 12, 2017
 **Reading Time:** 4 min read
 
+
+![The Dumpster Beautification Project](/images/4c85d5e989-1851aa_42e753b6db1b487b8440124193c20bc6_mv2.jpg)
+
 ### An Interview with Debra Greenblat
 
 *Written by Allie Kleinman*
@@ -71,3 +74,18 @@ Check out some of their past projects on The Dumpster Beautification homepage.
 - [Instagram](https://www.instagram.com/beautifyearth/)
 - [LinkedIn](https://www.linkedin.com/company/beautifyearth/)
 - [YouTube](https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw)
+
+
+---
+
+![The Dumpster Beautification Project — project photo](/images/f39c541d60-1851aa_0f5182ca6c124e318d44a7be0c874ff1_mv2.jpg)
+
+![The Dumpster Beautification Project — project photo](/images/28cd899253-1851aa_45b4659ff7f0471591a50f03ab287395_mv2.jpg)
+
+![The Dumpster Beautification Project — project photo](/images/f1cd44bb9c-1851aa_ace8591f5f214bd7b18161d2cdf19446_mv2.jpg)
+
+![The Dumpster Beautification Project — project photo](/images/99a82689be-1851aa_626431c1270641c6a170a6236e859af3_mv2.jpg)
+
+![The Dumpster Beautification Project — project photo](/images/4350d33a90-1851aa_7cc597c3c63646329e25e6364715f7d0_mv2.jpg)
+
+![The Dumpster Beautification Project — project photo](/images/c3ff221495-1851aa_a089bd9febf54a8bbba5de43ad002f3d_mv2.jpg)

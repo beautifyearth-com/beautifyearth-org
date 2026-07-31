@@ -12,6 +12,9 @@ permalink: "/post/the-art-of-inspiration-beautify-earth/"
 **Published:** January 27, 2016
 **Read Time:** 4 min
 
+
+![The Art of Inspiration & Beautify Earth](/images/display/ebd0d00a46-1851aa_25ff9304532f42ffaa5d1dbe72fbda0a_mv2.jpg)
+
 What would you do if you walked down the street and you felt nothing inside. Nothing there to motivate you, to keep your head high, to keep you moving forward. It would be a sad world. There is nothing worse than walking down an urban street and seeing no color, no range, and no inspiration.
 
 Enter the mission of Beautify Earth. At BE the mission is to paint the world in color! With many walls as canvases accessible for local and world renowned artists, the opportunity is available for you to participate, effect change and make a difference in the world.
@@ -50,3 +53,8 @@ Beautify Earth
 ## Categories
 - Community
 - nonprofit
+
+
+---
+
+![The Art of Inspiration & Beautify Earth — project photo](/images/e43efc735d-1851aa_51e81cc16ed54223866cd2337e61ed42_mv2.jpg)

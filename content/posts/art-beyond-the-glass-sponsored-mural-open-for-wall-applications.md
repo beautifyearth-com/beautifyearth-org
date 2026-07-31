@@ -16,6 +16,9 @@ permalink: "/post/art-beyond-the-glass-sponsored-mural-open-for-wall-application
 
 **Read time:** 1 min
 
+
+![Sponsored Mural Open for Wall Applications](/images/display/d76264fac9-55dc19_5588c33a97634f4b9d1b322bdaa0551f_mv2.jpg)
+
 ## Thirsty in LA's Art Beyond The Glass Mural
 
 In this time of worry and unknown Beautify is more committed than ever to creating hope, joy, and inspiration through art. We are currently looking for a wall partner to work with Beautify to bring this mural to life!

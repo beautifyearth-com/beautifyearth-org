@@ -20,6 +20,27 @@ fullwidth: true
   <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Get in touch</a></p>
 </div>
 
+<div class="carousel" aria-label="School mural photos">
+  <div class="carousel-track">
+    <img src="/images/display/4c8a57b339-e81220_5a59cc4f91564394b67bc00d3d4ac610_mv2.jpg" alt="School mural">
+    <img src="/images/display/f46f086813-cf6196_044143e8717e41bc9d4e4bcfeb2dff07_mv2.jpg" alt="Express Yourself Through the Arts mural">
+    <img src="/images/display/b74c359d9b-b7dda5_eb029f7a4fd74e8eac34d0b78973bdb3_mv2.jpg" alt="Dream bigger mural">
+    <img src="/images/display/2c0fe81aaf-55dc19_2839518f7ff144dc818eb9f434513032_mv2.jpg" alt="Students painting a mural">
+    <img src="/images/display/4cf993e913-cf6196_f9cb17a8646b4016aef81c78df8f6ca2_mv2.jpg" alt="Green schoolyard mural">
+    <img src="/images/display/a1b4c9aa2c-4d51d9_ffca45b0e23c4037af18da071aa8691d_mv2.jpg" alt="One small act of kindness mural">
+    <img src="/images/display/eb40108f03-a319bc_146609c4a8c4447e8a0cda0e5e7c0dab_mv2.jpg" alt="Love heart mural">
+    <img src="/images/display/34589151a8-a319bc_4dde7b6dd1ae452a93beacbd76b14f53_mv2.jpg" alt="Venice mural">
+    <img src="/images/display/4c8a57b339-e81220_5a59cc4f91564394b67bc00d3d4ac610_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/f46f086813-cf6196_044143e8717e41bc9d4e4bcfeb2dff07_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/b74c359d9b-b7dda5_eb029f7a4fd74e8eac34d0b78973bdb3_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/2c0fe81aaf-55dc19_2839518f7ff144dc818eb9f434513032_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/4cf993e913-cf6196_f9cb17a8646b4016aef81c78df8f6ca2_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/a1b4c9aa2c-4d51d9_ffca45b0e23c4037af18da071aa8691d_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/eb40108f03-a319bc_146609c4a8c4447e8a0cda0e5e7c0dab_mv2.jpg" alt="" aria-hidden="true">
+    <img src="/images/display/34589151a8-a319bc_4dde7b6dd1ae452a93beacbd76b14f53_mv2.jpg" alt="" aria-hidden="true">
+  </div>
+</div>
+
 <div class="wrap section">
   <div class="split">
     <img src="/images/display/2c0fe81aaf-55dc19_2839518f7ff144dc818eb9f434513032_mv2.jpg" alt="Students painting a school mural">

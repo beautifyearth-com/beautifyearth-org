@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/living-with-murals/"
 ---
 
+
+![Living with Murals](/images/display/20174d9052-b7dda5_7370c2342b114ef7a19a3a90fa04ab41_mv2.jpg)
+
 - [Sergio Cuculiza](/profile/sergio/profile)
 - Jun 10, 2021
 - 2 min read
@@ -35,3 +38,12 @@ This is why we feel passionate about beautifying schools: Without a doubt, art h
 <video controls preload="metadata" src="/videos/b7dda5_ca0eba0e1ee1412c8094e5ee8e2d7c09-1080p.mp4"></video>
 
 - Daniela Torres Mattus ([Director of Education](/nonprofit/))
+
+
+---
+
+![Living with Murals — project photo](/images/display/fd61de6ea6-b7dda5_2f4c511f636a4d0dab41b2665acbacb3_mv2.jpg)
+
+![Living with Murals — project photo](/images/display/6acc1f4291-b7dda5_8730f346f4054f1a832011a6242a7e00_mv2.jpg)
+
+![Living with Murals — project photo](/images/display/09a6b7d085-b7dda5_3f8dfcb2bb414165ad309aad36d16f5d_mv2.jpg)

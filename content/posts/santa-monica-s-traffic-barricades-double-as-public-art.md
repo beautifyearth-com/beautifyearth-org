@@ -13,6 +13,9 @@ permalink: "/post/santa-monica-s-traffic-barricades-double-as-public-art/"
 **Updated:** January 8, 2021
 **Read Time:** 3 minutes
 
+
+![Beautify manages Santa Monica's street art project on traffic barricades](/images/14cc9706d6-e1ec93_b08aa6284da54387aab5a775ddbb1335_mv2.jpg)
+
 ## Temporary outdoor retail zones remade into art galleries rather than road construction.
 
 The organization's online platform has facilitated beautification efforts across more than 100 cities. Those interested in similar initiatives can reach out via their local organizations contact page.
@@ -43,3 +46,14 @@ The project generated professional opportunities beyond the immediate assignment
 - **Thread** — [beautifyearth.com/artists/thread](https://marketplace.beautifyearth.com/artists/thread)
 - **Ms. Yellow** — [beautifyearth.com/artists/msyellow](https://marketplace.beautifyearth.com/artists/msyellow)
 - **GIGO** — [beautifyearth.com/artists/gigo](https://marketplace.beautifyearth.com/artists/gigo)
+
+
+---
+
+![Beautify manages Santa Monica's street art project on traffic barricades — project photo](/images/c6bc863954-e1ec93_0aa44bbb60f0459cbf624970a813a1c2_mv2.jpg)
+
+![Beautify manages Santa Monica's street art project on traffic barricades — project photo](/images/b2b85d9d27-e1ec93_61753f09f41041f0bfef32dbce19fd9e_mv2.jpg)
+
+![Beautify manages Santa Monica's street art project on traffic barricades — project photo](/images/4c50fbbc63-e1ec93_89432ae15f0745dc9aefcebb2fd2bc0f_mv2.jpg)
+
+![Beautify manages Santa Monica's street art project on traffic barricades — project photo](/images/e6091503a7-e1ec93_f1dcb4a2a95f47a39b16a93061e03edb_mv2.jpg)

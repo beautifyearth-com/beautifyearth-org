@@ -14,6 +14,9 @@ permalink: "/post/beautify-partners-with-the-junction-downtown-west-seattle/"
 **Updated:** Mar 11, 2020
 **Read time:** 1 min
 
+
+![Beautify Partners with The Junction (Downtown West Seattle)](/images/ad1df3ef57-a319bc_6a57387c393d418b80f2e15293f3d38a_mv2.png)
+
 ---
 
 The Junction is Downtown West Seattle--the West Seattle neighborhood's main street and center stage.

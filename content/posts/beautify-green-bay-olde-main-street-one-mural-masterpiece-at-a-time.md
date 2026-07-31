@@ -16,6 +16,9 @@ permalink: "/post/beautify-green-bay-olde-main-street-one-mural-masterpiece-at-a
 
 **Reading Time:** 3 min read
 
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time](/images/fdd68e1f7c-a319bc_ea427e080d924c26bc7cb3668bfd36e4_mv2.jpg)
+
 ---
 
 > "Life is a great big canvas, and you should throw all the paint you can on it." – Danny Kaye
@@ -61,3 +64,18 @@ We caught up with **Sally Ebeling,** Program & Business Development Specialist a
 Olde Main Street has already selected a slew of building facades in both districts, now eagerly waiting to be connected to artists who will raise their paintbrush high in the air—and Beautify the space.
 
 **Learn more about how the Beautify platform helps local organizations at:** [https://www.beautifyearth.com/local-organizations](/local-organizations/)
+
+
+---
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/8b6f0b24c4-a319bc_a80b3d6193964e2b93bd1f738beb8fce_mv2.jpg)
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/8678212ed0-a319bc_22ad2e35522a470c9d9e0ef48ace0b06_mv2.jpg)
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/ca8b1b84b5-a319bc_7fcf2998c4d7472786168bee8f3ffa70_mv2.jpg)
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/b7c83559a9-a319bc_1366247c14bb4c96bbe802c3d5b2f020_mv2.jpg)
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/cd13afbafd-a319bc_4241ba8da68e44bc80080ae3e4ae5f51_mv2.jpg)
+
+!['Beautify'ing Green Bay's Olde Main Street – One Mural Masterpiece At A Time — project photo](/images/89b92ac24d-a319bc_17383d7fe1714d7b8da1aeed91412439_mv2.jpg)

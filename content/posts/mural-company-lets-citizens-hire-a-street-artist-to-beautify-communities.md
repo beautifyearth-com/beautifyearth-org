@@ -14,6 +14,9 @@ permalink: "/post/mural-company-lets-citizens-hire-a-street-artist-to-beautify-c
 
 **Reading Time:** 4 min
 
+
+![Beautify connects local groups with artists to paint inspiring murals](/images/display/0ccb289555-e1ec93_b520fd99f696412bb2d75eeff26cbf02_mv2.jpg)
+
 ---
 
 Eric Camarena wanted to remake neglected walls in his home city. He found mural company Beautify could connect him with the talent to turn bare walls into inspiring works of art.

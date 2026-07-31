@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/zappos-ten-core-value-mural-campaign/"
 ---
 
+
+![Beautify helped Zappos lead the way in experiential marketing through murals](/images/display/a5eb6718e8-e1ec93_37ef1f016acc40808e3dba5ee2c7cf13_mv2.jpg)
+
 By [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 
 Dec 10, 2020 | 2 min read
@@ -50,3 +53,8 @@ The 10 core values of Zappos which help to define their unique culture are liste
 [*Evan Meyer*](https://www.linkedin.com/in/evan-meyer/) *is a co-founder and the CEO of Beautify.*
 
 
+
+
+---
+
+![Beautify helped Zappos lead the way in experiential marketing through murals — project photo](/images/227f54353e-e1ec93_70d837b3445c46dbba3581793fec3c0b_mv2.jpg)

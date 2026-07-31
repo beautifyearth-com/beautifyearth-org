@@ -13,6 +13,9 @@ permalink: "/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-sta
 **Updated:** Sep 12, 2020
 **Read Time:** 3 min
 
+
+![Estrella Jalisco and Beautify Earth Team Up to Honor Local Stars](/images/827c4d56d5-903d0b_54ecc5c97e3b435b91fe9410a52e9d37_mv2.jpg)
+
 ---
 
 Estrella Jalisco has found a way to put their marketing dollars to good use and create an impact in local communities through a socially responsible initiative.

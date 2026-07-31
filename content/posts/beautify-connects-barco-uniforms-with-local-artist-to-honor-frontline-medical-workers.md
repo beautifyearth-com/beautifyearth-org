@@ -13,6 +13,9 @@ permalink: "/post/beautify-connects-barco-uniforms-with-local-artist-to-honor-fr
 **Date:** Jan 18, 2021 | **Updated:** Feb 1, 2021
 **Read time:** 2 min
 
+
+![Beautify connects Barco Uniforms with local artist to honor frontline medical workers](/images/display/6f9fd48817-e1ec93_d5a258b7585c4180b511256966792437_mv2.jpg)
+
 ---
 
 ## A well-placed mural in Los Angeles has garnered TV coverage and billions of page views.

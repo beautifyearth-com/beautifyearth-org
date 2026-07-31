@@ -16,6 +16,9 @@ permalink: "/post/creating-an-art-competition-on-beautify/"
 
 **Read time:** 1 min
 
+
+![Creating an Art Competition on Beautify](/images/display/b0b4f9f578-b7dda5_8e72f2c993ac43a881e53e930c249039_mv2.jpg)
+
 Beautify enables anyone to create an art competition virtually instantly. All that is required is the use of a tag on artist works and all the works for that hashtag will be searchable, publicly visible, and actionable.
 
 ## Example:
@@ -43,3 +46,12 @@ We are always here to help should you have any questions or need something more 
 **Recent Posts:**
 - [How to Use the Beautify Platform as a Community Leader](/post/the-beautify-platform-for-community-leaders)
 - [A Quick-Start, Street-Art Strategy Guide for Local Organizations](/post/street-art-strategy-local-organizations)
+
+
+---
+
+![Creating an Art Competition on Beautify — project photo](/images/display/5290f949c5-a319bc_b3b168854c104d93bb27c4af4d8ba675_mv2.jpg)
+
+![Creating an Art Competition on Beautify — project photo](/images/display/6953499a21-a319bc_60983a2edc2e4a538a6fd319f29f7eab_mv2.jpg)
+
+![Creating an Art Competition on Beautify — project photo](/images/display/576e065ac2-a319bc_0e9ed87e1e844319aa3b1e60734f53c0_mv2.jpg)

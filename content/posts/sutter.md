@@ -14,6 +14,9 @@ permalink: "/post/sutter/"
 
 **Read Time:** 1 min read
 
+
+![No Bullies Allowed at Sutter](/images/d7dcc99978-df72fd_0f626445fb564cea939177ac2e94489e_mv2.jpeg)
+
 ---
 
 Sutter Middle School in Northridge served as the inaugural site for Beautify Earth's school-based initiatives. The organization collaborated with The Child and Family Guidance Center to create murals centered on anti-bullying messages.

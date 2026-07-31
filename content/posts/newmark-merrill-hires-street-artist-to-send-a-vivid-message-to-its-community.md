@@ -14,6 +14,9 @@ permalink: "/post/newmark-merrill-hires-street-artist-to-send-a-vivid-message-to
 
 **Read time:** 2 min
 
+
+![Beautify helps NewMark Merrill send a vivid message to its community](/images/8f4e0c4e73-e1ec93_41399beb6ba145bca669fdcbeede8701_mv2.jpeg)
+
 ## The retail center owner understands the power of experiential marketing, painted size XL at its Norwalk Town Square location.
 
 Our online platform has delivered results for more than 50 brands from local to global.

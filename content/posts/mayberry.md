@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/mayberry/"
 ---
 
+
+![Mural Installed at Mayberry Street Elementary School](/images/06351db8b3-df72fd_0f83f40f2499484489facb46883fef1f_mv2.jpg)
+
 - **Author:** [Beautify Team](/profile/arati/profile)
 - **Date:** Jan 27, 2016
 - **Read Time:** 2 min read
@@ -33,3 +36,8 @@ Beautify Earth is proud to facilitate mural projects like the one at Mayberry St
 Help us inspire more students today, and for the rest of their lives, by making art the norm, not the exception, by donating or becoming a [monthly member](/donate/#donorbox). Or, if you are able to sponsor a school mural, [let us know](/sponsorships/)!
 
 
+
+
+---
+
+![Mural Installed at Mayberry Street Elementary School — project photo](/images/c6bb588450-1851aa_25ad03a175af42d5a4c24ebdae4028a2_mv2.jpg)

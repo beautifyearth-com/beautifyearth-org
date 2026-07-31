@@ -16,6 +16,9 @@ permalink: "/post/los-angeles-mural-ordinance-update/"
 
 **Read Time:** 2 min
 
+
+![Los Angeles Mural Ordinance Update](/images/display/e491ee070d-a319bc_9dfbce4a1b2e4842aed5262b0afe3bfe_mv2.jpg)
+
 ---
 
 After many years of working with Councilman David Ryu and team to bring countless pieces of mural art to Los Angeles, I am honored to share the attached motion signed by David Ryu himself. Recognizing the benefit murals have in our community, Beautify Earth and LA-City District 4 (CD4), have seen the profound effects murals have on communities, and we cannot be more grateful for CD4 in pursuing this.

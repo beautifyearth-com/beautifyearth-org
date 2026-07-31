@@ -12,6 +12,9 @@ permalink: "/post/beautify-artconverge-partnership-practical-legal-guidance-for-
 **Date:** Jul 12, 2020
 **Read Time:** 3 min read
 
+
+![Beautify Partners with ArtConverge to Provide Practical Legal Guidance for Artists](/images/b167684ff5-a319bc_9ffa8525d1ea415b963647809fa8fd6e_mv2.jpg)
+
 Today, we're excited to introduce a new friend of Beautify, Sarah Conley Odenkirk.
 
 Sarah is the founder of [ArtConverge](https://artconverge.com/), and has practiced law in the area of fine art for more than 25 years. Her practice consists mostly advising clients in transactional matters related to the arts in the private and public realms. Through her years of practice in the fields of intellectual property, fine art, public art and cultural policy, she has developed experience to provide legal services as well as strategic planning to support artists, municipalities, innovative programs, institutions, collectors, and entrepreneurs.

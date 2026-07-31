@@ -1,6 +1,20 @@
 ---
 layout: base.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | dump | safe }},
+  {% if description %}"description": {{ description | dump | safe }},{% endif %}
+  {% set pm = postmeta[page.fileSlug] %}{% if pm and pm.thumb %}"image": "https://www.beautifyearth.org{{ pm.thumb }}",{% endif %}
+  "datePublished": "{{ page.date | isoDate }}",
+  "dateModified": "{{ page.date | isoDate }}",
+  "mainEntityOfPage": "https://www.beautifyearth.org{{ page.url }}",
+  "author": { "@type": "Organization", "name": "Beautify Earth", "url": "https://www.beautifyearth.org" },
+  "publisher": { "@type": "Organization", "name": "Beautify Earth", "url": "https://www.beautifyearth.org" }
+}
+</script>
 <article>
   <h1>{{ title }}</h1>
   <p class="postmeta">{{ page.date | niceDate }} — Beautify Earth</p>

@@ -16,6 +16,9 @@ permalink: "/post/mark-twain/"
 
 **Read time:** 1 min read
 
+
+![DIY Mural Painting at Mark Twain](/images/display/b72da115ba-df72fd_635fb282ec3b43718bbf1df78557a999_mv2.jpg)
+
 ---
 
 The campus of Mark Twain Middle School in West Los Angeles now boasts a total of nine murals, the last of which is a successful representative of our DIY Mural Painting program. The DIY program gives communities the power to bring about beautified walls with our guidance and the designs of well known and proven muralists. The mural design chosen for this activity was created by Marcel 'Sel' Blanco.

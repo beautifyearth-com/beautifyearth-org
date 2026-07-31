@@ -14,6 +14,9 @@ permalink: "/post/restorative-justice-through-art-at-john-adams-middle-school/"
 
 **Reading Time:** 1 min read
 
+
+![Restorative Justice through Art at John Adams Middle School](/images/display/811d302318-1851aa_671f823a4331436e914af61e708aecd8_mv2.jpg)
+
 ---
 
 A diverse group of 70 seventh-grade students at John Adams MS participated in Restorative Justice training with Rob Howard, SMMUSD RJ Coordinator. Students were either in Vision (a program that supports at risk students) or members of ASB (Associated Student Body). At the end of the day students were lead through an activity that asked them to consider their perfect school. By the end, students collectively decided on more murals and art on the walls of the school.
@@ -26,3 +29,8 @@ More info on restorative justice.
 - Community
 - Education
 - nonprofit
+
+
+---
+
+![Restorative Justice through Art at John Adams Middle School — project photo](/images/6291a205d6-1851aa_becbbae689654096ac2aa9a078a8377b_mv2.jpg)

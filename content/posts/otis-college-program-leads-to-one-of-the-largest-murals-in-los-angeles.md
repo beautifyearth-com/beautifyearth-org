@@ -14,6 +14,9 @@ permalink: "/post/otis-college-program-leads-to-one-of-the-largest-murals-in-los
 
 **Updated:** Apr 5, 2020
 
+
+![Otis College Program Leads to One of the Largest Murals in Los Angeles](/images/511ce065d1-b7dda5_7519f0caaca64013a8a693a396465b3a_mv2.jpeg)
+
 Westchester, Los Angeles, CA - Artist David Russell & Otis College
 
 Otis College of Art and Design in Los Angeles, is well known for its creative edge as one of the largest Art colleges in Southern California. Naturally an opportunity for Beautify Earth to partner with Otis was a sure fit, one founded on beauty and inspiration. Partnering with the school and having an opportunity to share the Beautify story with the students was fulfilling. However, this project went beyond inspiring the students, it ended with what is one of the largest murals on the west side, which Beautify Earth helped secure most of the funding for.

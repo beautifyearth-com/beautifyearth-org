@@ -13,6 +13,9 @@ permalink: "/post/thank-you-ucla/"
 **Updated:** Mar 14, 2020
 **Read Time:** 1 min read
 
+
+![Beautify Earth Receives Grant from UCLA!](/images/55a1356b40-1851aa_bef05af228c5498ca57dd201def15667_mv2.jpg)
+
 ---
 
 Beautify Earth was the recipient of a special grant given by UCLA on June 11, 2017! We were selected and recognized amongst hundreds of non-profit organizations in the Los Angeles area for our work and commitment to empowering artists, encouraging social responsibility and instilling community pride.
@@ -28,3 +31,10 @@ Hundreds of students and even a few teachers came out to support our artists and
 Thank you UCLA!
 
 
+
+
+---
+
+![Beautify Earth Receives Grant from UCLA! — project photo](/images/463b578142-1851aa_c5631ec0524e49cb9dc98905590c7ecf_mv2.jpg)
+
+![Beautify Earth Receives Grant from UCLA! — project photo](/images/27085641a4-b7dda5_f1b56aae66f94c87b860a0987d205db3_mv2.jpeg)

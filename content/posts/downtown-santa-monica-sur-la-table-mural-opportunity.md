@@ -13,6 +13,9 @@ permalink: "/post/downtown-santa-monica-sur-la-table-mural-opportunity/"
 **Updated:** Apr 1, 2020
 **Read Time:** 2 min read
 
+
+![Downtown Santa Monica, Sur La Table - Mural Opportunity](/images/display/bcfd1670fd-a319bc_95335eae8d1844f5b0a639539e53f791_mv2.jpg)
+
 Beautify is excited to announce a new mural opportunity open for artist proposals in Santa Monica, CA!
 
 ## Sur La Table Mural

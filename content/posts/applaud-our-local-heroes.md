@@ -16,6 +16,9 @@ permalink: "/post/applaud-our-local-heroes/"
 
 **Read Time:** 2 min read
 
+
+![Applaud Our Local Heroes](/images/display/a068a44380-a319bc_575da5178eee46ceb61712551eeaa6fa_mv2.jpg)
+
 ---
 
 Inspired by the recent success in [Barcelona](https://www.cntraveler.com/story/in-barcelona-the-applause-starts-at-8-pm), community leader and Beautify family member, Albin Gielicz has begun this deep expression of gratitude here in Santa Monica, with the hope to spread it to other communities around Los Angeles.

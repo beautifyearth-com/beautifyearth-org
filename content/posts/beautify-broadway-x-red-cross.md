@@ -14,6 +14,9 @@ permalink: "/post/beautify-broadway-x-red-cross/"
 
 **Read Time:** 1 min read
 
+
+![Beautify Broadway X Red Cross](/images/ad85ad46a1-a319bc_67fae24d74ce4b52a3ea8b15b1500f12_mv2.jpg)
+
 ---
 
 Beautify Earth worked to artist [Francisco Letelier](https://www.instagram.com/veniceartist/) to spearhead an [Indiegogo campaign](https://www.indiegogo.com/projects/guardian-mural-red-cross-santa-monica-ca#/) for the vision of his Guardian mural.

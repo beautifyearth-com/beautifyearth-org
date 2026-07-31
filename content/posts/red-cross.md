@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/red-cross/"
 ---
 
+
+![Red Cross](/images/a96cbc4dc0-a319bc_0c333efad50a4d269b69128c13ff6e88_mv2.jpg)
+
 - **Author:** [Beautify Team](/profile/eric/profile)
 - **Date:** Mar 11, 2017
 - **Read Time:** 1 min read

@@ -12,6 +12,9 @@ permalink: "/post/belkin-helps-paint-santa-monica-alternative-school-house/"
 
 **Published:** March 6, 2019 | Modified: March 7, 2019
 
+
+![Belkin helps paint Santa Monica Alternative School House](/images/display/b0b4f9f578-b7dda5_8e72f2c993ac43a881e53e930c249039_mv2.jpg)
+
 Santa Monica, CA
 
 Beautify Education's goal is to create inspirational and creative campuses all over the world. With help from large corporations like Belkin, this is feasible. We not only hope to brighten up campuses through art we also hope to leave students with a lasting impression of what our urban fabric can look like. Together Beautify Earth and Belkin teamed up to help make that a reality at a local school in Santa Monica.

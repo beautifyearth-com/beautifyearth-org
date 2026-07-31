@@ -14,6 +14,9 @@ permalink: "/post/what-tony-hsieh-taught-me-by-example/"
 
 **Read time:** 2 min
 
+
+![What Tony Hsieh taught me by example](/images/b13a251b8a-a319bc_c10dacd660a44887930767675c691f60_mv2.jpg)
+
 ---
 
 [Mural by Trek Thunder Kelley for Zappos in San Diego](https://marketplace.beautifyearth.com/artists/trekthunderkelly)

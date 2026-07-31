@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/well-traveled-pico-boulevard-gets-art-centered-upgrade/"
 ---
 
+
+![Well Traveled Pico Boulevard Gets Art-Centered Upgrade](/images/display/8737087f91-df72fd_ff08b0b7bd9b4aa5a4f47d587c876f7b_mv2.jpg)
+
 - **Author:** [Beautify Team](/profile/arati/profile)
 - **Date:** Aug 1, 2017
 - **Read Time:** 1 min read
@@ -20,3 +23,10 @@ The PIO is a business improvement district in Santa Monica, committed to promote
 - nonprofit
 - Projects
 - Community
+
+
+---
+
+![Well Traveled Pico Boulevard Gets Art-Centered Upgrade — project photo](/images/display/93b0f38438-df72fd_b1af6d1d5511429ea185cce3b6fae55e_mv2.jpg)
+
+![Well Traveled Pico Boulevard Gets Art-Centered Upgrade — project photo](/images/display/ac6d154d10-df72fd_15db010b40dd40f0b8a4da42bbaa8829_mv2.jpg)

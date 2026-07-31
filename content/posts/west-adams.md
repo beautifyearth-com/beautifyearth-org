@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/west-adams/"
 ---
 
+
+![DIY Mural Success Thanks to Booze Allen Hamilton at West Adams High](/images/display/3bf68b7c20-a27d24_f96a9f36a7294489802758b38f8d2972_mv2.jpg)
+
 - [Beautify Team](/profile/arati/profile)
 - Mar 4, 2019
 - 1 min read
@@ -26,3 +29,8 @@ Booze Allen Hamilton, an American management and information technology consulti
 - nonprofit
 - Projects
 - Education
+
+
+---
+
+![DIY Mural Success Thanks to Booze Allen Hamilton at West Adams High — project photo](/images/display/dbd2d32884-b7dda5_e7128f012e464a9eb76a7788092379b8_mv2.jpg)

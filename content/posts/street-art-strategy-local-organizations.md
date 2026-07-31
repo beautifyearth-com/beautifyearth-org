@@ -13,6 +13,9 @@ permalink: "/post/street-art-strategy-local-organizations/"
 **Updated:** Jun 22, 2020
 **Read Time:** 2 min
 
+
+![A Quick-Start, Street Art Strategy Guide for Local Organizations](/images/display/93f24a412d-570fd0e9b5094cdaa8ba958bd6dded88.jpg)
+
 ---
 
 Over the years, Beautify has completed 1000's of murals and street activations through art. Our goal is to help your organization do the same with the right tools and resources. Here is some guiding information that can help you formulate your strategy for enhancing your community, artistic expression, local culture, and unique identity.

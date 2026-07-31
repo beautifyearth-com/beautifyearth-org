@@ -14,6 +14,9 @@ permalink: "/post/blue-shield-s-mural-is-a-gift-to-its-new-community/"
 **Updated:** Jan 8, 2021
 **Read Time:** 2 min read
 
+
+![Beautify artist's mural for Blue Shield is a gift to its new home community](/images/display/0b0f3df2a6-e1ec93_62182f7d3d764ca4b72a9f05ef600577_mv2.jpg)
+
 ## The healthcare provider announced its arrival in Oakland with a two-story-high illustration tied to its youth mental health awareness campaign.
 
 Our online platform has delivered results for more than 50 brands from local to global.

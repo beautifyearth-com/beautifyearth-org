@@ -13,6 +13,9 @@ permalink: "/post/avocado-mattress-beautifies-its-new-hq-inside-and-out-with-mur
 **Published:** Dec 17, 2020 | 4 min read
 **Updated:** Feb 24, 2021
 
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out](/images/display/6084955ffe-e1ec93_059e1c4bb8c7429cae507b6f38da6ed8_mv2.jpg)
+
 ---
 
 ## Experiential marketing + employee well-being = a workplace that doubles as a local destination
@@ -67,3 +70,18 @@ For more information, [reach out to us](/how-it-works/). We look forward to hear
 
 [About](/about) | [Contact](/about) | [News](/privacy) | [Privacy](/privacy) | [Terms](/terms)
 
+
+
+---
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/display/5f9dbf1aa2-e1ec93_475aabad17ea450280d7b98b91264fbc_mv2.jpg)
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/af26747651-e1ec93_bd4dc9a6da1a4b7b8fe8b12e3187270a_mv2.jpg)
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/f392d0605f-e1ec93_47b22f8cceb144358cc3ef1e5f7f1f68_mv2.jpg)
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/display/f262bdb8f8-e1ec93_53542a2a87894a1fbee013031470ff89_mv2.jpg)
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/display/c094d77d43-e1ec93_8de1857e97654a7d92d9acbfef38eb3f_mv2.jpg)
+
+![Beautify connects Avocado Mattress with muralists to transform its new HQ inside and out — project photo](/images/fbd94b84f0-e1ec93_824ef677702a41ad91f477dced4f8667_mv2.jpg)

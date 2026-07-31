@@ -12,6 +12,9 @@ permalink: "/post/beautify-earth-expands-to-a-magical-village-in-mexico/"
 **Date:** Mar 26, 2016
 **Reading Time:** 3 min read
 
+
+![Beautify Earth Expands to a Magical Village in Mexico](/images/c370e3f883-1851aa_c9cba726dcf346859c93542259a533b6_mv2.jpg)
+
 It's amazing how powerful a simple idea can be. In February, I entered the city of San Cristobal de las Casas in Mexico to represent Beautify Earth as an international ambassador. It was my first time in Mexico, and my first attempt to curate a mural, and all I was equipped with was this idea to "beautify earth". Luckily, "San Cris" as the locals affectionately call this small town, is also officially recognized by the Mexican state as a *Puebla Magico, or Magic Village*, and indeed there's magic in this town.
 
 So how does a simple idea go about turning into this?
@@ -45,3 +48,18 @@ So there you have it, the first #beautifyearth mural in Mexico. It started when 
 - Community
 - nonprofit
 - International
+
+
+---
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/9fb2a48ffa-1851aa_0200b64c72cd4a72bef370c9423e59db_mv2.jpg)
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/b93d5ae8d7-1851aa_ebc725fd3efc4018a11226520c86db59_mv2.jpg)
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/333da3189c-1851aa_9421179b101145479269cce9f2d36605_mv2.jpg)
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/688d9624d9-1851aa_3e89618ef4a04f4b84b85b1fd480ce81_mv2.jpg)
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/8c63221ea1-1851aa_4123283c05004c68b965aceae43db5e6_mv2.jpg)
+
+![Beautify Earth Expands to a Magical Village in Mexico — project photo](/images/b6bddd2fc5-1851aa_10178af688834ef6b8d5b911b29d40b2_mv2.jpg)

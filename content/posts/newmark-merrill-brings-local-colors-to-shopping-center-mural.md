@@ -13,6 +13,9 @@ permalink: "/post/newmark-merrill-brings-local-colors-to-shopping-center-mural/"
 **Updated:** January 8, 2021
 **Reading Time:** 2 min
 
+
+![Beautify brings the bunnies to shopping center mural](/images/87cbf49f70-e1ec93_9184127c5cfa40e5ae709d2b30f62e27_mv2.jpg)
+
 ---
 
 ### NewMark Merrill's wall-sized painting at Janss Marketplace celebrates the wild rabbits for which Conejo Valley was named.

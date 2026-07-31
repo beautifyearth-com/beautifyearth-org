@@ -14,6 +14,9 @@ permalink: "/post/sheraton-beautifies-belltown-seattle/"
 
 **Updated:** Jan 15, 2021
 
+
+![sheraton-beautifies-belltown-seattle](/images/5a4f178ccc-a27d24_7f22fe4693614fa98568e02a2e67081a_mv2.png)
+
 ## A striking mural by a local artist ties into Sheraton's theme of people coming together.
 
 Our online platform has delivered results for more than 50 brands from local to global.

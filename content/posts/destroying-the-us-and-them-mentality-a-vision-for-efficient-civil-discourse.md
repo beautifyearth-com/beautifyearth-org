@@ -14,6 +14,9 @@ permalink: "/post/destroying-the-us-and-them-mentality-a-vision-for-efficient-ci
 
 **Read Time:** 6 min read
 
+
+![destroying-the-us-and-them-mentality-a-vision-for-efficient-civil-discourse](/images/display/d23b91858d-a319bc_ad768279a3e647ee961eb1f5898a60f5_mv2.jpg)
+
 *Us and them.* It's part of our DNA, and it's who we are. It's what defines our personal identities and the force that drives our economies. But does it help community engagement and the democratic process? Far from it. It hurts me just thinking about it, and I'm seeing this mentality dominate our conversations and hurt the individuals in our society. It's a social virus affecting everyone at all levels of civic engagement – federal, state and local. "Us and them," is a progress inhibitor. More people would have more of what they want, faster, if they took a breath first before yelling at their neighbors.
 
 With almost a decade of service to my neighborhood (previously President of the Ocean Park Neighborhood Association), and Founder of both the 501(c)3 Beautify Earth and Transportation Demand Management software platform Ride Amigos, I'm inspired to share a few takeaways I learned along the way on how we can progress as a community. As a local entrepreneur, building organizations to solve the worlds traffic issues, urban-decay issues, and resident advocacy initiatives are no easy task - and clear, respectful communication is a common thread in always moving the needle forward.

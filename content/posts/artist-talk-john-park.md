@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/artist-talk-john-park/"
 ---
 
+
+![Trusting the Inner Voice: Artist Talk with John Park](/images/display/824a45b867-55dc19_183c4befb1454ae9a18f0b33373ace75_mv2.jpg)
+
 By [Rosie Quasarano](/profile/f81d7c40-3d79-4e35-93ba-0d3353b5ae89/profile) | Aug 1, 2022 | 5 min read
 
 ---

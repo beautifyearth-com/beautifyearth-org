@@ -12,6 +12,9 @@ permalink: "/post/community-building-street-art-culture-city-heights-san-diego/"
 
 **Date:** Jul 15, 2020 | 3 min read
 
+
+![Community Building through Street Art & Culture in City Heights, San Diego](/images/5a199d4cc4-903d0b_fb2d4eed786f47a5a57af91f76e9b1c9_mv2.jpg)
+
 ---
 
 How one non-profit is transforming a California city and supporting local artists with free art.
@@ -37,3 +40,10 @@ When asked what a leader is, this is what Carlos replied: "To me, a leader is so
 Love,
 
 Beautify Earth.
+
+
+---
+
+![Community Building through Street Art & Culture in City Heights, San Diego — project photo](/images/a17dccecb2-a27d24_b760c324b95642c29f49a5cd0f2aa370_mv2.jpg)
+
+![Community Building through Street Art & Culture in City Heights, San Diego — project photo](/images/0136add471-a27d24_e9524822893e4e7298dded7b9f05bb9f_mv2.jpg)

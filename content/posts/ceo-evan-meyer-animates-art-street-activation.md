@@ -14,6 +14,9 @@ permalink: "/post/ceo-evan-meyer-animates-art-street-activation/"
 **Updated:** Oct 5, 2020
 **Read Time:** 1 min
 
+
+![CEO, Evan Meyer animates his murals to show examples of street activation](/images/8ce4cb6fe4-sddefault.jpg)
+
 ---
 
 Art has the power to transform our streets in both the physical and digital worlds. It creates an *experience*, and will be a large component in the new future of our Main Streets, and how people experience commercial thoroughfares.

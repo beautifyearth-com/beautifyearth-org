@@ -14,6 +14,9 @@ permalink: "/post/great-street-initiatives/"
 
 **Read Time:** 1 min read
 
+
+![Public Art Transforms In the Great Streets Initiative](/images/display/c9c21d0f41-df72fd_0da7e48d710641ed9ae80c54021b5516_mv2.jpg)
+
 ---
 
 As part of Mayor Garcetti's Great Streets Initiative, Councilmember David Ryu and the Great Streets Team worked to improve the vibrancy of Western Avenue (in Koreatown, Los Angeles), including cultural, transportation and economic improvements.
@@ -24,3 +27,12 @@ Beautify Earth provided the artist component on the street to beautify the facad
 - nonprofit
 - Projects
 - Community
+
+
+---
+
+![Public Art Transforms In the Great Streets Initiative — project photo](/images/84662df113-df72fd_ffc47e85dc5f40b2912b5ff5ed89d524_mv2.jpg)
+
+![Public Art Transforms In the Great Streets Initiative — project photo](/images/display/db7c4cc028-df72fd_fc7ae3463adb45868d745166c6fc441f_mv2.jpg)
+
+![Public Art Transforms In the Great Streets Initiative — project photo](/images/4ddbe3c7bb-df72fd_30fc1adefb774ceb98e6e2f39c1415bb_mv2.jpg)

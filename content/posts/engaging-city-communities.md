@@ -14,6 +14,9 @@ permalink: "/post/engaging-city-communities/"
 **Updated:** Mar 22, 2020
 **Read time:** 1 min
 
+
+![Public Art Generates Cultural Capital](/images/a5600df24d-a27d24_e9484699492845eca1b5149371a4cf5f_mv2.jpg)
+
 ---
 
 Across the city of Santa Monica, our murals have become points of engagement and connection for individuals, neighborhoods, tourists, businesses, schools, and government. The art serves as a spark for community pride and well-being and an attraction for residents and passersby.
@@ -33,3 +36,8 @@ From community paint days to civic engagement workshops through our #CivicLove p
 - Learn more about our [120+ murals](/post/beautify-santa-monica-a-cultural-shift-of-murals-as-experiential-community-focused-placemaking/) in the City of Santa Monica.
 - [Start a project](https://marketplace.beautifyearth.com/#/on-boarding/wall)
 - Check out [local artists](https://marketplace.beautifyearth.com/#/artists)
+
+
+---
+
+![Public Art Generates Cultural Capital — project photo](/images/7d4c604868-a27d24_c96e4f490f454caba4f9e6a223d7d977_mv2.jpg)

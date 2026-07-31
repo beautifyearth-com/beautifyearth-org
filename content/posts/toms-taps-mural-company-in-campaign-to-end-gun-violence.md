@@ -14,6 +14,9 @@ permalink: "/post/toms-taps-mural-company-in-campaign-to-end-gun-violence/"
 
 **Read time:** 2 min
 
+
+![Beautify delivers the street art for Toms campaign to end gun violence](/images/eb79a9459c-e1ec93_e3957359f4b0460caff21a0a36578d2a_mv2.jpg)
+
 ## The shoe brand hired street artists skilled in experiential marketing to deliver its message.
 
 Our online platform has delivered results for more than 50 brands from local to global. [Contact us](/brands-agencies/) to discuss what we can do for you.

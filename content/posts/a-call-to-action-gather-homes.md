@@ -12,6 +12,9 @@ permalink: "/post/a-call-to-action-gather-homes/"
 **Date:** Oct 19, 2022
 **Read Time:** 2 min read
 
+
+![A Call to Action (Gather Homes)](/images/d58f0a17ef-cf6196_aa1b58b4199d4e0db0f0d074cfebd27f_mv2.jpg)
+
 ---
 
 A story by Daniela Torres-Mattus (Director of Education)
@@ -49,3 +52,14 @@ If you have a story related to a mural that has impacted you one way or another,
 Photos by Meredith Carlson
 [Instagram](https://www.instagram.com/meredithmcarlson/?hl=en)
 [Website](https://www.meredithmcarlson.com/)
+
+
+---
+
+![A Call to Action (Gather Homes) — project photo](/images/9cd3148006-cf6196_90bc50950b1a4f03b481a0c94cd6e7ac_mv2.jpg)
+
+![A Call to Action (Gather Homes) — project photo](/images/55d201a5ef-cf6196_93204e1a87af4455881b33bf4c306113_mv2.jpg)
+
+![A Call to Action (Gather Homes) — project photo](/images/ddbb201c19-cf6196_18dc70dddebe4e3a8ff0c86b6098aab6_mv2.jpg)
+
+![A Call to Action (Gather Homes) — project photo](/images/f44843c2bd-cf6196_f5ba24540216412a8299e5697365b800_mv2.jpg)

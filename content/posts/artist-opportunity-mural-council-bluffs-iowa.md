@@ -14,6 +14,9 @@ permalink: "/post/artist-opportunity-mural-council-bluffs-iowa/"
 
 **Read Time:** 2 min
 
+
+![New mural matchup opportunity in Council Bluffs, IA](/images/display/e561587421-55dc19_937cf61e329444938544eccf437da2ff_mv2.jpg)
+
 ---
 
 # New mural matchup opportunity in Council Bluffs, IA
@@ -47,3 +50,8 @@ If you have previously submitted a proposal and are awaiting a response, we than
 Learn more about becoming a part of the Beautify artist community [here](/artists/).
 
 Interested in a mural for your wall? [Register your wall](/how-it-works/) to start connecting with artists.
+
+
+---
+
+![New mural matchup opportunity in Council Bluffs, IA — project photo](/images/display/d0e0fe997e-55dc19_80a3ebcfb1ad44c8bb8afee36631fe51_mv2.jpg)

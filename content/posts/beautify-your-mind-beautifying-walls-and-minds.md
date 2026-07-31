@@ -12,6 +12,9 @@ permalink: "/post/beautify-your-mind-beautifying-walls-and-minds/"
 **Published:** Jun 27, 2020
 **Read Time:** 2 min read
 
+
+![Beautify Your Mind - Beautifying Walls and Minds](/images/display/15c85d62bb-b7dda5_b00a01f0530945f7b6dfa0854ceef9fd_mv2.jpg)
+
 We understand these are difficult times and unprecedented measures have been seen across the globe while we all try to heal and maintain our humanity. Beautify Earth has seen challenging times an opportunity to bring our communities closer together when needed the most.
 
 Now more than ever a sound mind and positivity are needed. We have created an opportunity to showcase your artistic or creative abilities. We are encouraging everyone to provide what you are thankful for and what motivates you and showcase it to the world, so that they might find some inspiration in it and find their own,
@@ -48,3 +51,18 @@ Beautify Earth
 - [Patronage, Corporate Social Responsibility, & the Power of Murals](/post/patronage-corporate-social-responsibility-power-of-murals)
 - [Beautify helped Zappos lead the way in experiential marketing through murals](/post/zappos-ten-core-value-mural-campaign)
 - [Beautify helps Lexus' crossover of art & marketing via murals](/post/lexus-urban-crossover-brand-values-murals)
+
+
+---
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/display/dab57e0c82-b7dda5_d9416d65ca96417a99bdbb7e0cc84548_mv2.jpg)
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/display/590d3d1fc4-b7dda5_66522af1e2b04a2c8a1494ed39574555_mv2.jpg)
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/display/cc16e1b9a9-b7dda5_a953cde40b0d46778bd0d6bae2f99701_mv2.jpg)
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/display/c3e3c9d87b-b7dda5_2a8e1684caae4095a40fa4d47564b0a5_mv2.jpg)
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/e866680560-b7dda5_bee426d6f2df46c7a315c3e9e8a400c9_mv2.jpeg)
+
+![Beautify Your Mind - Beautifying Walls and Minds — project photo](/images/d71cfe6e48-b7dda5_daf5a32acaa74379879431b28865273f_mv2.jpeg)

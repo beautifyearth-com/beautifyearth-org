@@ -14,6 +14,9 @@ permalink: "/post/building-art-into-a-building-s-purpose/"
 
 **Read Time:** 3 min
 
+
+![Building Art into a Building's Purpose](/images/d6acd6f8d2-55dc19_2583f3affbd7479393f59e0f5e3557d9_mv2.png)
+
 ---
 
 When plans for either a new build or renovation are discussed there are obvious questions to answer — *How big will it be? What's the timeline? How much will it cost?* Though maybe not the first question posed at a development meeting, one that carries as much (if not more) weight than the previous ones is simply — *Who will this building inspire?*
@@ -49,3 +52,10 @@ By integrating murals into their housing program the foundation that bears his n
 ## Tags
 - Murals
 - Community
+
+
+---
+
+![Building Art into a Building's Purpose — project photo](/images/bb91c725c4-55dc19_e59ca92a41534ac6bb5f847535fd492e_mv2.png)
+
+![Building Art into a Building's Purpose — project photo](/images/25644ba640-55dc19_baaf71737b124e99b3985932ca71c3cf_mv2.png)

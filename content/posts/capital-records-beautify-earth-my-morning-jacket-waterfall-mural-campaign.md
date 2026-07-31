@@ -12,6 +12,9 @@ permalink: "/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mur
 **Published:** Mar 11, 2016 | 2 min read
 **Updated:** Jan 31, 2021
 
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign](/images/display/ab8e85ff5c-e1ec93_8ed736ca41b145f79845e66658003017_mv2.jpg)
+
 ## Five murals around Louisville, Kentucky celebrate the local band's breakout success.
 
 Our online platform has delivered results for more than 50 brands from local to global.
@@ -35,3 +38,16 @@ If you want to be involved with spreading love and color across your city, pleas
 You have the power to change your landscape and the vision of your city. Keep Beautifying!
 
 [*Evan Meyer*](https://www.linkedin.com/in/evan-meyer/) *is a co-founder and the CEO of Beautify.*
+
+
+---
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign — project photo](/images/d77c6c4ac1-a319bc_8eb0a070322e4cd2b31288e363e83083_mv2.jpg)
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign — project photo](/images/d1e8347784-a319bc_ee34221e9a2c4098bbced0028ddfefa6_mv2.jpg)
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign — project photo](/images/c46aa8f383-a319bc_14d244f42f6e4fa290b7b09a1405f25a_mv2.jpg)
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign — project photo](/images/d6ee8c6934-a319bc_84213fe619ca42b8ab30fc99418febbf_mv2.jpg)
+
+![Capitol Records & Beautify Earth - My Morning Jacket, Waterfall Mural Campaign — project photo](/images/c7069020fe-a319bc_9b5453e236684b1c8fd856850822dbb7_mv2.jpg)

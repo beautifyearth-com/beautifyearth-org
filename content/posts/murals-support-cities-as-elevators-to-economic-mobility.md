@@ -13,6 +13,9 @@ permalink: "/post/murals-support-cities-as-elevators-to-economic-mobility/"
 **Date:** Dec 1, 2020
 **Read time:** 1 min read
 
+
+![Murals Support Cities as Elevators to Economic Mobility](/images/d2330a18ba-a319bc_6e273e0f08454a1a9037d860f5df505c_mv2.jpg)
+
 ---
 
 "We shape our buildings and afterwards our buildings shape us" Winston Churchill [noted](https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/churchill/) about eighty years ago. At Beautify, we help make our cities more vibrant and therethrough more inviting to all people.

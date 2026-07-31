@@ -14,6 +14,9 @@ permalink: "/post/diesel-films-strikes-again-beautifying-2-schools/"
 **Updated:** Mar 18, 2020
 **Read Time:** 1 min read
 
+
+![Diesel Films Strikes Again, Beautifying 2 Schools!](/images/76ce97fb45-b7dda5_bb6dc1b6a416464ea99ed7ab0ddc1fdb_mv2.jpeg)
+
 ---
 
 **Location:** Inglewood, CA and Los Angeles, CA
@@ -34,3 +37,12 @@ Check out more school projects and how to get involved, [here](/nonprofit/).
 - Education
 - schools
 - nonprofit
+
+
+---
+
+![Diesel Films Strikes Again, Beautifying 2 Schools! — project photo](/images/display/fee20a8bee-df72fd_1ec45b5bcdec4102a9c08101da0aa6ec_mv2.jpg)
+
+![Diesel Films Strikes Again, Beautifying 2 Schools! — project photo](/images/display/177cb40411-b7dda5_a774eb7ff4714ba3b0c83da2fccbc8c1_mv2.jpg)
+
+![Diesel Films Strikes Again, Beautifying 2 Schools! — project photo](/images/display/caddb2ab26-b7dda5_59c1bd021ea8470489868d1b22af83a8_mv2.jpg)

@@ -12,6 +12,9 @@ permalink: "/post/patronage-corporate-social-responsibility-power-of-murals/"
 **Date:** Oct 26, 2022
 **Read Time:** 4 min
 
+
+![Patronage, Corporate Social Responsibility, & the Power of Murals](/images/display/6505c66575-55dc19_c0c8c79334134e9a986688504f5a06a9_mv2.jpg)
+
 ---
 
 Envision Michelangelo's *The Creation of Adam* or da Vinci's *The Last Supper* and it's easy to recognize their vision and talent. These works of art feel so inspired and mystical that it's hard to believe they stemmed from a paid commission. A gig. In Michelangelo's case a gig that he wasn't too thrilled to land.
@@ -78,3 +81,10 @@ Michaelangelo would likely agree.
 
 - Corporate Partners
 - Education
+
+
+---
+
+![Patronage, Corporate Social Responsibility, & the Power of Murals — project photo](/images/display/e1d6942a8d-55dc19_f8021465b2c94dccbf6866bc73dba340_mv2.jpg)
+
+![Patronage, Corporate Social Responsibility, & the Power of Murals — project photo](/images/e4ac604b92-55dc19_c220373d318745d3aa46cea6e3d1aa35_mv2.jpg)

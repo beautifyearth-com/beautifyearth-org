@@ -8,6 +8,9 @@ tags: posts
 permalink: "/post/beautify-santa-monica-a-cultural-shift-of-murals-as-experiential-community-focused-placemaking/"
 ---
 
+
+![Beautify Santa Monica: How murals revitalized culture and business](/images/display/7c3f4f7149-a319bc_6857c93a444e4e0ca45065e519f83eda_mv2.jpg)
+
 By [Evan Meyer](/profile/9aa6028c-25f3-4c51-8d0b-6fd216f37384/profile)
 Mar 15, 2020 | 4 min read
 Updated: Jan 20, 2021
@@ -128,3 +131,18 @@ Santa Monica College offers a Beautify Earth, experiential learning component to
 [Explore local artists](https://marketplace.beautifyearth.com/#/artists)
 
 [Join our local organizations program](/local-organizations/)
+
+
+---
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/5b0ac9f654-a319bc_44a63b8bd87742b9a34685855f1f323a_mv2.png)
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/ac2feea4e5-a319bc_b4a6459ff029436a927230c7a72d72a0_mv2.jpg)
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/d291c69ff7-a319bc_ef5c4dbeaffb45db8c8501753444f898_mv2.jpg)
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/3c05fdc8d8-a319bc_271890a119d346a7ad468a78af191f6b_mv2.jpg)
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/display/5bd8607d78-a319bc_8f6ea79246f14bb5b8a79d4194d5b9ad_mv2.jpg)
+
+![Beautify Santa Monica: How murals revitalized culture and business — project photo](/images/3d8dd9af3c-a319bc_653018dd5a05475cbbae146fa1fdcc18_mv2.jpg)

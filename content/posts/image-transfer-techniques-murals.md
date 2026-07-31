@@ -13,6 +13,9 @@ permalink: "/post/image-transfer-techniques-murals/"
 **Updated:** Sep 16, 2022
 **Reading Time:** 4 min
 
+
+![Image Transfer Techniques for Murals](/images/display/675490df32-55dc19_385818ff348443ec8f684fd7feec04d3_mv2.jpg)
+
 ---
 
 One of the most important steps in painting a mural is getting your image transferred accurately onto the wall. This can be very tricky since it's impossible to paint a large scale image the same way one would paint a smaller piece.

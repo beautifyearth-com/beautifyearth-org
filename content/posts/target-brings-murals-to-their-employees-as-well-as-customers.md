@@ -16,6 +16,9 @@ permalink: "/post/target-brings-murals-to-their-employees-as-well-as-customers/"
 
 **Reading time:** 2 min read
 
+
+![Target taps Beautify to paint murals inside its warehouses](/images/2aa7b13175-e1ec93_0ece2ba7fa704516bc8732dfcf33d346_mv2.jpg)
+
 ## The retail giant's distribution center walls will make clear to employees that Target is a local employer with global connections.
 
 Our online platform has delivered results for more than 50 brands from local to global.
@@ -31,3 +34,10 @@ Each mural reflects the beauty and culture of the surrounding city and/or state 
 Murals are found in many of top brands' headquarters including AirBnB, Hulu, and another Beautify partner, Avocado Mattress. Target is now fanning out to bring them to workers at remote locations. By elevating the employee experience, they're a solid investment in workplace culture and community.
 
 [*Evan Meyer*](https://www.linkedin.com/in/evan-meyer/) *is a co-founder and the CEO of Beautify.*
+
+
+---
+
+![Target taps Beautify to paint murals inside its warehouses — project photo](/images/fd1d46baba-a319bc_73b97fb25bc147e0890f7a88cd3ed933_mv2.jpg)
+
+![Target taps Beautify to paint murals inside its warehouses — project photo](/images/display/df291573d1-e1ec93_b300620e6932409ebbdcde590b05e645_mv2.jpg)
