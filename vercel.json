@@ -22,6 +22,7 @@
     { "source": "/sponsorships/", "destination": "/nonprofit/", "permanent": true },
     { "source": "/supporters/", "destination": "/nonprofit/", "permanent": true },
     { "source": "/mural-agreement/", "destination": "/privacy/", "permanent": true },
-    { "source": "/terms/", "destination": "/privacy/", "permanent": true }
+    { "source": "/terms/", "destination": "/privacy/", "permanent": true },
+    { "source": "/blue-earth/", "destination": "/", "permanent": false }
   ]
 }
