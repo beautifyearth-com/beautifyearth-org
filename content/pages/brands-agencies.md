@@ -77,10 +77,22 @@ fullwidth: true
 <div class="wrap section center">
   <h2 class="centerhead">Artists are ready to bring your campaigns to life</h2>
   <div class="cards four">
-    <div class="card boxed"><h3><a href="https://art.beautifyearth.com/artists">Allison Kunath</a></h3></div>
-    <div class="card boxed"><h3><a href="https://art.beautifyearth.com/artists">David Puck</a></h3></div>
-    <div class="card boxed"><h3><a href="https://art.beautifyearth.com/artists">Gino Burman-Loffredo</a></h3></div>
-    <div class="card boxed"><h3><a href="https://art.beautifyearth.com/artists">John Park</a></h3></div>
+    <div class="card">
+      <a href="https://art.beautifyearth.com/artists"><img src="/images/3bfe027fda-1d9_b4999a0f4d344e6eb99178c98712b21a_mv2_d_2120_1562_s_2.jpg" alt="Line-art mural by Allison Kunath"></a>
+      <h3><a href="https://art.beautifyearth.com/artists">Allison Kunath</a></h3>
+    </div>
+    <div class="card">
+      <a href="https://art.beautifyearth.com/artists"><img src="/images/display/32cf782763-e1ec93_38d7cf44c4e1468cb20924950f7de051_mv2.jpg" alt="Portrait mural by David Puck"></a>
+      <h3><a href="https://art.beautifyearth.com/artists">David Puck</a></h3>
+    </div>
+    <div class="card">
+      <a href="https://art.beautifyearth.com/artists"><img src="/images/eb40108f03-a319bc_146609c4a8c4447e8a0cda0e5e7c0dab_mv2.jpeg" alt="Love hearts mural by Gino Burman-Loffredo"></a>
+      <h3><a href="https://art.beautifyearth.com/artists">Gino Burman-Loffredo</a></h3>
+    </div>
+    <div class="card">
+      <a href="https://art.beautifyearth.com/artists"><img src="/images/display/93d4897126-nsplsh_614768557858616d53584d_mv2_d_4032_3024_s_4_2.jpg" alt="Layered faces mural by John Park"></a>
+      <h3><a href="https://art.beautifyearth.com/artists">John Park</a></h3>
+    </div>
   </div>
   <p><a class="btn pink" href="https://art.beautifyearth.com/artists">Hire an Artist</a></p>
 </div>
@@ -89,10 +101,30 @@ fullwidth: true
   <div class="wrap">
     <h2 class="centerhead">Want to manage your own project?</h2>
     <div class="cards four">
-      <div class="card boxed"><h3>01</h3><p><a href="https://art.beautifyearth.com/signup">Create account</a></p></div>
-      <div class="card boxed"><h3>02</h3><p><a href="https://art.beautifyearth.com/u/beautify/projects?openModal=true">Start Project</a></p></div>
-      <div class="card boxed"><h3>03</h3><p><a href="https://art.beautifyearth.com/artists">Invite Artists to Apply</a></p></div>
-      <div class="card boxed"><h3>04</h3><p><a href="https://art.beautifyearth.com/dashboard?viewMode=producer">Manage Your Project</a></p></div>
+      <div class="card boxed step">
+        <span class="num">01</span>
+        <h3>Create account</h3>
+        <p>Free, in a couple of minutes.</p>
+        <p><a class="btn" href="https://art.beautifyearth.com/signup">Sign Up</a></p>
+      </div>
+      <div class="card boxed step">
+        <span class="num">02</span>
+        <h3>Start Project</h3>
+        <p>Describe your vision, budget, and timeline.</p>
+        <p><a class="btn" href="https://art.beautifyearth.com/u/beautify/projects?openModal=true">Start</a></p>
+      </div>
+      <div class="card boxed step">
+        <span class="num">03</span>
+        <h3>Invite Artists to Apply</h3>
+        <p>Browse portfolios and invite your favorites.</p>
+        <p><a class="btn" href="https://art.beautifyearth.com/artists">Browse Artists</a></p>
+      </div>
+      <div class="card boxed step">
+        <span class="num">04</span>
+        <h3>Manage Your Project</h3>
+        <p>Proposals, chat, and payments in one dashboard.</p>
+        <p><a class="btn" href="https://art.beautifyearth.com/dashboard?viewMode=producer">Open Dashboard</a></p>
+      </div>
     </div>
   </div>
 </div>
