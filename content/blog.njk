@@ -3,13 +3,24 @@ title: "Blog | Beautify"
 description: "Stories from Beautify Earth — murals, artists, and community beautification projects around the world."
 layout: base.njk
 permalink: "/blog/"
+fullwidth: true
 ---
-<h1>Blog</h1>
-<ul class="postlist">
-{% for post in collections.posts | reverse %}
-  <li>
-    <a href="{{ post.url }}">{{ post.data.title }}</a><br>
-    <span class="d">{{ post.date | niceDate }}</span>
-  </li>
-{% endfor %}
-</ul>
+<div class="wrap section center">
+  <h1 class="artscape">Artscape</h1>
+  <p class="byline">By <span class="b1">B</span><span class="b2">E</span><span class="b3">A</span><span class="b4">U</span><span class="b5">T</span><span class="b6">I</span><span class="b7">F</span><span class="b8">Y</span></p>
+  <p class="lead">Exploring the unexpected and untapped areas of public art and its intersection with digital technologies</p>
+
+  <div class="bloggrid">
+  {% for post in collections.posts | reverse %}
+    <a class="bcard" href="{{ post.url }}">
+      {% set pm = postmeta[post.fileSlug] %}
+      {% if pm and pm.thumb %}<img src="{{ pm.thumb }}" alt="" loading="lazy">{% endif %}
+      <div class="bcard-body">
+        <h2>{{ post.data.title }}</h2>
+        {% if pm and pm.excerpt %}<p>{{ pm.excerpt }}</p>{% endif %}
+        <span class="d">{{ post.date | niceDate }}</span>
+      </div>
+    </a>
+  {% endfor %}
+  </div>
+</div>
