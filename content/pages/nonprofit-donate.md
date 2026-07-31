@@ -15,36 +15,37 @@ fullwidth: true
   </div>
 </section>
 
-<div class="wrap section center" id="donate">
-  <iframe class="donorbox" title="Donate to Beautify Earth" allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/beautify-earth-be-the-change" width="100%"></iframe>
-</div>
-
-<div class="wrap section center">
-  <h2 class="centerhead">6 Reasons to Become A Member</h2>
-  <div class="cards">
-    <div class="card boxed">
-      <h3>Build a Culure of Community Art</h3>
-      <p>We see walls as untapped potential. We stand for making art the norm, not the exception and creating a culture of community art.</p>
+<div class="wrap section">
+  <div class="donate-grid" id="donate">
+    <div class="donate-reasons">
+      <h2>6 Reasons to Become A Member</h2>
+      <div class="reason">
+        <h3>Build a Culure of Community Art</h3>
+        <p>We see walls as untapped potential. We stand for making art the norm, not the exception and creating a culture of community art.</p>
+      </div>
+      <div class="reason">
+        <h3>Build Community Connection</h3>
+        <p>Urban environments filled with art give people a sense of pride and responsibility for their community. We aim to cultivate more civic and socially engaged communities.</p>
+      </div>
+      <div class="reason">
+        <h3>Educate</h3>
+        <p>Our education programs are designed to inspire and provide both children and adults opportunities to recognize that their creativity can be used to serve the common good and make a positive impact.</p>
+      </div>
+      <div class="reason">
+        <h3>Support Local Artists</h3>
+        <p>We work with local artists to build communities of artists in cities around the world.</p>
+      </div>
+      <div class="reason">
+        <h3>Act Locally, Give Globally</h3>
+        <p>We support our local and global neighbors in their community art initiatives by sharing resources and working together for the collective good.</p>
+      </div>
+      <div class="reason">
+        <h3>Have a question?</h3>
+        <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Contact Us</a></p>
+      </div>
     </div>
-    <div class="card boxed">
-      <h3>Build Community Connection</h3>
-      <p>Urban environments filled with art give people a sense of pride and responsibility for their community. We aim to cultivate more civic and socially engaged communities.</p>
-    </div>
-    <div class="card boxed">
-      <h3>Educate</h3>
-      <p>Our education programs are designed to inspire and provide both children and adults opportunities to recognize that their creativity can be used to serve the common good and make a positive impact.</p>
-    </div>
-    <div class="card boxed">
-      <h3>Support Local Artists</h3>
-      <p>We work with local artists to build communities of artists in cities around the world.</p>
-    </div>
-    <div class="card boxed">
-      <h3>Act Locally, Give Globally</h3>
-      <p>We support our local and global neighbors in their community art initiatives by sharing resources and working together for the collective good.</p>
-    </div>
-    <div class="card boxed">
-      <h3>Have a question?</h3>
-      <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Contact Us</a></p>
+    <div class="donate-form">
+      <iframe class="donorbox" title="Donate to Beautify Earth" allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/beautify-earth-be-the-change" width="100%"></iframe>
     </div>
   </div>
 </div>

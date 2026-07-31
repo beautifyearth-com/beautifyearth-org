@@ -156,6 +156,13 @@
   .card.part h3, .card.part p { padding:0 16px; }
   .card.part p:last-child { padding-bottom:16px; }
   iframe.donorbox { max-width:500px; min-width:310px; max-height:none !important; border:none; margin:0 auto; display:block; }
+  .donate-grid { display:grid; grid-template-columns:1fr 440px; gap:56px; align-items:start; }
+  .donate-grid h2 { margin-top:0; }
+  .donate-reasons .reason { border-left:3px solid var(--green); padding:4px 0 4px 18px; margin-bottom:22px; }
+  .donate-reasons .reason h3 { margin:0 0 6px; }
+  .donate-reasons .reason p { margin:0; color:#3a3f44; }
+  .donate-form { position:sticky; top:86px; background:var(--wash); border:1px solid var(--line); border-radius:14px; padding:18px 12px; }
+  @media (max-width: 900px) { .donate-grid { grid-template-columns:1fr; } .donate-form { position:static; order:-1; } }
   .legalnav { font-size:13.5px; color:var(--muted); border-bottom:1px solid var(--line); padding-bottom:14px; }
   .legalnav a { color:var(--muted); }
   .legalnav a:hover { color:var(--accent); }
