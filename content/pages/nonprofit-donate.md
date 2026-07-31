@@ -11,9 +11,13 @@ fullwidth: true
   <div class="wrap">
     <h1>Donate Today</h1>
     <p class="sub">Thank you for supporting our mission to connect communities with art. Whether it's one-time or a recurring monthly contribution, we're grateful for your support!</p>
-    <p><a class="btn green" href="https://www.beautifyearth.com/contact-us">Donate</a></p>
+    <p><a class="btn green" href="#donate">Donate</a></p>
   </div>
 </section>
+
+<div class="wrap section center" id="donate">
+  <iframe class="donorbox" title="Donate to Beautify Earth" allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/beautify-earth-be-the-change" width="100%"></iframe>
+</div>
 
 <div class="wrap section center">
   <h2 class="centerhead">6 Reasons to Become A Member</h2>

@@ -11,7 +11,7 @@ fullwidth: true
   <div class="wrap">
     <h1>Bringing communities together one beautiful mural at a time</h1>
     <p class="sub">For eight years, Beautify Earth nonprofit has worked with schools and communities in need of beautification, together we leverage the power of art from within.</p>
-    <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Make a donation</a></p>
+    <p><a class="btn" href="/nonprofit-donate/">Make a donation</a></p>
   </div>
 </section>
 
