@@ -4,76 +4,58 @@ description: ""
 originalUrl: "https://www.beautifyearth.org/register-your-wall"
 layout: page.njk
 permalink: "/register-your-wall/"
+fullwidth: true
 ---
 
+<section class="hero" style="background-image:url('/images/display/972012c558-20_d7ce78fe6caf4530804d0a20ed911293_mv2_d_2048_2048_s_2.jpg')">
+  <div class="wrap">
+    <h1>Register Your Wall</h1>
+    <p class="sub">✓ Create Wall Profile<br>✓ We'll match your wall with a sponsor<br>✓ Start beautifying!</p>
+  </div>
+</section>
 
-# Register Your Wall
+<div class="wrap section">
+  <h2>1. Register your wall</h2>
+  <p>Register your wall so we can match it with a sponsors. All you'll need is:</p>
+  <ul>
+    <li>Wall address</li>
+    <li>Wall dimensions (approximate is OK!)</li>
+    <li>Any restrictions or specific needs about your wall (creative flexibility is key with sponsored walls)</li>
+    <li>Email address</li>
+  </ul>
+  <p><a class="btn" href="https://art.beautifyearth.com/signup">Create Wall Profile</a></p>
 
-# ✓ Create Wall Profile
-# ✓ We'll match your wall with a sponsor
-# ✓ Start beautifying!
+  <div class="split">
+    <div>
+      <h2>2. Sponsors</h2>
+      <p style="font-size:22px;line-height:1.5"><strong>2000+ Murals.<br>100+ Cities.<br>50+ Sponsors.</strong></p>
+      <p>Thanks to the help of sponsors, in the past we have been able to create 1000's of murals across the nation.</p>
+      <p><a class="btn" href="https://art.beautifyearth.com/signup">Add Wall</a></p>
+    </div>
+    <img src="/images/display/25c35d9fa3-a319bc_dd90337f35b44e858291341d509c64a5_mv2.jpg" alt="Map of sponsored murals across the United States">
+  </div>
 
-[Get started below](/register-your-wall)
+  <h2>3. Community</h2>
+  <p>Murals become the heart of a community. Property owners and businesses that host murals improve their streets and foot-traffic.</p>
+  <div class="cards">
+    <div class="card boxed">
+      <img class="seal" src="/images/23ed3b1dda-66e437_a71343578ec24608ab6738d90d2cf39c_mv2.png" alt="">
+      <h3>Protect</h3>
+      <p>main streets from becoming abandoned by upkeeping them with murals</p>
+    </div>
+    <div class="card boxed">
+      <img class="seal" src="/images/6ed10ac6b8-66e437_019b5a14c2f14fab9fbeb2e8a5135666_mv2.png" alt="">
+      <h3>Inspire</h3>
+      <p>to return &amp; celebrate humanity and our victory together</p>
+    </div>
+    <div class="card boxed">
+      <img class="seal" src="/images/282074eb40-66e437_7157a2a86ef041c18ea3c8c3722e86e4_mv2.png" alt="">
+      <h3>Support</h3>
+      <p>local heroes, cultures &amp; economies, public health, &amp; essential workers</p>
+    </div>
+  </div>
 
-**[Create Wall Profile]** button
-
-## Section 1: Register Your Wall
-
-# 1. Register your wall
-
-"Register your wall so we can match it with a sponsors. All you'll need is:"
-
-Required information:
-- Wall address
-- Wall dimensions (approximate is OK!)
-- Any restrictions or specific needs about your wall (creative flexibility is key with sponsored walls)
-- Email address
-
-[Create Wall Profile](https://marketplace.beautifyearth.com/#/on-boarding/wall)
-
-## Section 2: Sponsors
-
-# 2. Sponsors
-
-## 2000+ Murals.
-## 100+ Cities.
-## 50+ Sponsors.
-
-"Thanks to the help of sponsors, in the past we have been able to create 1000's of murals across the nation."
-
-[Add Wall](https://marketplace.beautifyearth.com/#/on-boarding/wall)
-
-Map image: map 4-27.png (see Images list)
-
-## Section 3: Community
-
-# 3. Community
-
-"Murals become the heart of a community. Property owners and businesses that host murals improve their streets and foot-traffic."
-
-#### PROTECT
-main streets from becoming abandoned by upkeeping them with murals
-
-#### INSPIRE
-to return & celebrate humanity and our victory together
-
-#### SUPPORT
-local heroes, cultures & economies, public health, & essential workers
-
-## Section 4: Start Beautifying
-
-# 4. Start Beautifying
-
-"Beautify will handle all logistics and make sure you approve the design. If selected, we will confirm your mural start date!"
-
-[Add Wall](https://marketplace.beautifyearth.com/#/on-boarding/wall)
-
-
-Social media links:
-- [Instagram](https://www.instagram.com/beautifyearth/)
-- Substack (icon only)
-- [LinkedIn](https://www.linkedin.com/company/beautifyearth/)
-- [YouTube](https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw)
-
-
-<!-- TODO widgets on original Wix page: "Create Wall Profile" flow links to external wall-onboarding form at https://marketplace.beautifyearth.com/#/on-boarding/wall (appears multiple times); Multiple "Add Wall" action buttons linking to the same registration marketplace; No embedded videos detected -->
+  <h2>4. Start Beautifying</h2>
+  <p>Beautify will handle all logistics and make sure you approve the design. If selected, we will confirm your mural start date!</p>
+  <p><a class="btn" href="https://art.beautifyearth.com/signup">Add Wall</a></p>
+</div>
