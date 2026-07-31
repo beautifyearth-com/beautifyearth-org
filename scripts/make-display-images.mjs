@@ -20,6 +20,7 @@ for (const f of files) {
   const out = path.join(outDir, f.replace(/\.(png|jpeg)$/i, ".jpg"));
   const meta = await sharp(src).metadata();
   await sharp(src)
+    .rotate() // honor EXIF orientation (else photos land sideways/upside down)
     .resize({ width: Math.min(1600, meta.width || 1600), withoutEnlargement: true })
     .jpeg({ quality: 78, mozjpeg: true })
     .toFile(out);

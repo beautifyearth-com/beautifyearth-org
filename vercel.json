@@ -10,7 +10,6 @@
     { "source": "/webinar-registration/", "destination": "/", "permanent": true },
     { "source": "/how-to-s/", "destination": "/blog/", "permanent": true },
     { "source": "/property-owners/", "destination": "https://www.beautifyearth.com/property-owners", "permanent": true },
-    { "source": "/schools/", "destination": "/", "permanent": false },
     { "source": "/nonprofit-donate/", "destination": "/nonprofit/", "permanent": false },
     { "source": "/blog/categories/:slug(.*)", "destination": "/blog/", "permanent": true },
     { "source": "/blog/tags/:slug(.*)", "destination": "/blog/", "permanent": true },

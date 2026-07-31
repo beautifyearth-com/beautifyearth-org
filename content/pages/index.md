@@ -51,7 +51,7 @@ fullwidth: true
 </div>
 
 <div class="wrap section">
-  <h2 class="centerhead">Complete School/Organization List</h2>
+  <h2 class="centerhead">School Beautification Allstars</h2>
   <div class="schoolcols">
     <div>
       <h4>Elementary Schools</h4>
