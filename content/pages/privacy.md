@@ -6,10 +6,7 @@ layout: page.njk
 permalink: "/privacy/"
 ---
 
-Canonical URL: /privacy
-
-## Header Navigation
-
+<p class="legalnav"><a href="/terms/">Terms of Service</a> · <a href="/privacy/">Privacy Policy</a> · <a href="/mural-agreement/">Mural Agreement</a></p>
 
 ### Privacy Policy
 
