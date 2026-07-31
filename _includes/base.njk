@@ -133,6 +133,8 @@
   @media (max-width: 840px) { .split, .cards { grid-template-columns:1fr; } .schoolcols { grid-template-columns:repeat(2, 1fr); } .hero .sub { font-size:18px; } }
   footer { border-top:1px solid var(--line); background:var(--wash); margin-top:40px; }
   .foot { max-width:1080px; margin:0 auto; padding:32px 20px; font-size:14px; color:var(--muted); display:flex; flex-wrap:wrap; gap:14px 28px; justify-content:space-between; align-items:center; }
+  .footnav { display:flex; flex-wrap:wrap; gap:8px 22px; width:100%; padding-bottom:14px; border-bottom:1px solid var(--line); }
+  .footnav a { font-weight:500; color:var(--ink); }
   .foot a { color:var(--muted); text-decoration:none; }
   .foot a:hover { color:var(--accent); }
   .foot .social { display:flex; gap:18px; }
@@ -143,15 +145,10 @@
   <nav class="nav">
     <a class="brand" href="/" aria-label="Beautify Earth home"><img src="/images/035a3a7adf-55dc19_33494c6aff084bceb5448f7eb71ed71f_mv2.png" alt="Beautify Earth"></a>
     <a href="/schools/">Schools</a>
-    <a href="/about/">About</a>
-    <a href="/how-it-works/">How It Works</a>
     <a href="https://art.beautifyearth.com/artists">Artists</a>
-    <a href="/cities-and-communities/">Cities</a>
-    <a href="/nonprofit/">Nonprofit</a>
-    <a href="/blog/">Blog</a>
-    <a href="/faq/">FAQ</a>
     <a href="https://www.beautifyearth.com/contact-us">Contact</a>
-    <a class="cta" href="https://art.beautifyearth.com/signup">Post a Project</a>
+    <a href="/nonprofit/">Donate</a>
+    <a class="cta" href="https://art.beautifyearth.com/signup">Sign up</a>
   </nav>
 </header>
 <main{% if fullwidth %} class="full"{% endif %}>
@@ -159,13 +156,22 @@
 </main>
 <footer>
   <div class="foot">
+    <nav class="footnav">
+      <a href="/about/">About</a>
+      <a href="https://www.beautifyearth.com/contact-us">Contact</a>
+      <a href="/blog/">News</a>
+      <a href="/how-it-works/">How It Works</a>
+      <a href="/cities-and-communities/">Cities &amp; Communities</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/privacy/">Privacy</a>
+    </nav>
     <span>© Beautify Earth — producing, promoting, and advocating for art on the streets since 2012. Certified 501(c)(3).</span>
     <span class="social">
       <a href="https://www.instagram.com/beautifyearth/">Instagram</a>
       <a href="https://www.linkedin.com/company/beautifyearth/">LinkedIn</a>
       <a href="https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw">YouTube</a>
+      <a href="https://www.beautifyearth.com">beautifyearth.com</a>
     </span>
-    <span><a href="/privacy/">Privacy</a> · <a href="https://www.beautifyearth.com">beautifyearth.com</a></span>
   </div>
 </footer>
 </body>
