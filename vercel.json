@@ -23,6 +23,9 @@
     { "source": "/supporters/", "destination": "/nonprofit/", "permanent": true },
     { "source": "/mural-agreement/", "destination": "/privacy/", "permanent": true },
     { "source": "/terms/", "destination": "/privacy/", "permanent": true },
-    { "source": "/blue-earth/", "destination": "/", "permanent": false }
+    { "source": "/blue-earth/", "destination": "/", "permanent": false },
+    { "source": "/learn/", "destination": "/blog/", "permanent": true },
+    { "source": "/learn-reading/", "destination": "/blog/", "permanent": true },
+    { "source": "/brand-showcase/", "destination": "/brands-agencies/", "permanent": true }
   ]
 }
