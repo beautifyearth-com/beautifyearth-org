@@ -193,6 +193,10 @@
   .foot { max-width:1080px; margin:0 auto; padding:32px 20px; font-size:14px; color:var(--muted); display:flex; flex-wrap:wrap; gap:14px 28px; justify-content:space-between; align-items:center; }
   .footnav { display:flex; flex-wrap:wrap; gap:8px 22px; width:100%; padding-bottom:14px; border-bottom:1px solid var(--line); }
   .footnav a { font-weight:500; color:var(--ink); }
+  .footcols { display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:24px 28px; width:100%; padding-bottom:18px; border-bottom:1px solid var(--line); }
+  .footcol { display:flex; flex-direction:column; gap:8px; }
+  .footcol h4 { margin:0 0 2px; font-size:12px; text-transform:uppercase; letter-spacing:0.05em; color:var(--muted); }
+  .footcol a { font-weight:500; color:var(--ink); font-size:14px; }
   .foot a { color:var(--muted); text-decoration:none; }
   .foot a:hover { color:var(--accent); }
   .foot .social { display:flex; gap:18px; }
@@ -221,15 +225,50 @@
 </main>
 <footer>
   <div class="foot">
+    <div class="footcols">
+      <div class="footcol">
+        <h4>Hire an artist</h4>
+        <a href="https://art.beautifyearth.com/artists">Hire a mural artist</a>
+        <a href="https://art.beautifyearth.com/commercial-murals">Commercial murals for your business</a>
+        <a href="https://art.beautifyearth.com/graffiti-artists">Hire a graffiti artist</a>
+        <a href="https://art.beautifyearth.com/cities">Find artists in your city</a>
+        <a href="https://art.beautifyearth.com/murals">Public Art &amp; Mural Tour Map</a>
+      </div>
+      <div class="footcol">
+        <h4>Find mural artists near you</h4>
+        <a href="https://art.beautifyearth.com/cities/los-angeles">Mural artists in Los Angeles, CA</a>
+        <a href="https://art.beautifyearth.com/cities/new-york">Mural artists in New York, NY</a>
+        <a href="https://art.beautifyearth.com/cities/chicago">Mural artists in Chicago, IL</a>
+        <a href="https://art.beautifyearth.com/cities/dallas">Mural artists in Dallas, TX</a>
+        <a href="https://art.beautifyearth.com/cities/atlanta">Mural artists in Atlanta, GA</a>
+        <a href="https://art.beautifyearth.com/cities/austin">Mural artists in Austin, TX</a>
+        <a href="https://art.beautifyearth.com/cities/miami">Mural artists in Miami, FL</a>
+        <a href="https://art.beautifyearth.com/cities/denver">Mural artists in Denver, CO</a>
+      </div>
+      <div class="footcol">
+        <h4>Murals &amp; programs</h4>
+        <a href="/brands-agencies/">Murals for brands &amp; agencies</a>
+        <a href="https://beautifyearth.com/property-owners">Murals for property owners &amp; landlords</a>
+        <a href="/schools/">Murals for schools</a>
+        <a href="/cities-and-communities/">Murals for cities &amp; communities</a>
+        <a href="/artists/">Opportunities for Mural Artists</a>
+        <a href="https://art.beautifyearth.com/signup">Join as an artist</a>
+        <a href="https://art.beautifyearth.com/walls?viewMode=gallery">List your wall</a>
+        <a href="/how-it-works/">How It Works</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/nonprofit-donate/">Donate</a>
+      </div>
+      <div class="footcol">
+        <h4>Stories</h4>
+        <a href="/post/zappos-ten-core-value-mural-campaign/">Showcasing brand values through art</a>
+        <a href="/post/beautify-partners-with-estrella-jalisco-brighten-100-communities/">Community &amp; Cultural Murals</a>
+        <a href="/post/building-art-into-a-building-s-purpose/">Building art into a building&#39;s purpose</a>
+      </div>
+    </div>
     <nav class="footnav">
-      <a href="/schools/">Schools</a>
       <a href="/about/">About</a>
-      <a href="https://www.beautifyearth.com/contact-us">Contact</a>
+      <a href="https://www.beautifyearth.com/contact-us">Contact Us</a>
       <a href="/blog/">Blog</a>
-      <a href="/how-it-works/">How It Works</a>
-      <a href="/cities-and-communities/">Cities &amp; Communities</a>
-      <a href="/faq/">FAQ</a>
-      <a href="/nonprofit-donate/">Donate</a>
       <a href="/privacy/">Privacy</a>
       <a href="/terms/">Terms</a>
     </nav>
