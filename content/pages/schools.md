@@ -11,7 +11,7 @@ fullwidth: true
   <div class="wrap">
     <h1>Beautify Schools</h1>
     <p class="sub">Mural programs for schools that inspire connection and creative expression</p>
-    <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Support art in schools</a></p>
+    <p><a class="btn" href="https://art.beautifyearth.com/schools#sponsor">Support art in schools</a></p>
   </div>
 </section>
 
@@ -50,7 +50,7 @@ fullwidth: true
       <p>Murals provide a hands on approach for students to express their creativity, learn art technique, and become enriched through the influence of positive artistic and creative expression.</p>
       <p>We work with schools on both commissioned and sponsored mural projects depending on financial circumstances. We are also open to partnering on funding applications for long-term partnerships and programs. We are a certified vendor through LAUSD along with other schools in and around Los Angeles.</p>
       <p>We coordinate art development with local artists, paint days with students, and other programming depending on each school's vision and needs. Get in touch to see how we can bring more murals to your school.</p>
-      <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Paint my school</a></p>
+      <p><a class="btn" href="https://art.beautifyearth.com/schools#get-started">Paint my school</a></p>
     </div>
   </div>
 </div>
@@ -64,7 +64,7 @@ fullwidth: true
         <p>Arts education has either been diminished or all but extinguished in most areas due to budget constraints. While our mission to make art accessible to all can be a challenge, the generosity of individuals and corporate sponsors helps us bring more art to students.</p>
         <p>When schools have the interest but not the finances, we have been able to lean on civic minded individuals and corporate partners to step up and sponsor the resources needed for these beneficial mural painting projects.</p>
         <p>To connect sponsors with the students they support we often organize community paint days at the schools that local residents and employees can participate in.</p>
-        <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Sponsor a mural</a></p>
+        <p><a class="btn" href="https://art.beautifyearth.com/schools#sponsor">Sponsor a mural</a></p>
       </div>
     </div>
   </div>
@@ -75,13 +75,13 @@ fullwidth: true
   <div class="cards">
     <div class="card boxed">
       <h3>Beautify my school</h3>
-      <p>Could your school use some beautification or art experiences? Share your school name, contact information and lets talk about how we can begin the beautification process!</p>
-      <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Paint my school</a></p>
+      <p>Could your school use some beautification or art experiences? List your wall for free on beautifyearth.com — pick "School" as the property type — and we'll put it in front of sponsors and local artists.</p>
+      <p><a class="btn" href="https://art.beautifyearth.com/schools#get-started">Paint my school</a></p>
     </div>
     <div class="card boxed">
       <h3>Sponsor a school mural</h3>
       <p>Help us beautify the learning environments of our children! We can't do this alone, all help is welcome to enrich the lives of all students.</p>
-      <p><a class="btn" href="https://www.beautifyearth.com/contact-us">Sponsor a mural</a></p>
+      <p><a class="btn" href="https://art.beautifyearth.com/schools#sponsor">Sponsor a mural</a></p>
     </div>
     <div class="card boxed">
       <h3>Paint a mural at a school</h3>
