@@ -1,6 +1,6 @@
 ---
-title: "Brands & Agencies | Beautify"
-description: "Build brand equity and make lasting connections with your customers through the power of art while driving meaningful ROI for your business."
+title: "Mural Advertising Campaigns for Brands & Agencies"
+description: "Run a mural advertising campaign: rent a wall, hire a vetted artist, and let Beautify manage it end to end. Lexus saw an 80% lift in brand sentiment."
 originalUrl: "https://www.beautifyearth.org/brands-agencies"
 layout: page.njk
 permalink: "/brands-agencies/"
@@ -10,8 +10,8 @@ fullwidth: true
 <section class="hero" style="background-image:url('/images/display/706f21a6f9-55dc19_ae096ff0941e468589384b0fd3ca8f84_mv2.jpg')">
   <div class="wrap">
     <p class="eyebrow">PRODUCE A MURAL PROJECT</p>
-    <h1>Bring your vision to life</h1>
-    <p class="sub">We're here from concept to completion.</p>
+    <h1>Mural advertising campaigns for brands and agencies</h1>
+    <p class="sub">Rent the wall, hire the artist, tell the story. We're here from concept to completion.</p>
     <p class="sub small">"Now more than ever, people care about the values behind a brand. It's not about what you sell on a billboard, it's about what you stand for in a mural."</p>
     <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Get in touch</a></p>
   </div>
@@ -22,7 +22,7 @@ fullwidth: true
   <h2 class="centerhead">It's not about what you sell...<br>it's about what you stand for.</h2>
   <p class="lead">Product placement and service-based advertising are one way to connect with consumers, but now, more then ever, your customers care about your brand values. So, how about a better balance in your marketing strategy?</p>
   <p class="lead">Brand equity, respect, and ultimately, sales, come from shared values - especially with millennials. Want to connect locally, and share globally? Beautify communities, earn respect. Done.</p>
-  <p><a class="btn pink" href="https://calendly.com/moralbeautify/beautify-intro">Schedule a call</a></p>
+  <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Contact us</a></p>
 </div>
 
 <div class="hero short"><div class="wrap"><h2 style="color:#fff;margin:0">Learn How Murals Bring Your Campaign to Life</h2></div></div>
@@ -42,6 +42,26 @@ fullwidth: true
     </div>
     <img src="/images/display/d8ab6b0843-66e437_adb114bc973c4d599fe47d5cba49d1e0_mv2.jpg" alt="Lexus Beautify Earth mural campaign in Los Angeles">
   </div>
+</div>
+
+<div class="wrap section center">
+  <h2 class="centerhead">What a mural campaign costs</h2>
+  <p class="lead">Three parts, each priced on its own. The figures come from the campaigns we have run.</p>
+  <div class="cards">
+    <div class="card boxed">
+      <h3>Wall rental</h3>
+      <p>$1,000 to $50,000 a month, depending on the wall's size, visibility and traffic. Most campaigns run one to three months.</p>
+    </div>
+    <div class="card boxed">
+      <h3>Artist and production</h3>
+      <p>Muralists typically charge $10 to $50 per square foot, plus paint, lift and permits. Detail and height move the number.</p>
+    </div>
+    <div class="card boxed">
+      <h3>Management</h3>
+      <p>Beautify sources the wall, manages the artist, permits and production, and documents the finished work for your channels. Or run the project yourself on the platform.</p>
+    </div>
+  </div>
+  <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Get a quote</a></p>
 </div>
 
 <div class="band">
