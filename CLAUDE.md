@@ -12,6 +12,7 @@ Eleventy v3 static site. `content/pages/*.md` + `content/posts/*.md` (front-matt
 ## HARD CONSTRAINTS (SEO)
 
 1. **Never change a permalink, page title, or meta description** without being explicitly asked — they were carried over from Wix exactly and preserve rankings.
+   - Exception, agreed by Evan 2026-10-24: `/brands-agencies/` had its title and description rewritten for search intent (the Wix-era title drew about 4 impressions a month). Every other page keeps its Wix-era title and description.
 2. Keep `www.beautifyearth.org` as canonical host (matches Wix-era canonicals; base layout emits canonical + OG tags).
 3. Blog posts stay at `/post/<slug>/`. Pages stay at `/<slug>/`.
 4. Redirects in `vercel.json` mirror old Wix behavior (incl. `/property-owners` → beautifyearth.com) — don't remove. Sources use trailing slashes because Vercel normalizes URLs before matching redirect rules.
