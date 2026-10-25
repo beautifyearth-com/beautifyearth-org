@@ -20,14 +20,14 @@ fullwidth: true
   <p class="eyebrow">15+ YEARS OF CLIENTS</p>
   <p class="lead">Some of the brands, agencies, cities, universities and nonprofits that have run mural programs with Beautify Earth.</p>
   <div class="clientgrid" aria-label="Client logos">
-    <img src="/images/bab5b9023f-e1ec93_2d47236cbbaf4232a1787108a76436b7_mv2.png" alt="American Express" loading="lazy">
-    <img src="/images/cfacacf75b-e1ec93_0c677c7489a243afb1c0d8858ad28ed8_mv2.png" alt="Lexus" loading="lazy">
-    <img src="/images/71f9ad9161-e1ec93_7ea93686c09149a382440c68a50bd65c_mv2.png" alt="Target" loading="lazy">
+    <img src="/images/partners/american-express.png" alt="American Express" loading="lazy">
+    <img src="/images/partners/lexus.png" alt="Lexus" loading="lazy">
+    <img src="/images/partners/target.png" alt="Target" loading="lazy">
     <img src="/images/partners/anheuser-busch.png" alt="Anheuser-Busch" loading="lazy">
     <img src="/images/partners/hershey.png" alt="Hershey" loading="lazy">
     <img src="/images/partners/heineken.png" alt="Heineken" loading="lazy">
     <img src="/images/partners/zappos.png" alt="Zappos" loading="lazy">
-    <img src="/images/eff44428ec-e1ec93_5d161c2fb5ac43f598e5772465371216_mv2.png" alt="TOMS" loading="lazy">
+    <img src="/images/partners/toms.png" alt="TOMS" loading="lazy">
     <img src="/images/partners/blue-shield.png" alt="Blue Shield of California" loading="lazy">
     <img src="/images/partners/capitol-records.png" alt="Capitol Records" loading="lazy">
     <img src="/images/partners/sheraton.png" alt="Sheraton" loading="lazy">
@@ -70,7 +70,7 @@ fullwidth: true
   <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Contact us</a></p>
 </div>
 
-<div class="hero short"><div class="wrap"><h2 style="color:#fff;margin:0">Learn How Murals Bring Your Campaign to Life</h2></div></div>
+<div class="hero short"><div class="wrap"><h2 style="color:#fff;margin:0">How mural advertising campaigns work for brands</h2></div></div>
 
 <div class="wrap section">
   <h2 class="centerhead">ROI for Agencies &amp; Brands</h2>
@@ -99,11 +99,11 @@ fullwidth: true
     </div>
     <div class="card boxed">
       <h3>Artist and production</h3>
-      <p>Muralists typically charge $10 to $50 per square foot, plus paint, lift and permits. Detail and height move the number.</p>
+      <p>Muralists typically charge $10 to $50 per square foot, plus paint and lift. Detail and height move the number.</p>
     </div>
     <div class="card boxed">
       <h3>Management</h3>
-      <p>Beautify sources the wall, manages the artist, permits and production, and documents the finished work for your channels. Or run the project yourself on the platform.</p>
+      <p>Beautify sources the wall, manages the artist and the production, and documents the finished work for your channels. Or run the project yourself on the platform.</p>
     </div>
   </div>
   <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Get a quote</a></p>
@@ -116,20 +116,21 @@ fullwidth: true
       <div class="card boxed">
         <img class="seal" src="/images/8c09e9caf7-4d51d9_7ad9a6a0e2de43488da302eacf3b2f68_mv2.png" alt="Lexus">
         <p>Lexus &amp; Beautify Earth: Ornamental Crosswalk with Ruben Rojas</p>
-        <p><a class="btn" href="https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw">Watch on YouTube</a></p>
+        <iframe class="video" src="https://www.youtube-nocookie.com/embed/ahdQge78u4U" title="Lexus and Beautify Earth: ornamental crosswalk with Ruben Rojas" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="video" src="https://player.vimeo.com/video/313231910?dnt=1" title="Lexus mural campaign film" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <p><a class="btn" href="https://www.facebook.com/lexus/videos/lexusux/447009452556681/">Watch the Lexus UX film on Facebook</a></p>
       </div>
       <div class="card boxed">
         <img class="seal" src="/images/33ee44513a-4d51d9_26dce8bcd50344c1bcbbd04320786feb_mv2.png" alt="Sheraton">
         <p>Sheraton &amp; Beautify Earth present: The Art of Gathering</p>
-        <p><a class="btn" href="https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw">Watch on YouTube</a></p>
+        <iframe class="video" src="https://www.youtube-nocookie.com/embed/7TzZbDTdDIs" title="Sheraton and Beautify Earth: The Art of Gathering" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div class="card boxed">
         <img class="seal" src="/images/fc6b21f8e9-4d51d9_6292d29f98de4428a259b841053576c6_mv2.png" alt="Disney">
         <p>Alita "Manga Wall" at Anime Expo with Hollywood Matrimony</p>
-        <p><a class="btn" href="https://youtube.com/channel/UCYjz1FFe9MuyunPcL5770Kw">Watch on YouTube</a></p>
+        <iframe class="video" src="https://www.youtube-nocookie.com/embed/BEN39AmJWpI" title="Alita Manga Wall at Anime Expo with Hollywood Matrimony" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
-  </div>
 </div>
 
 <div class="wrap section center">
@@ -195,47 +196,48 @@ fullwidth: true
 </div>
 
 <div class="wrap section center">
-  <h2 class="centerhead">More Mural Campaign Partners</h2>
+  <h2 class="centerhead">Mural campaigns for the causes brands stand for</h2>
+  <p class="lead">A mural campaign can carry a cause as well as a brand. These are causes brands have run with Beautify Earth, from childhood mental health and sustainability to community and company values. Each one links to the story.</p>
   <div class="cards brandgrid">
     <a class="card boxed" href="/post/clarksdale-gets-some-cultural-capital-thanks-to-american-express/">
-      <img src="/images/bab5b9023f-e1ec93_2d47236cbbaf4232a1787108a76436b7_mv2.png" alt="American Express">
-      <p>Fiscal Literacy</p>
+      <img src="/images/partners/american-express.png" alt="American Express">
+      <p>Fiscal literacy with American Express</p>
     </a>
     <a class="card boxed" href="/post/blue-shield-s-mural-is-a-gift-to-its-new-community/">
       <img src="/images/partners/blue-shield.png" alt="Blue Shield of California">
-      <p>Childhood Mental Health</p>
+      <p>Childhood mental health with Blue Shield of California</p>
     </a>
     <a class="card boxed" href="/post/lexus-urban-crossover-brand-values-murals/">
-      <img src="/images/cfacacf75b-e1ec93_0c677c7489a243afb1c0d8858ad28ed8_mv2.png" alt="Lexus">
-      <p>Creativity &amp; Community Impact</p>
+      <img src="/images/partners/lexus.png" alt="Lexus">
+      <p>Creativity and community impact with Lexus</p>
     </a>
     <a class="card boxed" href="/post/estrella-jalisco-and-beautify-earth-team-up-to-honor-local-stars/">
       <img src="/images/partners/anheuser-busch.png" alt="Anheuser-Busch">
-      <p>Celebrating Community Leaders</p>
+      <p>Celebrating community leaders with Anheuser-Busch</p>
     </a>
     <a class="card boxed" href="/post/target-brings-murals-to-their-employees-as-well-as-customers/">
-      <img src="/images/71f9ad9161-e1ec93_7ea93686c09149a382440c68a50bd65c_mv2.png" alt="Target">
-      <p>Local Culture / Employee Integration</p>
+      <img src="/images/partners/target.png" alt="Target">
+      <p>Local culture and employees with Target</p>
     </a>
     <a class="card boxed" href="/post/capital-records-beautify-earth-my-morning-jacket-waterfall-mural-campaign/">
       <img src="/images/partners/capitol-records.png" alt="Capitol Records">
-      <p>Sustainability</p>
+      <p>Sustainability with Capitol Records</p>
     </a>
     <a class="card boxed" href="/post/zappos-ten-core-value-mural-campaign/">
       <img src="/images/partners/zappos.png" alt="Zappos">
-      <p>Company Core Values</p>
+      <p>Company core values with Zappos</p>
     </a>
     <a class="card boxed" href="/post/toms-taps-mural-company-in-campaign-to-end-gun-violence/">
-      <img src="/images/eff44428ec-e1ec93_5d161c2fb5ac43f598e5772465371216_mv2.png" alt="TOMS">
-      <p>Ending Gun Violence</p>
+      <img src="/images/partners/toms.png" alt="TOMS">
+      <p>Ending gun violence with TOMS</p>
     </a>
     <a class="card boxed" href="/post/heineken/">
       <img src="/images/partners/heineken.png" alt="Heineken">
-      <p>Local Community Empowerment</p>
+      <p>Community empowerment with Heineken</p>
     </a>
     <a class="card boxed" href="/post/sheraton-beautifies-belltown-seattle/">
       <img src="/images/partners/sheraton.png" alt="Sheraton">
-      <p>Bringing People Together</p>
+      <p>Bringing people together with Sheraton</p>
     </a>
   </div>
 </div>
