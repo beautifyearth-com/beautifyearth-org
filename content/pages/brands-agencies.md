@@ -36,34 +36,30 @@ fullwidth: true
     <img src="/images/partners/city-of-los-angeles.jpg" alt="City of Los Angeles" loading="lazy">
     <img src="/images/partners/city-of-santa-monica.png" alt="City of Santa Monica" loading="lazy">
     <img src="/images/partners/blue-robotics.png" alt="Blue Robotics" loading="lazy">
+    <img src="/images/partners/starbucks.svg" alt="Starbucks" loading="lazy">
+    <img src="/images/partners/att.svg" alt="AT&T" loading="lazy">
+    <img src="/images/partners/disney.svg" alt="The Walt Disney Company" loading="lazy">
+    <img src="/images/partners/cadillac.svg" alt="Cadillac" loading="lazy">
+    <img src="/images/partners/walgreens.svg" alt="Walgreens" loading="lazy">
+    <img src="/images/partners/reebok.svg" alt="Reebok" loading="lazy">
+    <img src="/images/partners/lululemon.svg" alt="lululemon" loading="lazy">
+    <img src="/images/partners/amazon-music.svg" alt="Amazon Music" loading="lazy">
+    <img src="/images/partners/cbs.svg" alt="CBS" loading="lazy">
+    <img src="/images/partners/20th-century-studios.svg" alt="20th Century Studios" loading="lazy">
+    <img src="/images/partners/cole-haan.svg" alt="Cole Haan" loading="lazy">
+    <img src="/images/partners/harbor-freight.png" alt="Harbor Freight Tools" loading="lazy">
+    <img src="/images/partners/participant-media.png" alt="Participant Media" loading="lazy">
+    <img src="/images/partners/fifth-wall.png" alt="Fifth Wall" loading="lazy">
+    <img src="/images/partners/ut-austin.svg" alt="The University of Texas at Austin" loading="lazy">
+    <img src="/images/partners/air-national-guard.svg" alt="US Air National Guard" loading="lazy">
+    <img src="/images/partners/sightsavers.svg" alt="Sightsavers" loading="lazy">
+    <img src="/images/partners/digdeep.png" alt="DigDeep" loading="lazy">
+    <img src="/images/partners/the-people-concern.png" alt="The People Concern" loading="lazy">
+    <img src="/images/partners/indigenous-media.png" alt="Indigenous Media" loading="lazy">
+    <img src="/images/partners/birdy-grey.svg" alt="Birdy Grey" loading="lazy">
+    <img src="/images/partners/stray-angel-films.png" alt="Stray Angel Films" loading="lazy">
   </div>
-  <ul class="clientnames" aria-label="More clients">
-    <li>Cadillac</li>
-    <li>Amazon Music</li>
-    <li>Cole Haan</li>
-    <li>Samsara</li>
-    <li>Walgreens</li>
-    <li>Twentieth Century Fox</li>
-    <li>Disney</li>
-    <li>CBS</li>
-    <li>Participant Media</li>
-    <li>Fifth Wall</li>
-    <li>Birdy Grey</li>
-    <li>DigDeep</li>
-    <li>Sightsavers</li>
-    <li>UT Austin</li>
-    <li>Harbor Freight</li>
-    <li>US Air National Guard</li>
-    <li>Avocado Mattress</li>
-    <li>Indigenous Media</li>
-    <li>Stray Angel Films</li>
-    <li>Plan Check</li>
-    <li>The People Concern</li>
-    <li>Reebok</li>
-    <li>lululemon</li>
-    <li>Starbucks</li>
-    <li>AT&amp;T</li>
-  </ul>
+  <p class="lead" style="margin-top:18px">Also Avocado Mattress and Plan Check.</p>
   <h2 class="centerhead">It's not about what you sell...<br>it's about what you stand for.</h2>
   <p class="lead">Product placement and service-based advertising are one way to connect with consumers, but now, more then ever, your customers care about your brand values. So, how about a better balance in your marketing strategy?</p>
   <p class="lead">Brand equity, respect, and ultimately, sales, come from shared values - especially with millennials. Want to connect locally, and share globally? Beautify communities, earn respect. Done.</p>
