@@ -54,11 +54,10 @@ fullwidth: true
     <img src="/images/partners/sightsavers.svg" alt="Sightsavers" loading="lazy">
     <img src="/images/partners/digdeep.png" alt="DigDeep" loading="lazy">
     <img src="/images/partners/the-people-concern.png" alt="The People Concern" loading="lazy">
-    <img src="/images/partners/indigenous-media.png" alt="Indigenous Media" loading="lazy">
     <img src="/images/partners/birdy-grey.svg" alt="Birdy Grey" loading="lazy">
     <img src="/images/partners/stray-angel-films.png" alt="Stray Angel Films" loading="lazy">
   </div>
-  <p class="lead" style="margin-top:18px">Also Avocado Mattress and Plan Check.</p>
+
   <h2 class="centerhead">It's not about what you sell...<br>it's about what you stand for.</h2>
   <p class="lead">Product placement and service-based advertising are one way to connect with consumers, but now, more then ever, your customers care about your brand values. So, how about a better balance in your marketing strategy?</p>
   <p class="lead">Brand equity, respect, and ultimately, sales, come from shared values - especially with millennials. Want to connect locally, and share globally? Beautify communities, earn respect. Done.</p>
