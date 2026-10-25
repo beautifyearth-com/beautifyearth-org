@@ -32,7 +32,7 @@ fullwidth: true
     <img src="/images/partners/sheraton.png" alt="Sheraton" loading="lazy">
     <img src="/images/partners/no-kid-hungry.png" alt="No Kid Hungry" loading="lazy">
     <img src="/images/partners/ucla.png" alt="UCLA" loading="lazy">
-    <img src="/images/partners/city-of-los-angeles.jpg" alt="City of Los Angeles" loading="lazy">
+    <img src="/images/partners/city-of-los-angeles.svg" alt="City of Los Angeles" loading="lazy">
     <img src="/images/partners/city-of-santa-monica.png" alt="City of Santa Monica" loading="lazy">
     <img src="/images/partners/blue-robotics.png" alt="Blue Robotics" loading="lazy">
     <img src="/images/partners/starbucks.svg" alt="Starbucks" loading="lazy">
