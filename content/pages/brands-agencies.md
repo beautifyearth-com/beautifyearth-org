@@ -50,12 +50,12 @@ fullwidth: true
     <img src="/images/partners/participant-media.png" alt="Participant Media" loading="lazy">
     <img src="/images/partners/fifth-wall.png" alt="Fifth Wall" loading="lazy">
     <img src="/images/partners/ut-austin.svg" alt="The University of Texas at Austin" loading="lazy">
-    <img src="/images/partners/air-national-guard.svg" alt="US Air National Guard" loading="lazy">
+    <img src="/images/partners/air-national-guard-lockup.svg" alt="US Air National Guard" loading="lazy">
     <img src="/images/partners/sightsavers.svg" alt="Sightsavers" loading="lazy">
     <img src="/images/partners/digdeep.png" alt="DigDeep" loading="lazy">
     <img src="/images/partners/the-people-concern.png" alt="The People Concern" loading="lazy">
     <img src="/images/partners/birdy-grey.svg" alt="Birdy Grey" loading="lazy">
-    <img src="/images/partners/stray-angel-films.png" alt="Stray Angel Films" loading="lazy">
+    <img src="/images/partners/stray-angel-films-lockup.svg" alt="Stray Angel Films" loading="lazy">
   </div>
 
   <h2 class="centerhead">It's not about what you sell...<br>it's about what you stand for.</h2>
@@ -126,7 +126,7 @@ fullwidth: true
 </div>
 
 <div class="wrap section center" id="walls-for-rent">
-  <h2 class="centerhead">Mural walls for rent in Santa Monica, Brooklyn, San Francisco and Hollywood</h2>
+  <h2 class="centerhead">Mural walls for rent across the country</h2>
   <img src="/images/display/55628c785e-a319bc_546ad77906a74bd487f733d5cf5f06b4_mv2.jpg" alt="Blank street-facing commercial wall available for a mural advertising campaign in Santa Monica, California" style="max-width:min(640px, 100%)">
   <p class="lead">A mural wall is a street-facing exterior wall whose owner has listed it for a painted campaign. Beautify lists more than 2,000 of them in 1,000+ cities, including <a href="https://art.beautifyearth.com/cities/santa-monica">Santa Monica</a>, <a href="https://art.beautifyearth.com/cities/brooklyn">Brooklyn</a>, <a href="https://art.beautifyearth.com/cities/san-francisco">San Francisco</a> and <a href="https://art.beautifyearth.com/cities/hollywood">Hollywood</a>, each with photos, dimensions and location. Rentals run $1,000 to $50,000 a month depending on the wall, usually for one to three months.</p>
   <div class="cards">
