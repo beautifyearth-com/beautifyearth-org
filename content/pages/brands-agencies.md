@@ -9,7 +9,6 @@ fullwidth: true
 
 <section class="hero" style="background-image:url('/images/display/706f21a6f9-55dc19_ae096ff0941e468589384b0fd3ca8f84_mv2.jpg')">
   <div class="wrap">
-    <p class="eyebrow">PRODUCE A MURAL PROJECT</p>
     <h1>Mural advertising campaigns for brands and agencies</h1>
     <p class="sub">Rent the wall, hire the artist, tell the story. We're here from concept to completion.</p>
     <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Get in touch</a></p>
@@ -113,8 +112,6 @@ fullwidth: true
         <img class="seal" src="/images/8c09e9caf7-4d51d9_7ad9a6a0e2de43488da302eacf3b2f68_mv2.png" alt="Lexus">
         <p>Lexus &amp; Beautify Earth: Ornamental Crosswalk with Ruben Rojas</p>
         <iframe class="video" src="https://www.youtube-nocookie.com/embed/ahdQge78u4U" title="Lexus and Beautify Earth: ornamental crosswalk with Ruben Rojas" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
-        <iframe class="video" src="https://player.vimeo.com/video/313231910?dnt=1" title="Lexus mural campaign film" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>
-        <p><a class="btn" href="https://www.facebook.com/lexus/videos/lexusux/447009452556681/">Watch the Lexus UX film on Facebook</a></p>
       </div>
       <div class="card boxed">
         <img class="seal" src="/images/33ee44513a-4d51d9_26dce8bcd50344c1bcbbd04320786feb_mv2.png" alt="Sheraton">
@@ -129,31 +126,56 @@ fullwidth: true
     </div>
 </div>
 
-<div class="wrap section center">
-  <h2 class="centerhead">Walls looking for murals</h2>
-  <img src="/images/display/55628c785e-a319bc_546ad77906a74bd487f733d5cf5f06b4_mv2.jpg" alt="Available wall in Santa Monica, CA" style="max-width:640px">
-  <p class="lead">Santa Monica · Brooklyn · San Francisco · Hollywood — and hundreds more on the platform.</p>
-  <p><a class="btn pink" href="https://art.beautifyearth.com/walls">Find Your Canvas</a></p>
+<div class="wrap section center" id="walls-for-rent">
+  <h2 class="centerhead">Mural walls for rent in Santa Monica, Brooklyn, San Francisco and Hollywood</h2>
+  <img src="/images/display/55628c785e-a319bc_546ad77906a74bd487f733d5cf5f06b4_mv2.jpg" alt="Blank street-facing commercial wall available for a mural advertising campaign in Santa Monica, California" style="max-width:min(640px, 100%)">
+  <p class="lead">A mural wall is a street-facing exterior wall whose owner has listed it for a painted campaign. Beautify lists more than 2,000 of them in 1,000+ cities, including <a href="https://art.beautifyearth.com/cities/santa-monica">Santa Monica</a>, <a href="https://art.beautifyearth.com/cities/brooklyn">Brooklyn</a>, <a href="https://art.beautifyearth.com/cities/san-francisco">San Francisco</a> and <a href="https://art.beautifyearth.com/cities/hollywood">Hollywood</a>, each with photos, dimensions and location. Rentals run $1,000 to $50,000 a month depending on the wall, usually for one to three months.</p>
+  <div class="cards">
+    <div class="card boxed">
+      <h3>How long does a mural campaign run?</h3>
+      <p>Most sponsored murals stay up one to three months. The agreement with the wall owner sets the dates and what happens to the wall afterwards.</p>
+    </div>
+    <div class="card boxed">
+      <h3>What does a wall rental include?</h3>
+      <p>The wall for the agreed dates and the owner's permission to paint. Beautify handles the booking, the artist and the production, or you run the project yourself on the platform.</p>
+    </div>
+    <div class="card boxed">
+      <h3>How do I book a wall for a mural?</h3>
+      <p>Browse the walls, pick the ones that fit your campaign, and contact us or start a project on the platform. We confirm availability with the owner and quote the rental.</p>
+    </div>
+  </div>
+  <p><a class="btn pink" href="https://art.beautifyearth.com/walls">Browse 2,000+ walls for rent</a></p>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "How long does a mural campaign run?", "acceptedAnswer": { "@type": "Answer", "text": "Most sponsored murals stay up one to three months. The agreement with the wall owner sets the dates and what happens to the wall afterwards." } },
+      { "@type": "Question", "name": "What does a wall rental include?", "acceptedAnswer": { "@type": "Answer", "text": "The wall for the agreed dates and the owner's permission to paint. Beautify handles the booking, the artist and the production, or you run the project yourself on the platform." } },
+      { "@type": "Question", "name": "How do I book a wall for a mural?", "acceptedAnswer": { "@type": "Answer", "text": "Browse the walls, pick the ones that fit your campaign, and contact us or start a project on the platform. We confirm availability with the owner and quote the rental." } }
+    ]
+  }
+  </script>
 </div>
 
 <div class="wrap section center">
   <h2 class="centerhead">Artists are ready to bring your campaigns to life</h2>
   <div class="cards four">
     <div class="card">
-      <a href="https://art.beautifyearth.com/artists"><img src="/images/3bfe027fda-1d9_b4999a0f4d344e6eb99178c98712b21a_mv2_d_2120_1562_s_2.jpg" alt="Line-art mural by Allison Kunath"></a>
-      <h3><a href="https://art.beautifyearth.com/artists">Allison Kunath</a></h3>
+      <a href="https://art.beautifyearth.com/artists/allisonkunath"><img src="/images/3bfe027fda-1d9_b4999a0f4d344e6eb99178c98712b21a_mv2_d_2120_1562_s_2.jpg" alt="Line-art mural by Allison Kunath"></a>
+      <h3><a href="https://art.beautifyearth.com/artists/allisonkunath">Allison Kunath</a></h3>
     </div>
     <div class="card">
-      <a href="https://art.beautifyearth.com/artists"><img src="/images/display/32cf782763-e1ec93_38d7cf44c4e1468cb20924950f7de051_mv2.jpg" alt="Portrait mural by David Puck"></a>
-      <h3><a href="https://art.beautifyearth.com/artists">David Puck</a></h3>
+      <a href="https://art.beautifyearth.com/artists/davidpuckartist"><img src="/images/display/32cf782763-e1ec93_38d7cf44c4e1468cb20924950f7de051_mv2.jpg" alt="Portrait mural by David Puck"></a>
+      <h3><a href="https://art.beautifyearth.com/artists/davidpuckartist">David Puck</a></h3>
     </div>
     <div class="card">
-      <a href="https://art.beautifyearth.com/artists"><img src="/images/eb40108f03-a319bc_146609c4a8c4447e8a0cda0e5e7c0dab_mv2.jpeg" alt="Love hearts mural by Gino Burman-Loffredo"></a>
-      <h3><a href="https://art.beautifyearth.com/artists">Gino Burman-Loffredo</a></h3>
+      <a href="https://art.beautifyearth.com/artists/ginoflo"><img src="/images/eb40108f03-a319bc_146609c4a8c4447e8a0cda0e5e7c0dab_mv2.jpeg" alt="Love hearts mural by Gino Burman-Loffredo"></a>
+      <h3><a href="https://art.beautifyearth.com/artists/ginoflo">Gino Burman-Loffredo</a></h3>
     </div>
     <div class="card">
-      <a href="https://art.beautifyearth.com/artists"><img src="/images/display/93d4897126-nsplsh_614768557858616d53584d_mv2_d_4032_3024_s_4_2.jpg" alt="Layered faces mural by John Park"></a>
-      <h3><a href="https://art.beautifyearth.com/artists">John Park</a></h3>
+      <a href="https://art.beautifyearth.com/artists/johnpark"><img src="/images/display/93d4897126-nsplsh_614768557858616d53584d_mv2_d_4032_3024_s_4_2.jpg" alt="Layered faces mural by John Park"></a>
+      <h3><a href="https://art.beautifyearth.com/artists/johnpark">John Park</a></h3>
     </div>
   </div>
   <p><a class="btn pink" href="https://art.beautifyearth.com/artists">Hire an Artist</a></p>
