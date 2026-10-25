@@ -12,13 +12,58 @@ fullwidth: true
     <p class="eyebrow">PRODUCE A MURAL PROJECT</p>
     <h1>Mural advertising campaigns for brands and agencies</h1>
     <p class="sub">Rent the wall, hire the artist, tell the story. We're here from concept to completion.</p>
-    <p class="sub small">"Now more than ever, people care about the values behind a brand. It's not about what you sell on a billboard, it's about what you stand for in a mural."</p>
     <p><a class="btn pink" href="https://www.beautifyearth.com/contact-us">Get in touch</a></p>
   </div>
 </section>
 
 <div class="wrap section center">
-  <img class="logos" src="/images/340809df06-4d51d9_a88c9a4612bd436b90d07b527a3902eb_mv2.png" alt="Brand partners: CBS, lululemon, American Express and more">
+  <p class="eyebrow">15+ YEARS OF CLIENTS</p>
+  <p class="lead">Some of the brands, agencies, cities, universities and nonprofits that have run mural programs with Beautify Earth.</p>
+  <div class="clientgrid" aria-label="Client logos">
+    <img src="/images/bab5b9023f-e1ec93_2d47236cbbaf4232a1787108a76436b7_mv2.png" alt="American Express" loading="lazy">
+    <img src="/images/cfacacf75b-e1ec93_0c677c7489a243afb1c0d8858ad28ed8_mv2.png" alt="Lexus" loading="lazy">
+    <img src="/images/71f9ad9161-e1ec93_7ea93686c09149a382440c68a50bd65c_mv2.png" alt="Target" loading="lazy">
+    <img src="/images/b397479d77-e1ec93_3b2bcffd62944c22be33677e066eca4c_mv2.png" alt="Anheuser-Busch" loading="lazy">
+    <img src="/images/partners/hershey.png" alt="Hershey" loading="lazy">
+    <img src="/images/bddf1ac62f-e1ec93_ccbf22f71a4e4453b26abb6090595450_mv2.png" alt="Heineken" loading="lazy">
+    <img src="/images/7ebbf02b9a-e1ec93_99c73afb00d74a63baedc46d755538e0_mv2.png" alt="Zappos" loading="lazy">
+    <img src="/images/eff44428ec-e1ec93_5d161c2fb5ac43f598e5772465371216_mv2.png" alt="TOMS" loading="lazy">
+    <img src="/images/ca38f42d40-e1ec93_2c5e8ace26ca4e1d828c54d76550cb52_mv2.png" alt="Blue Shield of California" loading="lazy">
+    <img src="/images/278d70aba8-e1ec93_7b62b8d73b4c403ea3494241abf7feef_mv2.png" alt="Capitol Records" loading="lazy">
+    <img src="/images/8158003098-e1ec93_1e992c57eed14e4394c456a1a884857d_mv2.png" alt="Sheraton" loading="lazy">
+    <img src="/images/partners/no-kid-hungry.png" alt="No Kid Hungry" loading="lazy">
+    <img src="/images/partners/ucla.png" alt="UCLA" loading="lazy">
+    <img src="/images/partners/city-of-los-angeles.jpg" alt="City of Los Angeles" loading="lazy">
+    <img src="/images/partners/city-of-santa-monica.png" alt="City of Santa Monica" loading="lazy">
+    <img src="/images/partners/blue-robotics.png" alt="Blue Robotics" loading="lazy">
+  </div>
+  <ul class="clientnames" aria-label="More clients">
+    <li>Cadillac</li>
+    <li>Amazon Music</li>
+    <li>Cole Haan</li>
+    <li>Samsara</li>
+    <li>Walgreens</li>
+    <li>Twentieth Century Fox</li>
+    <li>Disney</li>
+    <li>CBS</li>
+    <li>Participant Media</li>
+    <li>Fifth Wall</li>
+    <li>Birdy Grey</li>
+    <li>DigDeep</li>
+    <li>Sightsavers</li>
+    <li>UT Austin</li>
+    <li>Harbor Freight</li>
+    <li>US Air National Guard</li>
+    <li>Avocado Mattress</li>
+    <li>Indigenous Media</li>
+    <li>Stray Angel Films</li>
+    <li>Plan Check</li>
+    <li>The People Concern</li>
+    <li>Reebok</li>
+    <li>lululemon</li>
+    <li>Starbucks</li>
+    <li>AT&amp;T</li>
+  </ul>
   <h2 class="centerhead">It's not about what you sell...<br>it's about what you stand for.</h2>
   <p class="lead">Product placement and service-based advertising are one way to connect with consumers, but now, more then ever, your customers care about your brand values. So, how about a better balance in your marketing strategy?</p>
   <p class="lead">Brand equity, respect, and ultimately, sales, come from shared values - especially with millennials. Want to connect locally, and share globally? Beautify communities, earn respect. Done.</p>
