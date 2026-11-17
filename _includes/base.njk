@@ -9,6 +9,15 @@
 <meta property="og:title" content="{{ title }}">
 {% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
 <meta property="og:url" content="https://www.beautifyearth.org{{ page.url }}">
+<!-- Google Analytics 4: property "beautifyearth.org" (376380879). The Wix
+     site carried this tag; it was lost in the move to Vercel on 2026-07-31. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NWL5RY1TBV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-NWL5RY1TBV');
+</script>
 <style>
   :root { --ink:#181a1d; --accent:#1b7fa8; --accent-dark:#14607f; --green:#2ec98c; --muted:#6b7075; --line:#e7eaec; --wash:#f6f9fa; }
   * { box-sizing: border-box; }
